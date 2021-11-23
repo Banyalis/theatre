@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "url": "/people/orchestra/conductors",
+      "title": "Дирижеры"
+    },
+    {
+      "url": "/people/orchestra/invited",
+      "title": "Приглашенные дирижеры"
+    },
+    {
+      "url": "/people/orchestra/artists",
+      "title": "Артисты"
+    },
+    {
+      "url": "/people/orchestra/stage",
+      "title": "Сценический оркестр"
+    },
+    {
+      "url": "/people/orchestra/staff",
+      "title": "Персонал"
+    },
+    {
+      "url": "/people/orchestra/chamber",
+      "title": "Камерная сцена"
+    }
+  ]
+}

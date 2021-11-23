@@ -1,0 +1,643 @@
+{
+  "id": 1,
+  "intro": {
+    "type": "Премьера",
+    "age": "12+",
+    "title": "Тоска",
+    "author": "Джакомо Пуччини",
+    "image": "/images/performances/Tosca.png",
+    "image2x": "/images/performances/Tosca.png"
+  },
+  "detail": {
+    "about": {
+      "title": "О спектакле",
+      "text": "В 1889 году Пуччини впервые увидел пьесу французского драматурга Викторьена Сарду «Тоска» с великой Сарой Бернар в заглавной роли. Вскоре композитор написал своему издателю Джулио Рикорди: «Думаю о „Тоске“! Умоляю вас проделать все необходимые формальности, чтобы получить разрешение Сарду раньше, чем вы оставите эту идею, что очень огорчило бы меня, потому что именно в „Тоске“ я вижу оперу для себя — не чрезмерных размеров, не пышный спектакль; это не тот сюжет, который мог бы дать место привычному музыкальному излишеству». Одновременно драмой интересовались Франкетти и Верди, но благодаря усилиям Рикорди, право на написание оперы получил Пуччини. Переговоры с Сарду и работа над либретто растянулась на несколько лет, и к сочинению музыки композитор приступил лишь в 1898 году. Премьера состоялась 14 января 1900 года в римском Театре Костанци.",
+      "hint": "В Большом театре «Тоска» ставилась пять раз"
+    },
+    "directors": [
+      {
+        "roles": [
+          {
+            "title": "Дирижер-постановщик",
+            "members": [
+              {
+                "image": "/images/performances/director-1.jpeg",
+                "image2x": "/images/performances/director-1.jpeg",
+                "name": "Даниэле Каллегари"
+              }
+            ]
+          },
+          {
+            "title": "Режиссер-постановщик",
+            "members": [
+              {
+                "image": "/images/performances/director-2.jpeg",
+                "image2x": "/images/performances/director-2.jpeg",
+                "name": "Стефано Пода"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Главный хормейстер",
+            "members": [
+              {
+                "image": "/images/performances/director-3.jpeg",
+                "image2x": "/images/performances/director-3.jpeg",
+                "name": "Валерий Борисов"
+              }
+            ]
+          },
+          {
+            "title": "Ассистент режиссера-постановщика",
+            "members": [
+              {
+                "image": "/images/performances/director-4.jpeg",
+                "image2x": "/images/performances/director-4.jpeg",
+                "name": "Виничио Кели"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "information": [
+      {
+        "type": "scene",
+        "scene": "historical",
+        "title": "Историческая",
+        "button": {
+          "title": "Панорама зала",
+          "link": "https://artsandculture.google.com/streetview/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE-%D1%82%D0%B5%D0%B0%D1%82%D1%80%D0%B0/uQElUd0jgV2jeg?hl=ru&sv_h=343.29996560982244&sv_p=0.605207137555368&sv_pid=VSPchmG6Wvl-iKEwIDK1HA&sv_z=0.3758120518244181&sv_lid=16955738186725308799&sv_lng=37.61872004780949&sv_lat=55.76007699152807"
+        }
+      },
+      {
+        "type": "time",
+        "title": "2 часа 45 минут",
+        "time": [
+          {
+            "title": "Действие I",
+            "duration": "70 мин"
+          },
+          {
+            "title": "Действие II",
+            "duration": "65 мин"
+          },
+          {
+            "title": "Антракт I",
+            "duration": "65 мин"
+          },
+          {
+            "title": "Действие III",
+            "duration": "20 мин"
+          },
+          {
+            "title": "Антракт II",
+            "duration": "65 мин"
+          },
+          {
+            "title": "Действие IV",
+            "duration": "65 мин"
+          }
+        ]
+      },
+      {
+        "type": "language",
+        "title": "Итальянский",
+        "text": "Исполняется на итальянском языке с русскими супратитрами."
+      }
+    ],
+    "sponsors": [
+      {
+        "type": "images",
+        "title": "Официальный спонсор балета",
+        "list": [
+          {
+            "image": "/images/performances/logo-4.png",
+            "image2x": "/images/performances/logo-4@2x.png"
+          },
+          {
+            "image": "/images/performances/logo-5.png",
+            "image2x": "/images/performances/logo-5@2x.png"
+          }
+        ]
+      },
+      {
+        "type": "images",
+        "title": "Официальный партнер премьеры",
+        "list": [
+          {
+            "image": "/images/performances/logo-6.png",
+            "image2x": "/images/performances/logo-6@2x.png"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "При поддержке",
+        "list": [
+          {
+            "text": "А.Л. Костина"
+          },
+          {
+            "text": "В.Г Иванова"
+          }
+        ]
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "image": "/images/performances/gallery-1.jpeg",
+      "image2x": "/images/performances/gallery-1.jpeg",
+      "title": "Каварадосси — Виталий Ревякин. Тоска — Елена Разгуляева.",
+      "text": "Фото Марины Михайловой."
+    },
+    {
+      "image": "/images/performances/gallery-2.jpeg",
+      "image2x": "/images/performances/gallery-2.jpeg",
+      "title": "Тоска — Елена Разгуляева.",
+      "text": "Фото Марины Михайловой."
+    },
+    {
+      "image": "/images/performances/gallery-4.jpeg",
+      "image2x": "/images/performances/gallery-4.jpeg",
+      "title": "Тоска — Елена Разгуляева. Каварадосси — Виталий Ревякин.",
+      "text": "Фото Марины Михайловой."
+    },
+    {
+      "image": "/images/performances/gallery-3.jpeg",
+      "image2x": "/images/performances/gallery-3.jpeg",
+      "title": "Тоска — Елена Разгуляева. Каварадосси — Виталий Ревякин.",
+      "text": "Фото Марины Михайловой."
+    }
+  ],
+  "team": [
+    {
+      "date": "5 октября",
+      "day": "Понедельник, 19:00",
+      "actors": [
+        {
+          "image": "/images/performances/artist-2.jpeg",
+          "image2x": "/images/performances/artist-2.jpeg",
+          "role": "Флория Тоска",
+          "name": "Динара Алиева"
+        },
+        {
+          "image": "/images/performances/artist-11.jpeg",
+          "image2x": "/images/performances/artist-11.jpeg",
+          "role": "Марио Каварадосси",
+          "name": "Массимо Джордано"
+        },
+        {
+          "image": "/images/performances/artist-12.jpeg",
+          "image2x": "/images/performances/artist-12.jpeg",
+          "role": "Барон Скарпиа",
+          "name": "Эльчин Азизов"
+        },
+        {
+          "image": "/images/performances/artist-13.jpeg",
+          "image2x": "/images/performances/artist-13.jpeg",
+          "role": "Чезаре Анджелотти",
+          "name": "Владимир Байков"
+        }
+      ],
+      "participants": [
+        {
+          "roles": [
+            {
+              "title": "Флория Тоска:",
+              "members": [
+                {
+                  "image": "/images/performances/artist-2.jpeg",
+                  "image2x": "/images/performances/artist-2.jpeg",
+                  "name": "Динара Алиева"
+                },
+                {
+                  "image": "/images/performances/artist-3.jpeg",
+                  "image2x": "/images/performances/artist-3.jpeg",
+                  "name": "Лианна Арутюнян"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Марио Каварадосси:",
+              "members": [
+                {
+                  "image": "/images/performances/artist-11.jpeg",
+                  "image2x": "/images/performances/artist-11.jpeg",
+                  "name": "Массимо Джордано"
+                },
+                {
+                  "image": "/images/performances/artist-12.jpeg",
+                  "image2x": "/images/performances/artist-12.jpeg",
+                  "name": "Олег Долгов"
+                },
+                {
+                  "image": "/images/performances/artist-14.jpeg",
+                  "image2x": "/images/performances/artist-14.jpeg",
+                  "name": "Азер Зада"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Барон Скарпиа:",
+              "members": [
+                {
+                  "image": "/images/performances/director-3.jpeg",
+                  "image2x": "/images/performances/director-3.jpeg",
+                  "name": "Эльчин Азизов"
+                },
+                {
+                  "image": "/images/performances/director-2.jpeg",
+                  "image2x": "/images/performances/director-2.jpeg",
+                  "name": "Габриэле Вивиани"
+                },
+                {
+                  "image": "/images/performances/director-1.jpeg",
+                  "image2x": "/images/performances/director-1.jpeg",
+                  "name": "Владимир Стоянов"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Чезаре Анджелотти",
+              "members": [
+                {
+                  "image": "/images/performances/artist-13.jpeg",
+                  "image2x": "/images/performances/artist-13.jpeg",
+                  "name": "Владимир Байков"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Ризничий:",
+              "members": [
+                {
+                  "image": "/images/performances/artist-15.jpeg",
+                  "image2x": "/images/performances/artist-15.jpeg",
+                  "name": "Николай Казанский"
+                },
+                {
+                  "image": "/images/performances/artist-16.jpeg",
+                  "image2x": "/images/performances/artist-16.jpeg",
+                  "name": "Алексей Прокопьев"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Сполетта:",
+              "members": [
+                {
+                  "image": "/images/performances/artist-17.jpeg",
+                  "image2x": "/images/performances/artist-17.jpeg",
+                  "name": "Иван Максимейко"
+                },
+                {
+                  "image": "/images/performances/artist-18.jpeg",
+                  "image2x": "/images/performances/artist-18.jpeg",
+                  "name": "Илья Селиванов"
+                },
+                {
+                  "image": "/images/performances/artist-19.jpeg",
+                  "image2x": "/images/performances/artist-19.jpeg",
+                  "name": "Александр Чернов"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Шарроне",
+              "members": [
+                {
+                  "image": "/images/performances/artist-20.jpeg",
+                  "image2x": "/images/performances/artist-20.jpeg",
+                  "name": "Александр Бородин"
+                },
+                {
+                  "image": "/images/performances/artist-21.jpeg",
+                  "image2x": "/images/performances/artist-21.jpeg",
+                  "name": "Александр Колесников"
+                },
+                {
+                  "image": "/images/performances/artist-22.jpeg",
+                  "image2x": "/images/performances/artist-22.jpeg",
+                  "name": "Владимир Комович"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "6 октября",
+      "day": "Вторник, 19:00",
+      "actors": [
+        {
+          "image": "/images/performances/artist-3.jpeg",
+          "image2x": "/images/performances/artist-3.jpeg",
+          "role": "Флория Тоска",
+          "name": "Лианна Арутюнян"
+        },
+        {
+          "image": "/images/performances/artist-15.jpeg",
+          "image2x": "/images/performances/artist-15.jpeg",
+          "role": "Ризничий",
+          "name": "Николай Казанский"
+        },
+        {
+          "image": "/images/performances/artist-17.jpeg",
+          "image2x": "/images/performances/artist-17.jpeg",
+          "role": "Сполетта",
+          "name": "Иван Максимейко"
+        }
+      ]
+    },
+    {
+      "date": "7 октября",
+      "day": "Среда, 19:00"
+    }
+  ],
+  "all": {
+    "participants": [
+      {
+        "roles": [
+          {
+            "title": "Флория Тоска:",
+            "members": [
+              {
+                "image": "/images/performances/artist-2.jpeg",
+                "image2x": "/images/performances/artist-2.jpeg",
+                "name": "Динара Алиева"
+              },
+              {
+                "image": "/images/performances/artist-3.jpeg",
+                "image2x": "/images/performances/artist-3.jpeg",
+                "name": "Лианна Арутюнян"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Марио Каварадосси:",
+            "members": [
+              {
+                "image": "/images/performances/artist-11.jpeg",
+                "image2x": "/images/performances/artist-11.jpeg",
+                "name": "Массимо Джордано"
+              },
+              {
+                "image": "/images/performances/artist-12.jpeg",
+                "image2x": "/images/performances/artist-12.jpeg",
+                "name": "Олег Долгов"
+              },
+              {
+                "image": "/images/performances/artist-14.jpeg",
+                "image2x": "/images/performances/artist-14.jpeg",
+                "name": "Азер Зада"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Барон Скарпиа:",
+            "members": [
+              {
+                "image": "/images/performances/director-3.jpeg",
+                "image2x": "/images/performances/director-3.jpeg",
+                "name": "Эльчин Азизов"
+              },
+              {
+                "image": "/images/performances/director-2.jpeg",
+                "image2x": "/images/performances/director-2.jpeg",
+                "name": "Габриэле Вивиани"
+              },
+              {
+                "image": "/images/performances/director-1.jpeg",
+                "image2x": "/images/performances/director-1.jpeg",
+                "name": "Владимир Стоянов"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Чезаре Анджелотти",
+            "members": [
+              {
+                "image": "/images/performances/artist-13.jpeg",
+                "image2x": "/images/performances/artist-13.jpeg",
+                "name": "Владимир Байков"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Ризничий:",
+            "members": [
+              {
+                "image": "/images/performances/artist-15.jpeg",
+                "image2x": "/images/performances/artist-15.jpeg",
+                "name": "Николай Казанский"
+              },
+              {
+                "image": "/images/performances/artist-16.jpeg",
+                "image2x": "/images/performances/artist-16.jpeg",
+                "name": "Алексей Прокопьев"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Сполетта:",
+            "members": [
+              {
+                "image": "/images/performances/artist-17.jpeg",
+                "image2x": "/images/performances/artist-17.jpeg",
+                "name": "Иван Максимейко"
+              },
+              {
+                "image": "/images/performances/artist-18.jpeg",
+                "image2x": "/images/performances/artist-18.jpeg",
+                "name": "Илья Селиванов"
+              },
+              {
+                "image": "/images/performances/artist-19.jpeg",
+                "image2x": "/images/performances/artist-19.jpeg",
+                "name": "Александр Чернов"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Шарроне",
+            "members": [
+              {
+                "image": "/images/performances/artist-20.jpeg",
+                "image2x": "/images/performances/artist-20.jpeg",
+                "name": "Александр Бородин"
+              },
+              {
+                "image": "/images/performances/artist-21.jpeg",
+                "image2x": "/images/performances/artist-21.jpeg",
+                "name": "Александр Колесников"
+              },
+              {
+                "image": "/images/performances/artist-22.jpeg",
+                "image2x": "/images/performances/artist-22.jpeg",
+                "name": "Владимир Комович"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "summary": [
+    {
+      "title": "ДЕЙСТВИЕ ПЕРВОЕ",
+      "text": "В церковь Сант-Андреа-делла-Валле пробирается бежавший из тюрьмы политический заключенный Чезаре Анджелотти, бывший консул Римской республики. Его сестра, маркиза Аттаванти, приготовила ему женскую одежду, чтобы он мог неузнанным покинуть Рим.\n\nПоявляется Ризничий, недовольный своей работой и художником Марио Каварадосси, расписывающим церковь. Приходит и сам художник. В изображенной им Марии Магдалине Ризничий узнает красивую прихожанку, а Каварадосси размышляет о том, как разнообразна бывает красота. Не переставая ворчать, Ризничий уходит. Анджелотти привлекает внимание Каварадосси. Художник готов помочь беглецу, но в церковь пришла Флория Тоска, знаменитая певица, и Анджелотти снова скрывается, забрав с собой корзинку с приготовленным для Каварадосси обедом."
+    },
+    {
+      "title": "ДЕЙСТВИЕ ВТОРОЕ",
+      "text": "Палаццо Фарнезе. Скарпиа ждет Тоску. Она должна прийти сразу же после того, как споет на балу торжественную кантату в честь победы над Наполеоном в битве при Маренго. В кабинет входит посланный следить за Тоской Сполетта. Он сообщает, что Тоска недолго была в доме Каварадосси, преступник Анджелотти там не найден, но арестован художник.\n\nДопрос Каварадосси не дает результатов, и Скарпиа отдает приказ его пытать. Появляется Тоска. Стоны Каварадосси заставляют её выдать тайну, доверенную ей художником. Она рассказывает Скарпиа, что Анджелотти прячется в колодце в саду Каварадосси. Скарпиа посылает Сполетту за Анджелотти. Шарроне сообщает, что битву при Маренго выиграл Наполеон. Каварадосси не скрывает радости. Скарпиа отдает приказ казнить художника."
+    },
+    {
+      "title": "ДЕЙСТВИЕ ТРЕТЬЕ",
+      "text": "Замок святого Ангела.\n\nДо казни Каварадосси остается час. Он просит тюремщика передать Тоске его прощальное письмо и погружается в воспоминания. Появляется Тоска. Она показывает Каварадосси пропуск, полученный от Скарпиа, и заново переживает совершенное убийство. Каварадосси утешает ее и воспевает ее смелость.\n\nТоска рассказывает, что казнь будет не настоящей: услышав выстрелы, он должен упасть, а после ухода солдат они смогут уехать. Каварадосси старается в это поверить и успокоить измученную пережитым возлюбленную."
+    }
+  ],
+  "schedule": [
+    {
+      "date": {
+        "number": "18 сентября",
+        "day": "Пятница"
+      },
+      "tickets": "378",
+      "price": "100–15000",
+      "team": "Александр Волчков, Кристина Кретова, Алексей Путинцев, Егор Хромушин",
+      "time": "19:00",
+      "button": {
+        "title": "Купить билет",
+        "link": "https://ticket.bolshoi.ru/shows"
+      }
+    },
+    {
+      "date": {
+        "number": "20 сентября",
+        "day": "Суббота"
+      },
+      "tickets": "378",
+      "price": "100–15000",
+      "team": "Александр Волчков, Кристина Кретова, Алексей Путинцев, Егор Хромушин",
+      "time": "19:00",
+      "button": {
+        "title": "Купить билет",
+        "link": "https://ticket.bolshoi.ru/shows"
+      }
+    },
+    {
+      "date": {
+        "number": "27 сентября",
+        "day": "Воскресенье"
+      },
+      "tickets": "378",
+      "price": "100–15000",
+      "team": "Александр Волчков, Кристина Кретова, Алексей Путинцев, Егор Хромушин",
+      "time": "19:00",
+      "button": {
+        "title": "Купить билет",
+        "link": "https://ticket.bolshoi.ru/shows"
+      }
+    },
+    {
+      "date": {
+        "number": "2 октября",
+        "day": "Суббота"
+      },
+      "tickets": "378",
+      "price": "100–15000",
+      "team": "Александр Волчков, Кристина Кретова, Алексей Путинцев, Егор Хромушин",
+      "time": "19:00",
+      "button": {
+        "type": "isTransparentWhite",
+        "title": "Скоро в продаже"
+      }
+    },
+    {
+      "date": {
+        "number": "7 октября",
+        "day": "Среда"
+      },
+      "tickets": "378",
+      "price": "100–15000",
+      "team": "Александр Волчков, Кристина Кретова, Алексей Путинцев, Егор Хромушин",
+      "time": "19:00",
+      "button": {
+        "type": "isTransparentWhite",
+        "title": "Скоро в продаже"
+      }
+    }
+  ],
+  "sponsors": [
+    {
+      "type": "privilegedSponsor",
+      "image": "/images/performances/logo-1.png",
+      "image2x": "/images/performances/logo-1@2x.png"
+    },
+    {
+      "type": "generalSponsor",
+      "image": "/images/performances/logo-2.png",
+      "image2x": "/images/performances/logo-2@2x.png"
+    },
+    {
+      "type": "privilegedPartner",
+      "image": "/images/performances/logo-3.png",
+      "image2x": "/images/performances/logo-3@2x.png"
+    }
+  ]
+}

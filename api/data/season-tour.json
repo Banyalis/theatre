@@ -1,0 +1,43 @@
+[
+  {
+    "year": "2021",
+    "cards": [
+      {
+        "date": "23-24 ноября",
+        "title": "Челябинск",
+        "description": "Опера, хор и оркестр в Челябинске",
+        "url": "/season/tour/chelyabinsk"
+      },
+      {
+        "date": "16–17 сентября",
+        "title": "Нижний Новогород",
+        "description": "Гала-концерт солистов оперы и балета и оркестра в Нижнем Новогороде",
+        "url": "/season/tour/nizhny-novgorod"
+      },
+      {
+        "date": "13–14 сентября",
+        "title": "Самара",
+        "description": "Балетная труппа и оркестр в Самаре",
+        "url": "/season/tour/samara"
+      },
+      {
+        "date": "23–24 июля",
+        "title": "Сочи",
+        "description": "Оперная труппа и оркестр в Сочи",
+        "url": "/season/tour/sochi"
+      },
+      {
+        "date": "16–17 апреля",
+        "title": "Воронеж",
+        "description": "Балетная труппа в Воронеже",
+        "url": "/season/tour/voronezh"
+      },
+      {
+        "date": "27 февраля",
+        "title": "Светлогорск",
+        "description": "Балетная труппа и оркестр в Светлогорске",
+        "url": "/season/tour/svetlogorsk"
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "type": "spectacle",
+  "item": {
+    "image": "/images/about/spectacle/gallery-5.jpg",
+    "image2x": "/images/about/spectacle/gallery-5.jpg",
+    "title": "Открытие 245-го сезона",
+    "button": {
+      "title": "О спектакле",
+      "link": "/"
+    }
+  },
+  "gallery": [
+    {
+      "image": "/images/about/spectacle/gallery-1.jpg",
+      "image2x": "/images/about/spectacle/gallery-1.jpg",
+      "caption": "Елизавета Валуа — Анна Нетребко.\nДон Карлос — Юсиф Эйвазов.\nФото Дамира Юсупова",
+      "link": "/",
+      "size": "1,3 МБ"
+    },
+    {
+      "image": "/images/about/spectacle/gallery-2.jpg",
+      "image2x": "/images/about/spectacle/gallery-2.jpg",
+      "caption": "Елизавета Валуа — Анна Нетребко. \nФилипп II — Ильдар Абдразаков.\nФото Дамира Юсупова",
+      "link": "/",
+      "size": "1,4 МБ",
+      "small": true
+    },
+    {
+      "image": "/images/about/spectacle/gallery-3.jpg",
+      "image2x": "/images/about/spectacle/gallery-3.jpg",
+      "caption": "Княгиня Эболи — Агунда Кулаева.\nФото Дамира Юсупова",
+      "link": "/",
+      "size": "1,4 МБ"
+    },
+    {
+      "image": "/images/about/spectacle/gallery-4.jpg",
+      "image2x": "/images/about/spectacle/gallery-4.jpg",
+      "caption": "Родриго — Эльчин Азизов.\nФилипп II — Ильдар Абдразаков.\nЕлизавета Валуа — Анна Нетребко.\nФото Дамира Юсупова",
+      "link": "/",
+      "size": "1,4 МБ",
+      "small": true
+    },
+    {
+      "image": "/images/about/spectacle/gallery-5.jpg",
+      "image2x": "/images/about/spectacle/gallery-5.jpg",
+      "caption": "Елизавета Валуа — Анна Нетребко.\nФото Дамира Юсупова",
+      "link": "/",
+      "size": "1,4 МБ"
+    },
+    {
+      "image": "/images/about/spectacle/gallery-6.jpg",
+      "image2x": "/images/about/spectacle/gallery-6.jpg",
+      "caption": "Дон Карлос — Юсиф Эйвазов.\nЕлизавета Валуа — Анна Нетребко.\nФото Дамира Юсупова",
+      "link": "/",
+      "size": "1,4 МБ"
+    },
+    {
+      "image": "/images/about/spectacle/gallery-7.jpg",
+      "image2x": "/images/about/spectacle/gallery-7.jpg",
+      "caption": "Елизавета Валуа — Анна Нетребко.\nКнягиня Эболи — Агунда Кулаева.\nФото Дамира Юсупова",
+      "link": "/",
+      "size": "1,4 МБ"
+    },
+    {
+      "image": "/images/about/spectacle/gallery-8.jpg",
+      "image2x": "/images/about/spectacle/gallery-8.jpg",
+      "caption": "Великий инквизитор —\nДенис Макаров.\nФилипп II — Ильдар Абдразаков.\nФото Дамира Юсупова",
+      "link": "/",
+      "size": "1,4 МБ",
+      "small": true
+    },
+    {
+      "image": "/images/about/spectacle/gallery-9.jpg",
+      "image2x": "/images/about/spectacle/gallery-9.jpg",
+      "caption": "Елизавета Валуа — Анна Нетребко.\nФото Дамира Юсупова",
+      "link": "/",
+      "size": "1,4 МБ"
+    }
+  ]
+}

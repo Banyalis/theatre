@@ -1,0 +1,53 @@
+{
+  "type": "concert",
+  "data": {
+    "title": "От учителя к ученику",
+    "restriction": "12+",
+    "description": "Участвует в программе «Пушкинская карта»",
+    "date": "3 октября",
+    "time": "15:00",
+    "scene": "Бетховенский зал",
+    "sceneImage": "/images/scene/sceneNew-3.png",
+    "sceneImage2x": "/images/scene/sceneNew-3@2x.png",
+    "duration": "0 минут",
+    "tickets": [
+      {
+        "date": "3 октября",
+        "time": "15:00",
+        "day": "Воскресенье",
+        "priceRange": "750₽",
+        "button": {
+          "type": "isRed",
+          "title": "Купить билет",
+          "url": "https://ticket.bolshoi.ru/show/1915"
+        }
+      }
+    ],
+    "suggestions": [
+      {
+        "url": "/season/concert/piano-trio/",
+        "type": "Концерт артистов оркестра Большого театра",
+        "title": "Фортепианные трио",
+        "description": "Участвует в программе <a href=\"https://docs.culture.ru/pushka\" target=\"_blank\">«Пушкинская карта»</a>"
+      },
+      {
+        "url": "/season/concert/opera-apriori/",
+        "type": "Концерт",
+        "title": "Сольный концерт Варвары Мягковой (фортепиано)",
+        "description": "В рамках VIII Международного фестиваля вокальной музыки «Опера Априори»"
+      },
+      {
+        "url": "/season/concert/chamber-music/",
+        "type": "Концерт артистов оркестра Большого театра",
+        "title": "Камерная музыка с арфой",
+        "description": "Участвует в программе <a href=\"https://docs.culture.ru/pushka\" target=\"_blank\">«Пушкинская карта»</a>"
+      },
+      {
+        "url": "/season/concert/anthology-romance/",
+        "type": "Концерт артистов Молодежной оперной программы",
+        "title": "Антология русского классического романса. Микаэл Таривердиев",
+        "description": "Участвует в программе <a href=\"https://docs.culture.ru/pushka\" target=\"_blank\">«Пушкинская карта»</a>"
+      }
+    ]
+  }
+}

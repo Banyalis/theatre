@@ -1,0 +1,59 @@
+{
+  "type": "tour",
+  "data": {
+    "title": "Гастроли в Воронеже",
+    "artists": "Оперная труппа и оркестр",
+    "date": "16 и 17 апреля",
+    "time": "Уточняйте даты выступлений в программе гастролей",
+    "scenes": [
+      {
+        "title": "Воронежский государственный театр оперы и балета",
+        "place": "Площадь Ленина, 7",
+        "image": "/images/gastroli/5/1.jpg",
+        "image2x": "/images/gastroli/5/1@2x.jpg"
+      }
+    ],
+    "about": {
+      "caption": "Гастроли балетной труппы в Воронеже станут первым опытом сотрудничества с Платоновским фестивалем."
+    },
+    "program": [
+      {
+        "url": "/performances/opera/figaro",
+        "days": "16 апреля",
+        "place": "Воронежский государственный театр оперы и балета",
+        "title": "Свадьба Фигаро",
+        "caption": "Опера в концертном исполнении",
+        "author": "Режиссер: Дмитрий Белянушкин, с участием оркестра Большого театра",
+        "picture": "/images/gastroli/5/program/1.png",
+        "picture2x": "/images/gastroli/5/program/1@2x.png"
+      },
+      {
+        "url": "/performances/opera/figaro",
+        "days": "7 апреля, 12:00 и 19:00",
+        "place": "Воронежский государственный театр оперы и балета",
+        "title": "Свадьба Фигаро",
+        "caption": "Опера в концертном исполнении",
+        "author": "Режиссер: Дмитрий Белянушкин, с участием оркестра Большого театра",
+        "picture": "/images/gastroli/5/program/1.png",
+        "picture2x": "/images/gastroli/5/program/1@2x.png",
+        "partners": [
+          {
+            "title": "Привилегированный cпонcор",
+            "image": "/images/gastroli/partners/1.png",
+            "image2x": "/images/gastroli/partners/1@2x.png"
+          },
+          {
+            "title": "Генеральный спонсор",
+            "image": "/images/gastroli/partners/2.png",
+            "image2x": "/images/gastroli/partners/2@2x.png"
+          },
+          {
+            "title": "Привилегированный партнер",
+            "image": "/images/gastroli/partners/3.png",
+            "image2x": "/images/gastroli/partners/3@2x.png"
+          }
+        ]
+      }
+    ]
+  }
+}

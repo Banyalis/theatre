@@ -1,0 +1,85 @@
+{
+  "sections": [
+    {
+      "important": true,
+      "groups": [
+        {
+          "people": [
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Туган Сохиев",
+              "position": "Главный дирижер и музыкальный руководитель"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Маквала Касрашвили",
+              "position": "Помощник главного дирижера — музыкального руководителя"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Дмитрий Вдовин",
+              "position": "Руководитель Молодежной оперной программы"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Валерий Борисов",
+              "position": "Главный хормейстер"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Людмила Таликова",
+              "position": "Заведующая творческими коллективами оперной труппы"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Елена Узкая",
+              "position": "Заведующая хором"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Екатерина Миронова",
+              "position": "Заведующая мимическим ансамблем"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Михаил Кисляров",
+              "position": "Руководитель режиссерской группы"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Ольга Алещенко",
+              "position": "Заместитель заведующего мимическим ансамблем"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "sections": [
+    {
+      "title": "Артистки балета",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Ксения Аверина"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Нино Асатиани"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Полина Афанасьева"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Анна Балукова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Ольга Баричка"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Екатерина Барыкина"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Юлия Белова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Полина Беляева"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Екатерина Беседина"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Валерия Бессонова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Нина Бирюкова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Мария Богданович"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Артисты балета",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Иван Алексеев"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Егор Алферов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Илья Артамонов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Петр Аттиков"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Михаил Баталов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Илья Береснев"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Илья Владимиров"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Алексей Гайнутдинов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Антон Гайнутдинов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Виталий Гетманов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Евгений Головин"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Игорь Горелкин"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

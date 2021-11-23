@@ -1,0 +1,135 @@
+[
+  {
+    "scene": "Историческая сцена",
+    "imgURI": "scene/scene-1.png",
+    "cards": [
+      {
+        "day": "25 февраля",
+        "year": "2021",
+        "restrictions": "16+",
+        "caption": "Музыкальная драма в одном действии",
+        "name": "Саломея",
+        "url": "/performances/0"
+      },
+      {
+        "day": "23 июня",
+        "year": "2021",
+        "restrictions": "16+",
+        "caption": "Опера в трех действиях",
+        "name": "Мазепа",
+        "author": "Петр Чайковский",
+        "url": "/performances/0"
+      }
+    ]
+  },
+  {
+    "scene": "Новая сцена",
+    "imgURI": "scene/scene-2.png",
+    "cards": [
+      {
+        "day": "20 сентября",
+        "year": "2020",
+        "restrictions": "16+",
+        "caption": "Программа одноактных балетов",
+        "name": "Четыре персонажа в поисках сюжета",
+        "url": "/performances/1"
+      },
+      {
+        "day": "10 декабря",
+        "year": "2021",
+        "restrictions": "16+",
+        "caption": "Балет в одном действии",
+        "name": "Танцемания",
+        "author": "Юрий Красавин",
+        "url": "/performances/0"
+      },
+      {
+        "day": "10 декабря",
+        "year": "2021",
+        "restrictions": "16+",
+        "caption": "Балет в одном действии",
+        "name": "Made in Bolshoi (Сделано в Большом)",
+        "author": "На музыку Анатолия Королева",
+        "url": "/performances/1"
+      },
+      {
+        "day": "24 марта",
+        "year": "2021",
+        "restrictions": "16+",
+        "caption": "Балет в одном действии",
+        "name": "Времена года",
+        "author": "Александр Глазунов",
+        "url": "/performances/0"
+      },
+      {
+        "day": "24 марта",
+        "year": "2021",
+        "restrictions": "16+",
+        "caption": "Полнометражный балет",
+        "name": "Орландо",
+        "author": "на музыку Антонина Дворжака и Макса Рихтера",
+        "url": "/performances/1"
+      },
+      {
+        "day": "21 апреля",
+        "year": "2021",
+        "restrictions": "16+",
+        "caption": "Опера в двух действиях",
+        "name": "Тоска",
+        "author": "Джакомо Пуччини",
+        "url": "/performances/0"
+      },
+      {
+        "day": "1 июля",
+        "year": "2021",
+        "restrictions": "16+",
+        "caption": "Балет в двух действиях",
+        "name": "Чайка",
+        "author": "Илья Демуцкий",
+        "url": "/performances/1"
+      }
+    ]
+  },
+  {
+    "scene": "Камерная сцена",
+    "imgURI": "scene/scene-4.png",
+    "cards": [
+      {
+        "day": "11 декабря",
+        "year": "2020",
+        "restrictions": "16+",
+        "caption": "Опера в трех действиях",
+        "name": "Искатели жемчуга",
+        "author": "Жорж Бизе",
+        "url": "/performances/0"
+      },
+      {
+        "day": "6 мая",
+        "year": "2021",
+        "restrictions": "16+",
+        "caption": "Одноактные оперы",
+        "name": "Дневник Анны Франк. Белая роза",
+        "author": "Григорий Фрид. Удо Циммерман",
+        "url": "/performances/1"
+      },
+      {
+        "day": "18 марта",
+        "year": "2021",
+        "restrictions": "16+",
+        "caption": "Музыкальная комедия в трех действиях",
+        "name": "Москва, Черёмушки",
+        "author": "Дмитрий Шостакович",
+        "url": "/performances/0"
+      },
+      {
+        "day": "28 мая",
+        "year": "2021",
+        "restrictions": "12+",
+        "caption": "Музыкальная комедия в двух действиях",
+        "name": "Легенда о любви",
+        "author": "Ариф Меликов",
+        "url": "/performances/0"
+      }
+    ]
+  }
+]

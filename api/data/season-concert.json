@@ -1,0 +1,152 @@
+[
+  {
+    "scene": "Историческая сцена",
+    "imgURI": "scene/scene-1.png",
+    "years": [
+      {
+        "year": "2021",
+        "items": [
+          {
+            "day": "4 декабря",
+            "time": "12:00",
+            "caption": "Концерт",
+            "title": "Концерт детского хора Большого театра",
+            "restriction": "6+",
+            "url": "/season/concert/children-choir/"
+          }
+        ]
+      },
+      {
+        "year": "2022",
+        "items": [
+          {
+            "day": "13 Января",
+            "time": "19:00",
+            "caption": "Концерт",
+            "title": "Концерт Пласидо Доминго",
+            "restriction": "12+",
+            "url": "/season/concert/koncert-plasido-domingo/"
+          },
+          {
+            "day": "17 Января",
+            "time": "19:00",
+            "caption": "Концерт",
+            "title": "Открытие II Фестиваля памяти Валерия Халилова",
+            "restriction": "12+",
+            "url": "/season/concert/otkrytie-festivalya-pamyati/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scene": "Бетховенский зал",
+    "imgURI": "scene/scene-3.png",
+    "years": [
+      {
+        "year": "2021",
+        "items": [
+          {
+            "day": "21 ноября",
+            "time": "15:00",
+            "caption": "Концерт артистов оркестра Большого театра",
+            "title": "Вечер камерной музыки",
+            "restriction": "12+",
+            "url": "/season/concert/music-evening/"
+          },
+          {
+            "day": "23 ноября",
+            "time": "19:00",
+            "caption": "Концерт артистов Молодежной оперной программы Большого театра",
+            "title": "Антология русского классического романса. Петр Чайковский. Вечер IV",
+            "restriction": "12+",
+            "url": "/season/concert/pyotr-tchaikovsky/"
+          },
+          {
+            "day": "24 ноября",
+            "time": "19:30",
+            "caption": "Концерт артистов Молодежной оперной программы Большого театра",
+            "title": "Антология русского классического романса. Петр Чайковский. Вечер IV",
+            "restriction": "12+",
+            "url": "/season/concert/pyotr-tchaikovsky/"
+          },
+          {
+            "day": "26 ноября",
+            "time": "19:30",
+            "caption": "Концерт солистов и стажеров оперной труппы",
+            "title": "Ich liebe dich Любовная вокальная лирика эпохи романтизма",
+            "restriction": "12+",
+            "url": "/season/concert/ich-liebe-dich/"
+          },
+          {
+            "day": "28 ноября",
+            "time": "19:30",
+            "caption": "Концерт артистов оркестра Большого театра",
+            "title": "Камерная музыка. Духовые инструменты",
+            "restriction": "12+",
+            "url": "/season/concert/wind-instruments/"
+          },
+          {
+            "day": "7 декабря",
+            "time": "19:00",
+            "caption": "Проект Молодежной оперной программы Большого театра",
+            "title": "Кантаты. Миф. Режиссёрские новеллы",
+            "restriction": "12+",
+            "url": "/season/concert/cantatas/"
+          },
+          {
+            "day": "9 декабря",
+            "time": "19:30",
+            "caption": "Проект Молодежной оперной программы Большого театра",
+            "title": "Кантаты. Миф. Режиссёрские новеллы",
+            "restriction": "12+",
+            "url": "/season/concert/cantatas/"
+          },
+          {
+            "day": "15 декабря",
+            "time": "19:30",
+            "caption": "Концерт артистов оркестра Большого театра",
+            "title": "Вечер камерной музыки",
+            "restriction": "12+",
+            "url": "/season/concert/music-evening-december/"
+          },
+          {
+            "day": "18 декабря",
+            "time": "15:00",
+            "caption": "Концерт артистов оркестра Большого театра",
+            "title": "Карнавал созвучий. Памяти Камиля Сен-Санса",
+            "restriction": "12+",
+            "url": "/season/concert/carnival-harmonies/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scene": "Камерная сцена",
+    "imgURI": "scene/scene-4.png",
+    "years": [
+      {
+        "year": "2022",
+        "items": [
+          {
+            "day": "22 Января",
+            "time": "19:00",
+            "caption": "Концерт",
+            "title": "Гала-концерт к 110-летию со дня рождения Б. А. Покровского",
+            "restriction": "12+",
+            "url": "/season/concert/gala-koncert-k-110-letiyu/"
+          },
+          {
+            "day": "29 Января",
+            "time": "19:00",
+            "caption": "Сцены из спектаклей",
+            "title": "К 110-летию со дня рождения Б. А. Покровского",
+            "restriction": "12+",
+            "url": "/season/concert/k-110-letiyu/"
+          }
+        ]
+      }
+    ]
+  }
+]

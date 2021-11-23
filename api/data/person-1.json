@@ -1,0 +1,403 @@
+{
+  "nav": [
+    {
+      "anchor": "about",
+      "title": "Биография"
+    },
+    {
+      "anchor": "gallery",
+      "title": "Галерея"
+    },
+    {
+      "anchor": "awards",
+      "title": "Награды"
+    },
+    {
+      "anchor": "news",
+      "title": "Новости"
+    }
+  ],
+  "hero": {
+    "name": "Анна Никулина",
+    "position": "Солистка балета",
+    "rank": "Народная артистка России",
+    "image": "/images/index/blocks/people-1.png",
+    "image2x": "/images/index/blocks/people-1.png"
+  },
+  "about": {
+    "text": "<p>Родилась в Санкт-Петербурге. В 2011 окончила Академию русского балета (АРБ) им. А.Я. Вагановой (педагог Людмила Ковалева) и была принята в балетную труппу Большого театра.</p>",
+    "caption": "<p>Репетировала под руководством <a href=\"/\">Марины Кондратьевой</a>. Ныне ее педагогом-репетитором является Мария Аллаш.</p>"
+  },
+  "gallery": [
+    {
+      "image": "/images/persons/example.jpg",
+      "image2x": "/images/persons/example-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "caption": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "image": "/images/persons/example2.jpg",
+      "image2x": "/images/persons/example2-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "caption": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "image": "/images/persons/example3.jpg",
+      "image2x": "/images/persons/example3-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "caption": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "image": "/images/persons/example.jpg",
+      "image2x": "/images/persons/example-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "caption": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "image": "/images/persons/example2.jpg",
+      "image2x": "/images/persons/example2-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "caption": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "image": "/images/persons/example3.jpg",
+      "image2x": "/images/persons/example3-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "caption": "Фея Сирени — Екатерина Шипулина"
+    }
+  ],
+  "awards": [
+    {
+      "list": [
+        {
+          "title": "Премия Президента Российской Федерации для молодых деятелей культуры",
+          "date": "В 2020 за 2019"
+        }
+      ]
+    },
+    {
+      "list": [
+        {
+          "title": "«Танцовщица года», по мнению итальянского журнала «Данца и данца»",
+          "date": "2019, «DANZA & DANZA»"
+        }
+      ]
+    },
+    {
+      "list": [
+        {
+          "title": "Лауреат Премии города Москвы в номинации «Хореографическое искусство»",
+          "date": "2019"
+        },
+        {
+          "title": "Гран при Международного фестиваля балета Dance Open",
+          "date": "2016"
+        },
+        {
+          "title": "Танцовщица года, появившаяся на международной сцене",
+          "date": "2014, Премия Леонида Мясина (Позитано)"
+        },
+        {
+          "title": "Лауреат конкурса телеканала «Культура» «Большой балет» (лучшая балерина)",
+          "date": "2012"
+        },
+        {
+          "title": "Лауреат Международной балетной премии Dance Open в номинации «Мисс Выразительность»",
+          "date": "2013"
+        },
+        {
+          "title": "Гран при конкурса учащихся ведущих хореографических школ России",
+          "date": "2009, Гран при Михайловского театра"
+        },
+        {
+          "title": "Премия журнала «Балет» «Душа танца» в номинации «Восходящая звезда»",
+          "date": "2013"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "/",
+      "date": "27 марта",
+      "title": "Маленькии трубочист создает оперу",
+      "text": "На Камерную сцену возвращается «Маленький трубочист» — популярнейшая детская опера Бенджамина Бриттена!"
+    },
+    {
+      "url": "/",
+      "date": "5 марта",
+      "title": "Наши верные партнеры с нами!",
+      "text": "Подать заявку можно с 6 сентября по 19 ноября"
+    }
+  ],
+  "repertoire": [
+    {
+      "year": "2019",
+      "list": [
+        {
+          "url": "/performances/0",
+          "subtitle": "Эгина",
+          "title": "Спартак",
+          "description": "Арам Хачатурян",
+          "choreographer": "Ю. Григоровича",
+          "image": "/images/persons/example.jpg",
+          "image2x": "/images/persons/example-2x.jpg"
+        },
+        {
+          "url": "/performances/1",
+          "subtitle": "Гермиона",
+          "caption": "первая исполнительница",
+          "title": "Зимняя сказка",
+          "description": "Джоби Тэлбот",
+          "choreographer": "К. Уилдона",
+          "image": "/images/persons/example2.jpg",
+          "image2x": "/images/persons/example2-2x.jpg"
+        },
+        {
+          "url": "/performances/2",
+          "subtitle": "Солистка II части",
+          "title": "Драгоценности (I и III части)",
+          "description": "На музыку Жоржа Бизе",
+          "choreographer": "Д. Баланчина",
+          "image": "/images/persons/example3.jpg",
+          "image2x": "/images/persons/example3-2x.jpg"
+        },
+        {
+          "url": "/performances/3",
+          "subtitle": "Жизель",
+          "caption": "первая исполнительница",
+          "title": "Жизель",
+          "description": "Адольф Адан",
+          "choreographer": "А. Ратманского",
+          "image": "/images/persons/example.jpg",
+          "image2x": "/images/persons/example-2x.jpg"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "list": [
+        {
+          "url": "/performances/0",
+          "subtitle": "Заглавная партия",
+          "title": "Анна Каренина",
+          "description": "на музыку П. Чайковского, А. Шнитке, Кэта Стивенса / Юсуфа Ислама",
+          "choreographer": "Ю. Григоровича ",
+          "image": "/images/persons/example2.jpg",
+          "image2x": "/images/persons/example2-2x.jpg"
+        },
+        {
+          "url": "/performances/1",
+          "subtitle": "Две пары",
+          "caption": "участница премьеры",
+          "title": "Артефакт-сюита",
+          "description": "на музыку Э. Кроссман-Хехт и И.С. Баха",
+          "choreographer": "У. Форсайта",
+          "image": "/images/persons/example3.jpg",
+          "image2x": "/images/persons/example3-2x.jpg"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "list": [
+        {
+          "url": "/performances/2",
+          "subtitle": "Жизель",
+          "caption": "заглавная партия",
+          "title": "Жизель",
+          "description": "Адольф Адан",
+          "choreographer": "Ю. Григоровича",
+          "image": "/images/persons/example.jpg",
+          "image2x": "/images/persons/example-2x.jpg"
+        },
+        {
+          "url": "/performances/3",
+          "subtitle": "Балерина",
+          "caption": "участница премьеры",
+          "title": "Этюды",
+          "description": "на музыку К. Черни",
+          "choreographer": "Х. Ландера",
+          "image": "/images/persons/example2.jpg",
+          "image2x": "/images/persons/example2-2x.jpg"
+        }
+      ]
+    }
+  ],
+  "tour": {
+    "text": "В мае 2011 г. участвовала в гала-концерте звезд памяти Галины Улановой из цикла «Иконы русского балета», прошедшем на сцене лондонского театра Колизей, — исполнила с однокурсником С. Стрелковым «Мелодию» на музыку А. Дворжака (хореография А. Мессерера). В июле 2011 г. участвовала в гала-концерте звезд международного балета в рамках I Международного конкурса балета и хореографии, состоявшегося в Пекине (Большое классическое па на музыку Д.Ф.Э. Обера)"
+  },
+  "performances": [
+    {
+      "url": "/performances/0",
+      "subtitle": "Балет в трех действиях с прологом",
+      "image": "/images/persons/example.jpg",
+      "image2x": "/images/persons/example-2x.jpg",
+      "title": "Зимняя сказка",
+      "description": "Хореография Кристофера Уилдона",
+      "age": "12+",
+      "schedule": [
+        {
+          "date": "25 октября",
+          "time": "15:00",
+          "day": "Среда",
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "100–15000 ₽"
+        },
+        {
+          "date": "10 октября",
+          "time": "15:00",
+          "day": "Среда",
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "100–15000 ₽"
+        },
+        {
+          "date": "12 октября",
+          "time": "15:00",
+          "day": "Среда",
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "100–15000 ₽"
+        },
+        {
+          "date": "19 октября",
+          "time": "15:00",
+          "day": "Среда",
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "100–15000 ₽"
+        }
+      ]
+    },
+    {
+      "url": "/performances/1",
+      "subtitle": "Балет в трех частях",
+      "image": "/images/persons/example2.jpg",
+      "image2x": "/images/persons/example2-2x.jpg",
+      "title": "Жизель",
+      "description": "Хореография Алексея Ратманского",
+      "age": "12+",
+      "schedule": [
+        {
+          "date": "29 октября",
+          "time": "15:00",
+          "day": "Воскресенье",
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "100–15000 ₽"
+        },
+        {
+          "date": "28 октября",
+          "time": "15:00",
+          "day": "Суббота",
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "100–15000 ₽"
+        },
+        {
+          "date": "27 октября",
+          "time": "15:00",
+          "day": "Пятница",
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "100–15000 ₽"
+        },
+        {
+          "date": "22 октября",
+          "time": "15:00",
+          "day": "Воскресенье",
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "100–15000 ₽"
+        },
+        {
+          "date": "21 октября",
+          "time": "15:00",
+          "day": "Суббота",
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "100–15000 ₽"
+        }
+      ]
+    }
+  ],
+  "members": {
+    "title": "Все балерины",
+    "list": [
+      {
+        "url": "/people",
+        "image": "/images/persons/member-1.jpeg",
+        "image2x": "/images/persons/member-1.jpeg",
+        "name": "Светлана Захарова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-2.jpeg",
+        "image2x": "/images/persons/member-2.jpeg",
+        "name": "Екатерина Крысанова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-3.jpeg",
+        "image2x": "/images/persons/member-3.jpeg",
+        "name": "Анастасия Сташкевич"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-1.jpeg",
+        "image2x": "/images/persons/member-1.jpeg",
+        "name": "Анна Никулина"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-2.jpeg",
+        "image2x": "/images/persons/member-2.jpeg",
+        "name": "Юлия Степанова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-3.jpeg",
+        "image2x": "/images/persons/member-3.jpeg",
+        "name": "Евгения Образцова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-1.jpeg",
+        "image2x": "/images/persons/member-1.jpeg",
+        "name": "Светлана Захарова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-2.jpeg",
+        "image2x": "/images/persons/member-2.jpeg",
+        "name": "Екатерина Крысанова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-3.jpeg",
+        "image2x": "/images/persons/member-3.jpeg",
+        "name": "Анастасия Сташкевич"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-1.jpeg",
+        "image2x": "/images/persons/member-1.jpeg",
+        "name": "Анна Никулина"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-2.jpeg",
+        "image2x": "/images/persons/member-2.jpeg",
+        "name": "Юлия Степанова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-3.jpeg",
+        "image2x": "/images/persons/member-3.jpeg",
+        "name": "Евгения Образцова"
+      }
+    ]
+  }
+}

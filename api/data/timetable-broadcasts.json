@@ -1,0 +1,123 @@
+{
+  "type": "broadcasts",
+  "header": {
+    "text": "Пять балетов из афиши 246-го сезона можно будет увидеть в\nследующем сезоне на\nэкранах кинотеатров: три — в\nпрямой трансляции и два — в\nзаписи."
+  },
+  "advertising": [
+    {
+      "title": "Трансляции спектаклей в кинотеатрах проводятся:",
+      "text": "Pathé Live и Bel Air Media"
+    },
+    {
+      "title": "Эксклюзивный дистрибьютор в России:",
+      "text": "CoolConnections"
+    }
+  ],
+  "info": [
+    {
+      "title": "В прямых и повторных показах участвуют 1700 кинотеатров в 60 странах мира.",
+      "button": {
+        "url": "https://www.bolshoiballetincinema.com/",
+        "title": "Кинотеатры зарубежом"
+      }
+    },
+    {
+      "title": "В России 30 городов и 40 кинотеатров.",
+      "button": {
+        "url": "https://www.bolshoiballetincinema.com/",
+        "title": "Кинотеатры в России"
+      },
+      "hint": "Или на theatrehd.ru в афише"
+    },
+    {
+      "title": "В России прямые трансляции будут доступны на нашем youtube-канале.",
+      "button": {
+        "url": "https://www.youtube.com/user/bolshoi",
+        "title": "Большой на Youtube"
+      },
+      "hint": "Траснсляции записей только в кинотеатрах"
+    }
+  ],
+  "catalog": [
+    {
+      "year": "2021",
+      "items": [
+        {
+          "modifier": "broadcast",
+          "slug": "spartacus",
+          "category": "ballet",
+          "sidebar": {
+            "date": "7 ноября",
+            "status": "Прямая трансляция"
+          },
+          "image": "/images/poster/broadcasts/1.jpeg",
+          "image2x": "/images/poster/broadcasts/1@2x.jpeg",
+          "subtitle": "Балет в трех действиях",
+          "title": "Спартак",
+          "description": "Хореограф-постановщик – Юрий Григорович"
+        },
+        {
+          "modifier": "broadcast",
+          "slug": "nutcracker",
+          "category": "ballet",
+          "sidebar": {
+            "date": "19 декабря",
+            "status": "Трансляция в записи (запись от 23 декабря 2018 г.)"
+          },
+          "image": "/images/poster/broadcasts/2.jpeg",
+          "image2x": "/images/poster/broadcasts/2@2x.jpeg",
+          "subtitle": "Балет в двух действиях",
+          "title": "Щелкунчик",
+          "description": "Хореограф-постановщик – Юрий Григорович"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "items": [
+        {
+          "modifier": "broadcast",
+          "slug": "jewels",
+          "category": "ballet",
+          "sidebar": {
+            "date": "23 января",
+            "status": "Прямая трансляция"
+          },
+          "image": "/images/poster/broadcasts/3.jpeg",
+          "image2x": "/images/poster/broadcasts/3@2x.jpeg",
+          "subtitle": "Балет Джорджа Баланчина в трёх частях",
+          "title": "Драгоценности",
+          "description": "Хореография Джорджа Баланчина"
+        },
+        {
+          "modifier": "broadcast",
+          "slug": "lebedinoe-ozero",
+          "category": "ballet",
+          "sidebar": {
+            "date": "6 марта",
+            "status": "Трансляция в записи (запись от 23 февраля 2020 г.)"
+          },
+          "image": "/images/poster/broadcasts/4.jpeg",
+          "image2x": "/images/poster/broadcasts/4@2x.jpeg",
+          "subtitle": "Балет в двух действиях",
+          "title": "Лебединое озеро",
+          "description": "Хореография Мариуса Петипа, Льва Иванова, Александра Горского, Постановка Юрия Григоровича"
+        },
+        {
+          "modifier": "broadcast",
+          "slug": "la-fille-du-pharaon",
+          "category": "ballet",
+          "sidebar": {
+            "date": "1 мая",
+            "status": "Прямая трансляция"
+          },
+          "image": "/images/poster/broadcasts/5.jpeg",
+          "image2x": "/images/poster/broadcasts/5@2x.jpeg",
+          "subtitle": "Балет в трех действиях",
+          "title": "Дочь фараона",
+          "description": "Хореография Пьера Лакотта по Мариусу Петипа"
+        }
+      ]
+    }
+  ]
+}

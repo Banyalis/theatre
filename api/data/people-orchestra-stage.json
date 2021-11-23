@@ -1,0 +1,152 @@
+{
+  "sections": [
+    {
+      "groups": [
+        {
+          "small": false,
+          "position": "Ассистент дирижера",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Леонид",
+                      "lastName": "Чистяков"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "small": false,
+          "position": "Флейты",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Михаил",
+                      "lastName": "Трофимов"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "small": false,
+          "position": "Гобои",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Иван",
+                      "lastName": "Паисов"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "small": false,
+          "position": "Кларнеты",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Алексей",
+                      "lastName": "Бычков"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Дмитрий",
+                      "lastName": "Романов"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Ашот",
+                      "lastName": "Киракосян"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "small": false,
+          "position": "Фаготы",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Иван",
+                      "lastName": "Агальцов"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "small": false,
+          "position": "Корнеты",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Леонид",
+                      "lastName": "Чистяков"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Степан",
+                      "lastName": "Кравченко"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Ярослав",
+                      "lastName": "Алексеев"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Сергей",
+                      "lastName": "Луценко"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Максим",
+                      "lastName": "Штода"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

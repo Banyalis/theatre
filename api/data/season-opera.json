@@ -1,0 +1,266 @@
+{
+  "type": "opera",
+  "data": [
+    {
+      "scene": "Историческая сцена",
+      "imgURI": "scene/scene-1.png",
+      "cards": [
+        {
+          "caption": "Опера в трех действиях",
+          "title": "Бал-маскарад",
+          "musician": "Гаэтано Доницетти",
+          "date": "20 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-1.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в четырех действиях в концертном исполнении",
+          "title": "Борис Годунов",
+          "musician": "Модест Мусоргский",
+          "date": "21 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-2.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в четырех действиях",
+          "title": "Дон Карлос",
+          "musician": "Джузеппе Верди",
+          "date": "22 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-3.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Лирические сцены в трех действиях ",
+          "title": "Евгений Онегин",
+          "musician": "Петр Чайковский",
+          "date": "22 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-4.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в четырех действиях",
+          "title": "Кармен",
+          "musician": "Жорж Бизе",
+          "date": "22 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-5.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в четырех действиях",
+          "title": "Катерина Измайлова",
+          "musician": "Дмитрий Шостакович",
+          "date": "22 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-6.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в четырех действиях с прологом",
+          "title": "Князь Игорь",
+          "musician": "Александр Бородин",
+          "date": "20 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-8.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в четырех действиях",
+          "title": "Манон Леско",
+          "musician": "Джакомо Пуччини",
+          "date": "20 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-11.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в четырех действиях",
+          "title": "Драматическая легенда в четырех частях",
+          "musician": "Гектор Берлиоз",
+          "date": "20 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-7.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в трех действиях",
+          "title": "Пиковая дама",
+          "musician": "Петр Чайковский",
+          "date": "20 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-9.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в одном действии, исполняется с одним антрактом",
+          "title": "Путешествие в Реймс",
+          "musician": "Джоаккино Россини",
+          "date": "20 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-10.png",
+          "url": "/performances/1"
+        }
+      ]
+    },
+    {
+      "scene": "Новая сцена",
+      "imgURI": "scene/scene-2.png",
+      "cards": [
+        {
+          "caption": "Опера в четырех картинах",
+          "title": "Богема",
+          "musician": "Джакомо Пуччини",
+          "date": "24 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-12.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в трех действиях",
+          "title": "Дидона и Эней",
+          "musician": "Генри Пёрселл",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-13.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в четырех действиях",
+          "title": "Идиот",
+          "musician": "Мечислав Вайнберг",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-14.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в двух действиях, с исполнением симфонической сюиты «Щелкунчик»",
+          "title": "Иоланта",
+          "musician": "Петр Чайковский",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-15.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в двух действиях",
+          "title": "История Кая и Герды",
+          "musician": "Сергей Баневич",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-16.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в трех действиях",
+          "title": "Каменный гость",
+          "musician": "Александр Даргомыжский",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-17.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Театрализованный концерт",
+          "title": "Путеводитель по оркестру. Карнавал животных",
+          "musician": "Бенджамин Бриттен. Камиль Сен-Санс",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-18.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в трех действиях",
+          "title": "Русалка",
+          "musician": "Антонин Дворжак",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-19.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в двух действиях",
+          "title": "Свадьба Фигаро",
+          "musician": "Вольфганг Амадей Моцарт",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-20.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в двух действиях",
+          "title": "Севильский цирюльник",
+          "musician": "Джоаккино Россини",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-21.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в четырех действиях с прологом",
+          "title": "Сказка о царе Салтане",
+          "musician": "Николай Римский-Корсаков",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-22.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в двух действиях",
+          "title": "Так поступают все женщины, или Школа влюбленных",
+          "musician": "Вольфганг Амадей Моцарт",
+          "date": "25 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-23.png",
+          "url": "/performances/1"
+        }
+      ]
+    },
+    {
+      "scene": "Камерная сцена",
+      "imgURI": "scene/scene-4.png",
+      "cards": [
+        {
+          "caption": "(Pieta) Кантата для сопрано, альта, хора и струнного оркестра, сценическая версия",
+          "title": "Stabat Mater",
+          "musician": "Джованни Баттиста Перголези",
+          "date": "24 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-24.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в одном действии с прологом",
+          "title": "Ариадна\nна Наксосе",
+          "musician": "Рихард Штраус",
+          "date": "24 августа — 16 октября 2020",
+          "restriction": "11+",
+          "image": "season/opera-25.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в двух действиях",
+          "title": "Волшебная флейта",
+          "musician": "Вольфганг Амадей Моцарт",
+          "date": "24 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-26.png",
+          "url": "/performances/1"
+        },
+        {
+          "caption": "Опера в одном действии, исполняется с одним антрактом",
+          "title": "Джанни Скикки",
+          "musician": "Джакомо Пуччини",
+          "date": "24 августа — 16 октября 2020",
+          "restriction": "12+",
+          "image": "season/opera-27.png",
+          "url": "/performances/1"
+        }
+      ]
+    }
+  ]
+}

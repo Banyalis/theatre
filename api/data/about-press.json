@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "title": "Пресс-служба"
+  },
+  "type": "press",
+  "content": {
+    "info": {
+      "title": "Пресс-служба",
+      "description": "Пресс-служба Большого театра — это информационный центр, где вы всегда сможете получить ответы на интересующие вас вопросы, связанные с жизнедеятельностью Большого театра.",
+      "staff": {
+        "leader": {
+          "image": "",
+          "name": "Катерина Новикова",
+          "position": "Начальник пресс-службы"
+        },
+        "list": [
+          {
+            "image": "",
+            "name": "Наталия Виноградова"
+          },
+          {
+            "image": "",
+            "name": "Елена Тимощенко"
+          },
+          {
+            "image": "",
+            "name": "Иван Семеняка"
+          },
+          {
+            "image": "",
+            "name": "Михаил Яруш"
+          }
+        ]
+      },
+      "contacts": [
+        {
+          "type": "phone",
+          "caption": "Телефон",
+          "link": "8 495 692–08–18"
+        },
+        {
+          "type": "mail",
+          "caption": "Электронная почта",
+          "link": "pr@bolshoi.ru"
+        },
+        {
+          "caption": "Почтовый адрес",
+          "link": "125009, Москва, Театральная пл, 1"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Фотографии для прессы",
+      "items": [
+        {
+          "title": "Премьера оперы «Ариодант»",
+          "size": "31,8 МБ",
+          "image": "/images/about/press/1x/1-min.png",
+          "image2x": "/images/about/press/2x/1-min.png"
+        },
+        {
+          "title": "Премьера балета «Чайка»",
+          "size": "9,6 МБ",
+          "image": "/images/about/press/1x/2-min.png",
+          "image2x": "/images/about/press/2x/2-min.png"
+        },
+        {
+          "title": "Премьера оперы «Мазепа»",
+          "size": "20,8 МБ",
+          "image": "/images/about/press/1x/3-min.png",
+          "image2x": "/images/about/press/2x/3-min.png"
+        },
+        {
+          "title": "«Дневник Анны Франк». «Белая роза». Премьера одноактных опер",
+          "size": "18,9 МБ",
+          "image": "/images/about/press/1x/4-min.png",
+          "image2x": "/images/about/press/2x/4-min.png"
+        },
+        {
+          "title": "Премьера оперы «Тоска»",
+          "size": "56,4 МБ",
+          "image": "/images/about/press/1x/5-min.png",
+          "image2x": "/images/about/press/2x/5-min.png"
+        },
+        {
+          "title": "Премьера музыкальной комедии «Москва, Черёмушки»",
+          "size": "11,9 МБ",
+          "image": "/images/about/press/1x/6-min.png",
+          "image2x": "/images/about/press/2x/6-min.png"
+        },
+        {
+          "title": "Мировая премьера балета «Орландо»",
+          "size": "14,8 МБ",
+          "image": "/images/about/press/1x/7-min.png",
+          "image2x": "/images/about/press/2x/7-min.png"
+        },
+        {
+          "title": "Премьера оперы «Саломея»",
+          "size": "14,7 МБ",
+          "image": "/images/about/press/1x/8-min.png",
+          "image2x": "/images/about/press/2x/8-min.png"
+        },
+        {
+          "title": "Премьера оперы «Искатели жемчуга»",
+          "size": "8 МБ",
+          "image": "/images/about/press/1x/9-min.png",
+          "image2x": "/images/about/press/2x/9-min.png"
+        },
+        {
+          "title": "Четыре персонажа в поисках сюжета. Премьера одноактных балетов",
+          "size": "10,9 МБ",
+          "image": "/images/about/press/1x/10-min.png",
+          "image2x": "/images/about/press/2x/10-min.png"
+        },
+        {
+          "title": "Премьера оперы «Маленький трубочист»",
+          "size": "17,4 МБ",
+          "image": "/images/about/press/1x/11-min.png",
+          "image2x": "/images/about/press/2x/11-min.png"
+        },
+        {
+          "title": "Премьера оперы «Садко»",
+          "size": "54,4 МБ",
+          "image": "/images/about/press/1x/12-min.png",
+          "image2x": "/images/about/press/2x/12-min.png"
+        },
+        {
+          "title": "Премьера балета «Жизель». Редакция Алексея Ратманского",
+          "size": "5,5 МБ",
+          "image": "/images/about/press/1x/13-min.png",
+          "image2x": "/images/about/press/2x/13-min.png"
+        },
+        {
+          "title": "Премьера оперы «Сказка о царе Салтане»",
+          "size": "25,3 МБ",
+          "image": "/images/about/press/1x/14-min.png",
+          "image2x": "/images/about/press/2x/14-min.png"
+        },
+        {
+          "title": "Премьера оперы «Перикола»",
+          "size": "8,5 МБ",
+          "image": "/images/about/press/1x/15-min.png",
+          "image2x": "/images/about/press/2x/15-min.png"
+        },
+        {
+          "title": "Премьера балета «Симфония до мажор»",
+          "size": "4,6 МБ",
+          "image": "/images/about/press/1x/16-min.png",
+          "image2x": "/images/about/press/2x/16-min.png"
+        },
+        {
+          "title": "Премьера балета «Парижское веселье»",
+          "size": "6,4 МБ",
+          "image": "/images/about/press/1x/17-min.png",
+          "image2x": "/images/about/press/2x/17-min.png"
+        },
+        {
+          "title": "Премьера оперы «Евгений Онегин»",
+          "size": "16,9 МБ",
+          "image": "/images/about/press/1x/18-min.png",
+          "image2x": "/images/about/press/2x/18-min.png"
+        },
+        {
+          "title": "Премьера балета «Зимняя сказка»",
+          "size": "13,6 МБ",
+          "image": "/images/about/press/1x/19-min.png",
+          "image2x": "/images/about/press/2x/19-min.png"
+        },
+        {
+          "title": "«Телефон», «Медиум». Премьера одноактных опер",
+          "size": "2,3 МБ",
+          "image": "/images/about/press/1x/20-min.png",
+          "image2x": "/images/about/press/2x/20-min.png"
+        },
+        {
+          "title": "Премьера оперы «Русалка»",
+          "size": "21,4 МБ",
+          "image": "/images/about/press/1x/21-min.png",
+          "image2x": "/images/about/press/2x/21-min.png"
+        },
+        {
+          "title": "Премьера оперы «Путешествие в Реймс»",
+          "size": "27,1 МБ",
+          "image": "/images/about/press/1x/22-min.png",
+          "image2x": "/images/about/press/2x/22-min.png"
+        },
+        {
+          "title": "Премьера оперы «Один день Ивана Денисовича»",
+          "size": "5,4 МБ",
+          "image": "/images/about/press/1x/23-min.png",
+          "image2x": "/images/about/press/2x/23-min.png"
+        },
+        {
+          "title": "Премьера балета «Артефакт-сюита»",
+          "size": "15,1 МБ",
+          "image": "/images/about/press/1x/24-min.png",
+          "image2x": "/images/about/press/2x/24-min.png"
+        },
+        {
+          "title": "Премьера балета «Петрушка»",
+          "size": "8,2 МБ",
+          "image": "/images/about/press/1x/25-min.png",
+          "image2x": "/images/about/press/2x/25-min.png"
+        },
+        {
+          "title": "Премьера оперы «Севильский цирюльник»",
+          "size": "24,1 МБ",
+          "image": "/images/about/press/1x/26-min.png",
+          "image2x": "/images/about/press/2x/26-min.png"
+        },
+        {
+          "title": "«Сорочинская ярмарка». Возобновление постановки",
+          "size": "17,2 МБ",
+          "image": "/images/about/press/1x/27-min.png",
+          "image2x": "/images/about/press/2x/27-min.png"
+        },
+        {
+          "title": "Премьера оперы «Богема»",
+          "size": "19,8 МБ",
+          "image": "/images/about/press/1x/28-min.png",
+          "image2x": "/images/about/press/2x/28-min.png"
+        },
+        {
+          "title": "«Дочь фараона». Возобновление балета",
+          "size": "11,5 МБ",
+          "image": "/images/about/press/1x/29-min.png",
+          "image2x": "/images/about/press/2x/29-min.png"
+        },
+        {
+          "title": "«Коппелия». Возобновление балета",
+          "size": "9,1 МБ",
+          "image": "/images/about/press/1x/30-min.png",
+          "image2x": "/images/about/press/2x/30-min.png"
+        },
+        {
+          "title": "Премьера оперы «Бал-маскарад»",
+          "size": "14,7 МБ",
+          "image": "/images/about/press/1x/31-min.png",
+          "image2x": "/images/about/press/2x/31-min.png"
+        },
+        {
+          "title": "Премьера балета «Анна Каренина»",
+          "size": "10,7 МБ",
+          "image": "/images/about/press/1x/32-min.png",
+          "image2x": "/images/about/press/2x/32-min.png"
+        },
+        {
+          "title": "Премьера оперы «Пиковая дама»",
+          "size": "11,1 МБ",
+          "image": "/images/about/press/1x/33-min.png",
+          "image2x": "/images/about/press/2x/33-min.png"
+        },
+        {
+          "title": "Мировая премьера балета «Нуреев»",
+          "size": "23,1 МБ",
+          "image": "/images/about/press/1x/34-min.png",
+          "image2x": "/images/about/press/2x/34-min.png"
+        },
+        {
+          "title": "Премьера балета «Ромео и Джульетта»",
+          "size": "5,5 МБ",
+          "image": "/images/about/press/1x/35-min.png",
+          "image2x": "/images/about/press/2x/35-min.png"
+        },
+        {
+          "title": "Премьера балета «Забытая земля»",
+          "size": "8,8 МБ",
+          "image": "/images/about/press/1x/36-min.png",
+          "image2x": "/images/about/press/2x/36-min.png"
+        },
+        {
+          "title": "Премьера театрализованного концерта «Путеводитель по оркестру. Карнавал животных»",
+          "size": "2,7 МБ",
+          "image": "/images/about/press/1x/37-min.png",
+          "image2x": "/images/about/press/2x/37-min.png"
+        },
+        {
+          "title": "Премьера оперы «Снегурочка»",
+          "size": "8 МБ",
+          "image": "/images/about/press/1x/38-min.png",
+          "image2x": "/images/about/press/2x/38-min.png"
+        },
+        {
+          "title": "Премьера одноактных балетов «Клетка», «Русские сезоны», «Этюды».",
+          "size": "7,2 МБ",
+          "image": "/images/about/press/1x/39-min.png",
+          "image2x": "/images/about/press/2x/39-min.png"
+        },
+        {
+          "title": "Премьера оперы «Идиот»",
+          "size": "4,3 МБ",
+          "image": "/images/about/press/1x/40-min.png",
+          "image2x": "/images/about/press/2x/40-min.png"
+        },
+        {
+          "title": "Премьера оперы «Манон Леско»",
+          "size": "27,6 МБ",
+          "image": "/images/about/press/1x/41-min.png",
+          "image2x": "/images/about/press/2x/41-min.png"
+        },
+        {
+          "title": "Золотой век",
+          "size": "5,3 МБ",
+          "image": "/images/about/press/1x/42-min.png",
+          "image2x": "/images/about/press/2x/42-min.png"
+        },
+        {
+          "title": "Премьера драматической легенды «Осуждение Фауста»",
+          "size": "19 МБ",
+          "image": "/images/about/press/1x/43-min.png",
+          "image2x": "/images/about/press/2x/43-min.png"
+        },
+        {
+          "title": "Премьера оперы «Дон Паскуале»",
+          "size": "22,8 МБ",
+          "image": "/images/about/press/1x/44-min.png",
+          "image2x": "/images/about/press/2x/44-min.png"
+        },
+        {
+          "title": "Премьера оперы «Каменный гость»",
+          "size": "23,2 МБ",
+          "image": "/images/about/press/1x/45-min.png",
+          "image2x": "/images/about/press/2x/45-min.png"
+        },
+        {
+          "title": "Премьера оперы «Катерина Измайлова»",
+          "size": "13,7 МБ",
+          "image": "/images/about/press/1x/46-min.png",
+          "image2x": "/images/about/press/2x/46-min.png"
+        },
+        {
+          "title": "Премьера балета \"Дон Кихот\"",
+          "size": "21,3 МБ",
+          "image": "/images/about/press/1x/47-min.png",
+          "image2x": "/images/about/press/2x/47-min.png"
+        },
+        {
+          "title": "Премьера оперы \"Иоланта\"",
+          "size": "15,2 МБ",
+          "image": "/images/about/press/1x/48-min.png",
+          "image2x": "/images/about/press/2x/48-min.png"
+        },
+        {
+          "title": "Мировая премьера балета «Герой нашего времени»",
+          "size": "18 МБ",
+          "image": "/images/about/press/1x/49-min.png",
+          "image2x": "/images/about/press/2x/49-min.png"
+        },
+        {
+          "title": "Премьера оперы «Кармен»",
+          "size": "1,2 МБ",
+          "image": "/images/about/press/1x/50-min.png",
+          "image2x": "/images/about/press/2x/50-min.png"
+        },
+        {
+          "title": "Премьера оперы «Свадьба Фигаро»",
+          "size": "4 МБ",
+          "image": "/images/about/press/1x/51-min.png",
+          "image2x": "/images/about/press/2x/51-min.png"
+        },
+        {
+          "title": "Премьера оперы «История Кая и Герды»",
+          "size": "25,8 МБ",
+          "image": "/images/about/press/1x/52-min.png",
+          "image2x": "/images/about/press/2x/52-min.png"
+        },
+        {
+          "title": "«Легенда о любви». Премьера балета",
+          "size": "31,6 МБ",
+          "image": "/images/about/press/1x/53-min.png",
+          "image2x": "/images/about/press/2x/53-min.png"
+        },
+        {
+          "title": "Мировая премьера балета «Укрощение строптивой»",
+          "size": "26,1 МБ",
+          "image": "/images/about/press/1x/54-min.png",
+          "image2x": "/images/about/press/2x/54-min.png"
+        },
+        {
+          "title": "Премьера оперы «Так поступают все женщины, или Школа влюбленных»",
+          "size": "40,9 МБ",
+          "image": "/images/about/press/1x/55-min.png",
+          "image2x": "/images/about/press/2x/55-min.png"
+        },
+        {
+          "title": "Премьера балета «Дама с камелиями»",
+          "size": "31,8 МБ",
+          "image": "/images/about/press/1x/56-min.png",
+          "image2x": "/images/about/press/2x/56-min.png"
+        },
+        {
+          "title": "Премьера оперы «Царская невеста»",
+          "size": "12,4 МБ",
+          "image": "/images/about/press/1x/57-min.png",
+          "image2x": "/images/about/press/2x/57-min.png"
+        },
+        {
+          "title": "Премьера оперы «Дон Карлос»",
+          "size": "20,4 МБ",
+          "image": "/images/about/press/1x/58-min.png",
+          "image2x": "/images/about/press/2x/58-min.png"
+        },
+        {
+          "title": "Премьера балета «Онегин»",
+          "size": "13,2 МБ",
+          "image": "/images/about/press/1x/59-min.png",
+          "image2x": "/images/about/press/2x/59-min.png"
+        },
+        {
+          "title": "Возобновление балета «Баядерка»",
+          "size": "16,3 МБ",
+          "image": "/images/about/press/1x/60-min.png",
+          "image2x": "/images/about/press/2x/60-min.png"
+        },
+        {
+          "title": "Премьера оперы «Травиата»",
+          "size": "15,6 МБ",
+          "image": "/images/about/press/1x/61-min.png",
+          "image2x": "/images/about/press/2x/61-min.png"
+        },
+        {
+          "title": "Премьера балета «Драгоценности»",
+          "size": "22,7 МБ",
+          "image": "/images/about/press/1x/62-min.png",
+          "image2x": "/images/about/press/2x/62-min.png"
+        },
+        {
+          "title": "«Щелкунчик». Возобновление спектакля на исторической сцене",
+          "size": "18,1 МБ",
+          "image": "/images/about/press/1x/63-min.png",
+          "image2x": "/images/about/press/2x/63-min.png"
+        },
+        {
+          "title": "«Борис Годунов». Возобновление спектакля 1948 года.",
+          "size": "23 МБ",
+          "image": "/images/about/press/1x/64-min.png",
+          "image2x": "/images/about/press/2x/64-min.png"
+        },
+        {
+          "title": "Премьера балета «Спящая красавица»",
+          "size": "15,6 МБ",
+          "image": "/images/about/press/1x/65-min.png",
+          "image2x": "/images/about/press/2x/65-min.png"
+        },
+        {
+          "title": "Премьера балета «Ромео и Джульетта»",
+          "size": "5,2 МБ",
+          "image": "/images/about/press/1x/66-min.png",
+          "image2x": "/images/about/press/2x/66-min.png"
+        }
+      ]
+    }
+  }
+}

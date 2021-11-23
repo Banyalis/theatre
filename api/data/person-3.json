@@ -1,0 +1,127 @@
+{
+  "hero": {
+    "name": "Владислав Колпаков",
+    "position": "Режиссер",
+    "image": "/images/persons/member-3.jpeg",
+    "image2x": "/images/persons/member-3.jpeg"
+  },
+  "about": {
+    "text": "<p>В 1998 г. окончил с отличием Российскую академию театрального искусства (ГИТИС, мастерская профессора, заслуженного деятеля искусств РФ Р. Я. Немчинской). <a href=\"/\">Дипломной</a> работой стала постановка оперы «Служанка-госпожа» Дж. Б. Перголези в Московском музыкальном театре «Геликон-опера».</p><p>В 1996 г. стажировался в Италии у Франко Брамбиллы. В 1998-2000 гг. учился в магистратуре ГИТИСа.</p>"
+  },
+  "repertoire": [
+    {
+      "year": "Участвовал в постановках опер:",
+      "list": [
+        {
+          "url": "/performances/0",
+          "title": "Волшебная флейта",
+          "description": "В. А. Моцарта",
+          "choreographer": "Режиссер-постановщик Грэм Вик, 2005",
+          "image": "/images/persons/example.jpg",
+          "image2x": "/images/persons/example-2x.jpg"
+        },
+        {
+          "url": "/performances/0",
+          "title": "Дети Розенталя",
+          "description": "Л. Десятникова",
+          "choreographer": "Режиссер-постановщик Эймунтас Някрошюс, 2005",
+          "image": "/images/persons/example2.jpg",
+          "image2x": "/images/persons/example2-2x.jpg"
+        },
+        {
+          "url": "/performances/0",
+          "title": "Набукко",
+          "description": "Дж. Верди",
+          "choreographer": "Режиссер-постановщик Михаил Кисляров, 2006",
+          "image": "/images/persons/example3.jpg",
+          "image2x": "/images/persons/example3-2x.jpg"
+        },
+        {
+          "url": "/performances/0",
+          "title": "Борис Годунов",
+          "description": "М. Мусоргского",
+          "choreographer": "Режиссер-постановщик Валерий Фокин, 2007",
+          "image": "/images/persons/example.jpg",
+          "image2x": "/images/persons/example-2x.jpg"
+        }
+      ]
+    }
+  ],
+  "members": {
+    "title": "Все режиссеры",
+    "list": [
+      {
+        "url": "/people",
+        "image": "/images/persons/member-1.jpeg",
+        "image2x": "/images/persons/member-1.jpeg",
+        "name": "Светлана Захарова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-2.jpeg",
+        "image2x": "/images/persons/member-2.jpeg",
+        "name": "Екатерина Крысанова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-3.jpeg",
+        "image2x": "/images/persons/member-3.jpeg",
+        "name": "Анастасия Сташкевич"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-1.jpeg",
+        "image2x": "/images/persons/member-1.jpeg",
+        "name": "Анна Никулина"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-2.jpeg",
+        "image2x": "/images/persons/member-2.jpeg",
+        "name": "Юлия Степанова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-3.jpeg",
+        "image2x": "/images/persons/member-3.jpeg",
+        "name": "Евгения Образцова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-1.jpeg",
+        "image2x": "/images/persons/member-1.jpeg",
+        "name": "Светлана Захарова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-2.jpeg",
+        "image2x": "/images/persons/member-2.jpeg",
+        "name": "Екатерина Крысанова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-3.jpeg",
+        "image2x": "/images/persons/member-3.jpeg",
+        "name": "Анастасия Сташкевич"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-1.jpeg",
+        "image2x": "/images/persons/member-1.jpeg",
+        "name": "Анна Никулина"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-2.jpeg",
+        "image2x": "/images/persons/member-2.jpeg",
+        "name": "Юлия Степанова"
+      },
+      {
+        "url": "/people",
+        "image": "/images/persons/member-3.jpeg",
+        "image2x": "/images/persons/member-3.jpeg",
+        "name": "Евгения Образцова"
+      }
+    ]
+  }
+}

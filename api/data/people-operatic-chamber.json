@@ -1,0 +1,369 @@
+{
+  "sections": [
+    {
+      "important": true,
+      "groups": [
+        {
+          "people": [
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Роман Бобров",
+              "position": "Заместитель заведующей творческими коллективами оперной труппы"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Александр Рыбнов",
+              "position": "Заместитель главного хормейстера"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Дмитрий Вдовин",
+              "position": "Руководитель Молодежной оперной программы"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Валерий Борисов",
+              "position": "Главный хормейстер"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Солисты",
+      "groups": [
+        {
+          "position": "Сопрано",
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Ирина Алексеенко"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Марианна Асвойнова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Анна Бауман"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Ольга Бурмистрова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Татьяна Ветрова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Виктория Григоренко"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Тамара Касумова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Татьяна Конинская"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Ирина Курманова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Александра Майская"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Александра Наношкина"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Наталья Риттер"
+            }
+          ]
+        },
+        {
+          "position": "Меццо-сопрано",
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Ольга Березанская"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Екатерина Большакова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Ольга Дейнека-Бостон"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Ирина Березина"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Амаль Осакаускене"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Мария Патрушева"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Виктория Преображенская"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Ульяна Разумная"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Злата Рубинова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Анна Семенюк"
+            }
+          ]
+        },
+        {
+          "position": "Тенора",
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Игорь Вялых"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Василий Гафнер"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Захар Ковалев"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Валерий Макаров"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Петр Мелентьев"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Борислав Молчанов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Сергей Остроумов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Павел Паремузов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Виталий Родин"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Алексей Сулимов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Александр Чернов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Михаил Яненко"
+            }
+          ]
+        },
+        {
+          "position": "Баритоны",
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Роман Бобров"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Алексей Морозов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Александр Полковников"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Василий Соколов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Азамат Цалити"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Роман Шевчук"
+            }
+          ]
+        },
+        {
+          "position": "Басы",
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Виктор Боровков"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Анатолий Захаров"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Александр Колесников"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Александр Маркеев"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Алексей Прокопьев"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Алексей Смирнов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Кирилл Филин"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Давид Целаури"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Герман Юкавский"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

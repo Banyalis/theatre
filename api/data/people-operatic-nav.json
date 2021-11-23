@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "url": "/people/operatic/soloists",
+      "title": "Солисты"
+    },
+    {
+      "url": "/people/operatic/invited",
+      "title": "Приглашенные солисты"
+    },
+    {
+      "url": "/people/operatic/chorus",
+      "title": "Хор"
+    },
+    {
+      "url": "/people/operatic/mimic",
+      "title": "Мимический ансамбль"
+    },
+    {
+      "url": "/people/operatic/staff",
+      "title": "Персонал"
+    },
+    {
+      "url": "/people/operatic/youth",
+      "title": "Молодежная оперная программа"
+    },
+    {
+      "url": "/people/operatic/chamber",
+      "title": "Камерная сцена"
+    }
+  ]
+}

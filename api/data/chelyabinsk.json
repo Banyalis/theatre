@@ -1,0 +1,133 @@
+{
+  "type": "tour",
+  "data": {
+    "title": "Гастроли в челябинске",
+    "artists": "Опера, хор и оркестр Камерной сцены Большого театра",
+    "date": "С 23 по 24 ноября",
+    "time": "Уточняйте даты выступлений в программе гастролей",
+    "about": {
+      "caption": "Два представления оперы «Искатели жемчуга» Ж. Бизе пройдут на сцене Челябинского государственного академического театра оперы и балета им. М. Глинки 23 и 24 ноября 2021."
+    },
+    "program": [
+      {
+        "url": "/performances/opera/les-pecheurs-de-perles",
+        "days": "23 и 24 ноября (19:00)",
+        "title": "Искатели жемчуга",
+        "caption": "Опера в трех действиях",
+        "author": "В редакции Брэда Коэна",
+        "picture": "/images/gastroli/1/program/1.jpeg",
+        "picture2x": "/images/gastroli/1/program/1@2x.jpeg",
+        "roles": ["Дирижер:", "Надир:", "Зурга:", "Лейла:", "Нурабад:"],
+        "slides": [
+          {
+            "day": "23 ноября",
+            "actorGroups": [
+              {
+                "actors": [
+                  {
+                    "url": "/persons/vereshchaginaleksey",
+                    "name": "Алексей Верещагин"
+                  }
+                ]
+              },
+              {
+                "actors": [
+                  {
+                    "url": "/persons/abaimovyaroslav",
+                    "name": "Ярослав Абаимов"
+                  }
+                ]
+              },
+              {
+                "actors": [
+                  {
+                    "url": "/persons/tsalitiazamat",
+                    "name": "Азамат Цалити"
+                  }
+                ]
+              },
+              {
+                "actors": [
+                  {
+                    "url": "/persons/fedotovatatiana",
+                    "name": "Татьяна Федотова"
+                  }
+                ]
+              },
+              {
+                "actors": [
+                  {
+                    "url": "/persons/filinkirill",
+                    "name": "Кирилл Филин"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "day": "24 ноября",
+            "actorGroups": [
+              {
+                "actors": [
+                  {
+                    "url": "/persons/vereshchaginaleksey",
+                    "name": "Алексей Верещагин"
+                  }
+                ]
+              },
+              {
+                "actors": [
+                  {
+                    "url": "/persons/abaimovyaroslav",
+                    "name": "Ярослав Абаимов"
+                  }
+                ]
+              },
+              {
+                "actors": [
+                  {
+                    "url": "/persons/tsalitiazamat",
+                    "name": "Азамат Цалити"
+                  }
+                ]
+              },
+              {
+                "actors": [
+                  {
+                    "url": "/persons/fedotovatatiana",
+                    "name": "Татьяна Федотова"
+                  }
+                ]
+              },
+              {
+                "actors": [
+                  {
+                    "url": "/persons/filinkirill",
+                    "name": "Кирилл Филин"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "partners": [
+          {
+            "title": "Привилегированный cпонcор",
+            "image": "/images/gastroli/partners/1.png",
+            "image2x": "/images/gastroli/partners/1@2x.png"
+          },
+          {
+            "title": "Генеральный спонсор",
+            "image": "/images/gastroli/partners/2.png",
+            "image2x": "/images/gastroli/partners/2@2x.png"
+          },
+          {
+            "title": "Привилегированный партнер",
+            "image": "/images/gastroli/partners/3.png",
+            "image2x": "/images/gastroli/partners/3@2x.png"
+          }
+        ]
+      }
+    ]
+  }
+}

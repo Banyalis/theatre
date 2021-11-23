@@ -1,0 +1,170 @@
+[
+  {
+    "datetime": "2021-11-21T15:00:00",
+    "title": "Вечер камерной музыки",
+    "subtitle": "Концерт артистов оркестра Большого театра",
+    "slug": "music-evening",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "beethoven",
+      "name": "Бетховенский зал"
+    }
+  },
+  {
+    "datetime": "2021-11-23T19:00:00",
+    "title": "Антология русского классического романса. Петр Чайковский. Вечер IV",
+    "subtitle": "Концерт артистов Молодежной оперной программы Большого театра",
+    "slug": "pyotr-tchaikovsky",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "beethoven",
+      "name": "Бетховенский зал"
+    }
+  },
+  {
+    "datetime": "2021-11-24T19:30:00",
+    "title": "Антология русского классического романса. Петр Чайковский. Вечер IV",
+    "subtitle": "Концерт артистов Молодежной оперной программы Большого театра",
+    "slug": "pyotr-tchaikovsky",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "beethoven",
+      "name": "Бетховенский зал"
+    }
+  },
+  {
+    "datetime": "2021-11-26T19:30:00",
+    "title": "Ich liebe dich<br>Любовная вокальная лирика эпохи романтизма",
+    "subtitle": "Концерт солистов и стажеров оперной труппы",
+    "slug": "ich-liebe-dich",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "beethoven",
+      "name": "Бетховенский зал"
+    }
+  },
+  {
+    "datetime": "2021-11-28T19:30:00",
+    "title": "Камерная музыка. Духовые инструменты",
+    "subtitle": "Концерт артистов оркестра Большого театра",
+    "slug": "wind-instruments",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "beethoven",
+      "name": "Бетховенский зал"
+    }
+  },
+  {
+    "datetime": "2021-12-04T12:00:00",
+    "title": "Концерт детского хора Большого театра",
+    "subtitle": "Концерт",
+    "slug": "children-choir",
+    "category": "concert",
+    "age": "6+",
+    "scene": {
+      "type": "historical",
+      "name": "Историческая сцена"
+    }
+  },
+  {
+    "datetime": "2021-12-07T19:00:00",
+    "title": "Кантаты. Миф. Режиссёрские новеллы",
+    "subtitle": "Проект Молодежной оперной программы Большого театра",
+    "slug": "cantatas",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "beethoven",
+      "name": "Бетховенский зал"
+    }
+  },
+  {
+    "datetime": "2021-12-09T19:30:00",
+    "title": "Кантаты. Миф. Режиссёрские новеллы",
+    "subtitle": "Проект Молодежной оперной программы Большого театра",
+    "slug": "cantatas",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "beethoven",
+      "name": "Бетховенский зал"
+    }
+  },
+  {
+    "datetime": "2021-12-15T19:30:00",
+    "title": "Вечер камерной музыки",
+    "subtitle": "Концерт артистов оркестра Большого театра",
+    "slug": "music-evening-december",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "beethoven",
+      "name": "Бетховенский зал"
+    }
+  },
+  {
+    "datetime": "2021-12-18T15:00:00",
+    "title": "Карнавал созвучий. Памяти Камиля Сен-Санса",
+    "subtitle": "Концерт артистов оркестра Большого театра",
+    "slug": "carnival-harmonies",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "beethoven",
+      "name": "Бетховенский зал"
+    }
+  },
+  {
+    "datetime": "2022-01-13T19:00:00",
+    "title": "Концерт Пласидо Доминго",
+    "subtitle": "Концерт",
+    "slug": "koncert-plasido-domingo",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "historical",
+      "name": "Историческая сцена"
+    }
+  },
+  {
+    "datetime": "2022-01-17T19:00:00",
+    "title": "Открытие II Фестиваля памяти Валерия Халилова",
+    "subtitle": "Концерт",
+    "slug": "otkrytie-festivalya-pamyati",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "historical",
+      "name": "Историческая сцена"
+    }
+  },
+  {
+    "datetime": "2022-01-22T19:00:00",
+    "title": "Гала-концерт к 110-летию со дня рождения Б. А. Покровского",
+    "subtitle": "Концерт",
+    "slug": "gala-koncert-k-110-letiyu",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "chamber",
+      "name": "Камерная сцена"
+    }
+  },
+  {
+    "datetime": "2022-01-29T19:00:00",
+    "title": "К 110-летию со дня рождения Б. А. Покровского",
+    "subtitle": "Сцены из спектаклей",
+    "slug": "k-110-letiyu",
+    "category": "concert",
+    "age": "12+",
+    "scene": {
+      "type": "chamber",
+      "name": "Камерная сцена"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "url": "/people/ballet/soloists",
+      "title": "Солисты"
+    },
+    {
+      "url": "/people/ballet/corps",
+      "title": "Кордебалет"
+    },
+    {
+      "url": "/people/ballet/staff",
+      "title": "Персонал"
+    }
+  ]
+}

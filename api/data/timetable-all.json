@@ -1,0 +1,283 @@
+{
+  "type": "all",
+  "datesRange": {
+    "startAt": "2020-10-06",
+    "endAt": "2021-04-20"
+  },
+  "cards": [
+    {
+      "date": "30 сентября",
+      "day": "Воскресенье",
+      "items": [
+        {
+          "id": 0,
+          "modifier": "all",
+          "announced": true,
+          "link": "/performances/1",
+          "image": "/images/poster/example2.jpg",
+          "image2x": "/images/poster/example2-2x.jpg",
+          "subtitle": "Опера в трех действиях",
+          "age": "12+",
+          "title": "Дон Кихот",
+          "datetime": "2021-07-18T12:00:00",
+          "team": "Екатерина Крысанова, Артем Овчаренко, Юрий Островский, Надежда Гредасова",
+          "sceneHistorical": true,
+          "scene": "Историческая сцена",
+          "button": {
+            "title": "Купить билет",
+            "link": "https://ticket.bolshoi.ru/shows"
+          }
+        },
+        {
+          "id": 0,
+          "modifier": "all",
+          "announced": true,
+          "link": "/performances/0",
+          "image": "/images/poster/example.jpg",
+          "image2x": "/images/poster/example-2x.jpg",
+          "subtitle": "Балет в трех действиях",
+          "age": "12+",
+          "title": "Коппелия",
+          "time": "14:00",
+          "team": "Екатерина Крысанова, Артем Овчаренко, Юрий Островский, Надежда Гредасова",
+          "sceneNew": true,
+          "scene": "Новая сцена",
+          "tickets": "28 билетов",
+          "price": "от 100 до 15000 ₽",
+          "button": {
+            "title": "Купить билет",
+            "link": "https://ticket.bolshoi.ru/shows"
+          }
+        },
+        {
+          "id": 0,
+          "modifier": "all",
+          "announced": true,
+          "link": "/performances/1",
+          "image": "/images/poster/example2.jpg",
+          "image2x": "/images/poster/example2-2x.jpg",
+          "subtitle": "Опера в четырех действиях",
+          "age": "12+",
+          "title": "Дон Карлос",
+          "time": "19:00",
+          "team": "Екатерина Крысанова, Артем Овчаренко, Юрий Островский, Надежда Гредасова",
+          "sceneHistorical": true,
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "15000 ₽",
+          "button": {
+            "title": "Купить билет",
+            "link": "https://ticket.bolshoi.ru/shows"
+          }
+        },
+        {
+          "id": 0,
+          "modifier": "all",
+          "announced": true,
+          "link": "/performances/0",
+          "image": "/images/poster/example3.jpg",
+          "image2x": "/images/poster/example3-2x.jpg",
+          "subtitle": "Балет в трех действиях",
+          "age": "12+",
+          "title": "Иван грозный",
+          "time": "19:00",
+          "team": "Екатерина Крысанова, Артем Овчаренко, Юрий Островский, Надежда Гредасова",
+          "sceneChamber": true,
+          "scene": "Камерная сцена",
+          "tickets": "378 билетов",
+          "price": "от 100 до 15000 ₽",
+          "button": {
+            "title": "Купить билет",
+            "link": "https://ticket.bolshoi.ru/shows"
+          }
+        },
+        {
+          "oneAct": true,
+          "title": "Программа одноактных балетов",
+          "age": "12+",
+          "description": "В рамках программы Международной оперно-симфонической лаборатории New Opera World",
+          "list": [
+            {
+              "id": 0,
+              "modifier": "all",
+              "announced": true,
+              "oneAct": true,
+              "link": "/performances/0",
+              "image": "/images/poster/example.jpg",
+              "image2x": "/images/poster/example-2x.jpg",
+              "title": "Артефакт-сюита",
+              "time": "19:00",
+              "team": "Екатерина Крысанова, Артем Овчаренко, Юрий Островский, Надежда Гредасова"
+            },
+            {
+              "id": 0,
+              "modifier": "all",
+              "announced": true,
+              "oneAct": true,
+              "link": "/performances/0",
+              "slider": [
+                {
+                  "image": "/images/poster/example2.jpg",
+                  "image2x": "/images/poster/example2-2x.jpg"
+                },
+                {
+                  "image": "/images/poster/example3.jpg",
+                  "image2x": "/images/poster/example3-2x.jpg"
+                }
+              ],
+              "subtitle": "Программа одноактных балетов",
+              "additionalTitles": [
+                {
+                  "text": "Артефакт-сюита"
+                }
+              ],
+              "title": "Кармен-сюита",
+              "time": "19:00",
+              "team": "Екатерина Крысанова, Артем Овчаренко, Юрий Островский, Надежда Гредасова",
+              "sceneNew": true,
+              "scene": "Новая сцена",
+              "tickets": "378 билетов",
+              "price": "от 100 до 15000 ₽",
+              "button": {
+                "title": "Купить билет",
+            "link": "https://ticket.bolshoi.ru/shows"
+              }
+            }
+          ]
+        },
+        {
+          "id": 0,
+          "modifier": "all",
+          "disabled": true,
+          "link": "/performances/0",
+          "image": "/images/poster/example3.jpg",
+          "image2x": "/images/poster/example3-2x.jpg",
+          "subtitle": "Балет в трех действиях с прологом",
+          "age": "12+",
+          "title": "Зимняя сказка",
+          "time": "19:00",
+          "sceneNew": true,
+          "scene": "Новая сцена",
+          "button": {
+            "type": "isDisabled",
+            "title": "Отменен"
+          }
+        }
+      ]
+    },
+    {
+      "date": "7 октября",
+      "day": "Вторник",
+      "items": [
+        {
+          "id": 0,
+          "modifier": "all",
+          "link": "/performances/0",
+          "image": "/images/poster/example.jpg",
+          "image2x": "/images/poster/example-2x.jpg",
+          "subtitle": "Балет в двух действиях",
+          "age": "12+",
+          "title": "Пер Гюнт ",
+          "time": "14:00",
+          "team": "Состав объявляется за неделю до назначенной даты спектакля",
+          "sceneNew": true,
+          "scene": "Новая сцена",
+          "button": {
+            "type": "isTransparentBlack",
+            "title": "График продаж"
+          }
+        }
+      ]
+    },
+    {
+      "date": "8 октября",
+      "day": "Среда",
+      "items": [
+        {
+          "id": 0,
+          "modifier": "all",
+          "link": "/performances/1",
+          "image": "/images/poster/example2.jpg",
+          "image2x": "/images/poster/example2-2x.jpg",
+          "subtitle": "Опера в одном действии",
+          "age": "12+",
+          "title": "Сестра Анжелика",
+          "time": "14:00",
+          "description": "В рамках программы Международной оперно-симфонической лаборатории New Opera World",
+          "team": "Состав объявляется за неделю до назначенной даты спектакля",
+          "sceneNew": true,
+          "scene": "Новая сцена",
+          "button": {
+            "type": "isDisabled",
+            "title": "Скоро в продаже"
+          }
+        }
+      ]
+    },
+    {
+      "date": "22 ноября",
+      "day": "Среда",
+      "items": [
+        {
+          "id": 0,
+          "modifier": "all",
+          "link": "/performances/1",
+          "image": "/images/poster/example3.jpg",
+          "image2x": "/images/poster/example3-2x.jpg",
+          "subtitle": "Опера в двух действиях",
+          "age": "12+",
+          "title": "Иоланта",
+          "time": "14:00",
+          "description": "В спектакле исполняется симфоническая сюита «Щелкунчик»",
+          "team": "Состав объявляется за неделю до назначенной даты спектакля",
+          "sceneChamber": true,
+          "scene": "Камерная сцена",
+          "button": {
+            "type": "isDisabled",
+            "title": "Скоро в продаже"
+          }
+        },
+        {
+          "id": 0,
+          "modifier": "all",
+          "announced": true,
+          "link": "/performances/0",
+          "image": "/images/poster/example.jpg",
+          "image2x": "/images/poster/example-2x.jpg",
+          "subtitle": "Балет в двух действиях",
+          "age": "12+",
+          "title": "Спящая красавица",
+          "time": "19:00",
+          "team": "Екатерина Крысанова, Артем Овчаренко, Юрий Островский, Надежда Гредасова",
+          "sceneHistorical": true,
+          "scene": "Историческая сцена",
+          "tickets": "378 билетов",
+          "price": "от 100 до 15000 ₽",
+          "button": {
+            "type": "isRed",
+            "title": "Купить билет",
+            "link": "https://ticket.bolshoi.ru/shows"
+          }
+        },
+        {
+          "id": 0,
+          "modifier": "all",
+          "disabled": true,
+          "link": "/performances/0",
+          "image": "/images/poster/example2.jpg",
+          "image2x": "/images/poster/example2-2x.jpg",
+          "subtitle": "Лирические сцены в трех действиях",
+          "age": "12+",
+          "title": "Евгений Онегин",
+          "time": "19:00",
+          "sceneHistorical": true,
+          "scene": "Историческая сцена",
+          "button": {
+            "type": "isDisabled",
+            "title": "Отменен"
+          }
+        }
+      ]
+    }
+  ]
+}

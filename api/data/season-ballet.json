@@ -1,0 +1,230 @@
+[
+  {
+    "scene": "Историческая сцена",
+    "imgURI": "scene/scene-1.png",
+    "cards": [
+      {
+        "caption": "Балет в двух действиях",
+        "title": "Анна Каренина",
+        "musician": "На музыку Петра Чайковского, Альфреда Шнитке, Кэта Стивенса (Юсуфа Ислама), по роману Льва Толстого",
+        "date": "20 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-8.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Опера в трех действиях",
+        "title": "Баядерка",
+        "musician": "Людвиг Минкус",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-9.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в трех действиях с прологом",
+        "title": "Дама с камелиями",
+        "musician": "На музыку Фридерика Шопена. Хореография Джона Ноймайера",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-10.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в трех действиях",
+        "title": "Дон Кихот",
+        "musician": "Людвиг Минкус",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-11.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в трех действиях",
+        "title": "Дочь фараона",
+        "musician": "Цезарь Пуни",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-12.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в трех частях",
+        "title": "Драгоценности",
+        "musician": "Габриэль Форе, Игорь Стравинский, Петр Чайковский. Хореография Джона Ноймайера",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-13.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в двух действиях",
+        "title": "Жизель",
+        "musician": "Адольф Адан. В редакции Юрия Григоровича",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-14.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в двух действиях",
+        "title": "Жизель",
+        "musician": "Адольф Адан. В редакции Алексея Ратманского",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-15.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в трех действиях с прологом",
+        "title": "Зимняя сказка",
+        "musician": "Джоби Тэлбот. Хореография Кристофера Уилдона",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-16.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в двух действиях",
+        "title": "Иван Грозный",
+        "musician": "На музыку Сергея Прокофьева",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-17.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в трех действиях",
+        "title": "Корсар",
+        "musician": "Адольф Адан",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-18.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в двух действиях",
+        "title": "Лебединое озеро",
+        "musician": "Петр Чайковский",
+        "date": "22 августа — 16 октября 2020",
+        "restriction": "12+",
+        "image": "season/ballet-19.png",
+        "url": "/performances/0"
+      }
+    ]
+  },
+  {
+    "scene": "Новая сцена",
+    "imgURI": "scene/scene-2.png",
+    "cards": [
+      {
+        "caption": "Балет в двух действиях",
+        "title": "Анюта",
+        "musician": "На музыку Валерия Гаврилина",
+        "date": "25 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-20.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в одном действии",
+        "title": "Артефакт-сюита",
+        "musician": "На музыку Эвы Кроссман-Хехт и Иоганна Себастьяна Баха",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-21.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в двух действиях",
+        "title": "Герой нашего времени",
+        "musician": "Илья Демуцкий",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-22.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в одном действии",
+        "title": "Забытая земля",
+        "musician": "На музыку «Симфонии-реквиема» Бенджамина Бриттена",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-23.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в двух действиях",
+        "title": "Золотой век",
+        "musician": "Дмитрий Шостакович",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в одном действии",
+        "title": "Кармен-сюита",
+        "musician": "На музыку Жоржа Бизе и Родиона Щедрина",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-1.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в одном действии",
+        "title": "Клетка",
+        "musician": "На музыку Игоря Стравинского",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-2.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в трех действиях",
+        "title": "Коппелия",
+        "musician": "Лео Делиб",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-3.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в трех действиях",
+        "title": "Онегин",
+        "musician": "На музыку Петра Чайковского. Хореография Джона Крэнко",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-4.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в одном действии",
+        "title": "Парижское веселье",
+        "musician": "На музыку Жака Оффенбаха/ Манюэля Розенталя",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-5.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в одном действии",
+        "title": "Петрушка",
+        "musician": "Игорь Стравинский",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-6.png",
+        "url": "/performances/0"
+      },
+      {
+        "caption": "Балет в двух действиях",
+        "title": "Пламя Парижа",
+        "musician": "Борис Асафьев",
+        "date": "26 августа — 16 октября 2020",
+        "restriction": "13+",
+        "image": "season/ballet-7.png",
+        "url": "/performances/0"
+      }
+    ]
+  }
+]

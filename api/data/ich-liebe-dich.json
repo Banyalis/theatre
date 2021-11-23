@@ -1,0 +1,342 @@
+{
+  "type": "concert",
+  "data": {
+    "title": "Ich liebe dich Любовная вокальная лирика эпохи романтизма",
+    "restriction": "12+",
+    "date": "26 ноября",
+    "time": "19:30",
+    "scene": "Бетховенский зал",
+    "sceneImage": "/images/scene/sceneNew-3.png",
+    "sceneImage2x": "/images/scene/sceneNew-3@2x.png",
+    "about": {
+      "content": "<p><a href=\"/news/obyavleniya/548-attentio-2021-10-28/\">Вход по цифровому сертификату (QR-коду)</a></p>"
+    },
+    "tickets": [
+      {
+        "date": "26 ноября",
+        "time": "19:30",
+        "day": "Пятница",
+        "button": {
+          "url": "https://ticket.bolshoi.ru/show/1917",
+          "type": "isRed",
+          "title": "Купить билет"
+        }
+      }
+    ],
+    "program": [
+      {
+        "district": "I отделение",
+        "blocks": [
+          {
+            "list": [
+              {
+                "title": "Готфрид Генрих Штёльцель Ария «Bist du bei mir» («Рядом пребудь») из оперы «Диомед»",
+                "description": "(«Нотная тетрадь Анны Магдалены Бах» № 25, BWV 508)",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Альбина Латипова (сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Роберт Шуман «Geständnis» («Признание»)",
+                "description": "на стихи Эмануэля фон Гейбеля",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Константин Артемьев (тенор)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Людвиг ван Бетховен «Ich liebe dich» (Нежная любовь: «Люблю тебя»)",
+                "description": "на стихи Карла Фридриха Херрозее, WoO 123",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Анна Шаповалова (сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Ференц Лист «Ich liebe dich» («Люблю тебя»)",
+                "description": "на стихи Фридриха Рюккерта, S. 315",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Екатерина Воронцова (меццо-сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Франц Шуберт «Gretchen am Spinnrade» («Гретхен за прялкой»)",
+                "description": "на стихи из трагедии Иоганна Вольфганга фон Гёте «Фауст», D. 118",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Светлана Лачина (сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Франц Шуберт «Ständchen» («Серенада»)",
+                "description": "на стихи Людвига Рельштаба, D. 889",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Константин Артемьев (тенор)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Франц Шуберт «Du bist die Ruh» («Ты мой покой»)",
+                "description": "на стихи Фридриха Рюккерта, D. 776",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Гузель Шарипова (сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Рихард Вагнер из цикла «Пять песен на стихи Матильды Везендонк»:",
+                "description": "1. «Der Engel» («Ангел»)<br>4. «Schmerzen» («Скорби»)<br>5. «Träume» («Грезы»)",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Алина Черташ (меццо-сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "district": "II отделение",
+        "blocks": [
+          {
+            "list": [
+              {
+                "title": "Роберт Шуман «Die Lotosblume» («Лотос»)",
+                "description": "на стихи Генриха Гейне, op. 25 № 7",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Альбина Латипова (сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Роберт Шуман «Der Nussbaum» («Орешник»)",
+                "description": "на стихи Юлиуса Мозена, op. 25 № 3",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Константин Артемьев (тенор)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Роберт Шуман «Widmung» («Посвящение»)",
+                "description": "на стихи Фридриха Рюккерта, оp. 25 № 1",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Андрей Потатурин (баритон)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Клара Шуман «Liebeszauber» («Волшебство любви»)",
+                "description": "на стихи Эмануэля Гейбеля, ор. 13 № 3",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Светлана Лачина (сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Иоганнес Брамс «Junge Lieder I» (Песня юности I: «Как сирень, расцветает любовь моя»)",
+                "description": "на стихи Феликса Шумана, ор. 63 №5",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Екатерина Воронцова (меццо-сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Иоганнес Брамс «Die Mainacht» («Майская ночь»)",
+                "description": "на стихи Людвига Гёлти, ор. 43 № 2",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Алина Черташ (меццо-сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Рихард Штраус «Zueignung» («Посвящение»)",
+                "description": "на стихи Германа фон Гильма, ор. 10 № 1",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Даниил Акимов (бас)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Ференц Лист «Es muss ein Wunderbares sein» («В любви всё чудных чар полно»)",
+                "description": "на стихи Оскара фон Редвица, S. 314",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Даниил Акимов (бас)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Ференц Лист «Oh! Quand je dors...» («Как дух Лауры»)",
+                "description": "на стихи Виктора Гюго, S. 282",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Гузель Шарипова (сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Рихард Штраус «Morgen» («Завтра»)",
+                "description": "на стихи Джона Генри Маккея, ор. 27 № 4",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Анна Шаповалова (сопрано)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Эдвард Григ «Ich liebe dich» («Люблю тебя»)",
+                "description": "на стихи Ганса Христиана Андерсена, ор. 5 № 3",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Андрей Потатурин (баритон)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Ференц Лист «O lieb...» («Люби, люби пока дано любить…»)",
+                "description": "на стихи Германа Фердинанда Фрейлиграта, S.298",
+                "artistGroups": [
+                  {
+                    "artists": [
+                      {
+                        "name": "Константин Артемьев (тенор)"
+                      },
+                      {
+                        "name": "Гузель Шарипова (сопрано)"
+                      },
+                      {
+                        "name": "Партия фортепиано – Семен Скигин"
+                      },
+                      {
+                        "name": "Александр Майборода (скрипка)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "suggestions": [
+      {
+        "url": "/season/concert/opera-apriori/",
+        "type": "Концерт артистов оркестра Большого театра",
+        "title": "Фортепианные трио",
+        "description": "Участвует в программе <a href=\"https://docs.culture.ru/pushka\" target=\"_blank\">«Пушкинская карта»</a>"
+      },
+      {
+        "url": "/season/concert/teacher-student/",
+        "type": "Концерт артистов оркестра Большого театра",
+        "title": "От учителя к ученику",
+        "description": "Участвует в программе <a href=\"https://docs.culture.ru/pushka\" target=\"_blank\">«Пушкинская карта»</a>"
+      },
+      {
+        "url": "/season/concert/opera-apriori/",
+        "type": "Концерт",
+        "title": "Сольный концерт Варвары Мягковой (фортепиано)",
+        "description": "В рамках VIII Международного фестиваля вокальной музыки «Опера Априори»"
+      },
+      {
+        "url": "/season/concert/chamber-music/",
+        "type": "Концерт артистов оркестра Большого театра",
+        "title": "Камерная музыка с арфой",
+        "description": "Участвует в программе <a href=\"https://docs.culture.ru/pushka\" target=\"_blank\">«Пушкинская карта»</a>"
+      }
+    ]
+  }
+}

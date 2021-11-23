@@ -1,0 +1,49 @@
+{
+  "type": "tour",
+  "data": {
+    "title": "Гастроли в Самаре",
+    "artists": "Балетная труппа и оркестр",
+    "date": "13 и 14 cентября",
+    "time": "Уточняйте даты выступлений в программе гастролей",
+    "scenes": [
+      {
+        "title": "Самарский академический театра оперы и балета",
+        "place": "Площадь Куйбышева, 1",
+        "image": "/images/gastroli/3/1.jpg",
+        "image2x": "/images/gastroli/3/1@2x.jpg"
+      }
+    ],
+    "about": {
+      "caption": "Гастроли балетной труппы и оркестра в Самаре в рамках фестиваля «Шостакович. ХХ век» под руководством дирижера  — Алексея Репникова."
+    },
+    "program": [
+      {
+        "url": "/performances/ballet/taming",
+        "days": "13 и 14 cентября",
+        "place": "Самарский академический театра оперы и балета",
+        "title": "Укрощение строптивой",
+        "caption": "Балет",
+        "author": "На музыку Д. Шостаковича, Хореография — Жана-Кристофа Майо, Дирижер — Алексей Репников",
+        "picture": "/images/gastroli/3/program/1.png",
+        "picture2x": "/images/gastroli/3/program/1@2x.png",
+        "partners": [
+          {
+            "title": "Привилегированный cпонcор",
+            "image": "/images/gastroli/partners/1.png",
+            "image2x": "/images/gastroli/partners/1@2x.png"
+          },
+          {
+            "title": "Генеральный спонсор",
+            "image": "/images/gastroli/partners/2.png",
+            "image2x": "/images/gastroli/partners/2@2x.png"
+          },
+          {
+            "title": "Привилегированный партнер",
+            "image": "/images/gastroli/partners/3.png",
+            "image2x": "/images/gastroli/partners/3@2x.png"
+          }
+        ]
+      }
+    ]
+  }
+}

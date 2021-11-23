@@ -1,0 +1,353 @@
+{
+  "sections": [
+    {
+      "title": "Сопрано",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Анна Аглатова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Динара Алиева"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Мария Гаврилова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Елена Зеленская"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Маквала Касрашвили"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Альбина Латипова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Мария Лобанова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Екатерина Морозова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Анна Нечаева"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-10.jpeg",
+              "image2x": "",
+              "name": "Ирина Рубцова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-11.jpeg",
+              "image2x": "",
+              "name": "Ольга Селиверстова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-12.jpeg",
+              "image2x": "",
+              "name": "Анастасия Сорокина"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-13.jpeg",
+              "image2x": "",
+              "name": "Анна Храпко"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-14.jpeg",
+              "image2x": "",
+              "name": "Гузель Шарипова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-15.jpeg",
+              "image2x": "",
+              "name": "Анастасия Щеголева"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-16.jpeg",
+              "image2x": "",
+              "name": "Екатерина Щербаченко"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Меццо-сопрано",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-17.jpeg",
+              "image2x": "",
+              "name": "Анна Бондаревская"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-18.jpeg",
+              "image2x": "",
+              "name": "Екатерина Воронцова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-19.jpeg",
+              "image2x": "",
+              "name": "Ирина Долженко"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-20.jpeg",
+              "image2x": "",
+              "name": "Елена Зеленская"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-21.jpeg",
+              "image2x": "",
+              "name": "Агунда Кулаева"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-22.jpeg",
+              "image2x": "",
+              "name": "Юлия Мазурова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-23.jpeg",
+              "image2x": "",
+              "name": "Елена Манистина"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-24.jpeg",
+              "image2x": "",
+              "name": "Елена Новак"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-25.jpeg",
+              "image2x": "",
+              "name": "Евгения Сегенюк"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-26.jpeg",
+              "image2x": "",
+              "name": "Светлана Шилова"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Тенора",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-27.jpeg",
+              "image2x": "",
+              "name": "Марат Гали"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-28.jpeg",
+              "image2x": "",
+              "name": "Бехзод Давронов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-29.jpeg",
+              "image2x": "",
+              "name": "Олег Долгов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-30.jpeg",
+              "image2x": "",
+              "name": "Тимофей Дубовицкий"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-31.jpeg",
+              "image2x": "",
+              "name": "Иван Максимейко"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-32.jpeg",
+              "image2x": "",
+              "name": "Роман Муравицкий"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-33.jpeg",
+              "image2x": "",
+              "name": "Максим Пастер"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-34.jpeg",
+              "image2x": "",
+              "name": "Илья Селиванов"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Баритоны",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-35.jpeg",
+              "image2x": "",
+              "name": "Эльчин Азизов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-36.jpeg",
+              "image2x": "",
+              "name": "Игорь Головатенко"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-37.jpeg",
+              "image2x": "",
+              "name": "Андрей Григорьев"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-38.jpeg",
+              "image2x": "",
+              "name": "Андрей Потатурин"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-39.jpeg",
+              "image2x": "",
+              "name": "Юрий Сыров"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Басы",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-40.jpeg",
+              "image2x": "",
+              "name": "Александр Бородин"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-41.jpeg",
+              "image2x": "",
+              "name": "Валерий Гильманов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-42.jpeg",
+              "image2x": "",
+              "name": "Михаил Казаков"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-43.jpeg",
+              "image2x": "",
+              "name": "Николай Казанский"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-44.jpeg",
+              "image2x": "",
+              "name": "Владимир Комович"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-45.jpeg",
+              "image2x": "",
+              "name": "Денис Макаров"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-46.jpeg",
+              "image2x": "",
+              "name": "Владимир Маторин"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-47.jpeg",
+              "image2x": "",
+              "name": "Александр Науменко"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-48.jpeg",
+              "image2x": "",
+              "name": "Вячеслав Почапский"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Стажеры",
+      "groups": [
+        {
+          "position": "Сопрано",
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-49.jpeg",
+              "image2x": "",
+              "name": "Светлана Лачина"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

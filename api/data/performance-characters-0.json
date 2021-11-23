@@ -1,0 +1,169 @@
+{
+  "performance": {
+    "type": "Балет в двух действиях",
+    "additionalInfo": "Хореография Джона Ноймайера",
+    "director": "Лео Делиб",
+    "name": "Коппелия",
+    "age": 12,
+    "datetime": "2020-09-30T14:00",
+    "image": {
+      "image": "/images/characters/0.jpg",
+      "image2x": "/images/characters/0@2x.jpg"
+    }
+  },
+  "participants": [
+    {
+      "title": "Раздел",
+      "roles": [
+        {
+          "title": "Король Флорестан XIV",
+          "members": [
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Александр Фадеечев"
+            }
+          ]
+        },
+        {
+          "title": "Королева",
+          "members": [
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Кристина Карасева"
+            }
+          ]
+        },
+        {
+          "title": "Фрейлины",
+          "members": [
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Александр Фадеечев"
+            },
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Кристина Карасева"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Раздел 2",
+      "roles": [
+        {
+          "title": "Герцогиня",
+          "members": [
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Екатерина Барыкина"
+            }
+          ]
+        },
+        {
+          "title": "Иноземные принцы — претенденты на руку Авроры",
+          "members": [
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Александр Водопетов"
+            },
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Александр Войтюк"
+            }
+          ]
+        },
+        {
+          "title": "Галифрон, наставник принца",
+          "members": [
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Егор Симачев"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Раздел 3",
+      "roles": [
+        {
+          "title": "Феи драгоценностей",
+          "members": [
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Анастасия Сташкевич",
+              "position": "Бриллиантов"
+            },
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Маргарита Шрайнер",
+              "position": "Сапфиров"
+            }
+          ]
+        },
+        {
+          "title": "Феи добра",
+          "members": [
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Ксения Жиганшина",
+              "position": "Нежности (Кандид)"
+            },
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Дарья Бочкова",
+              "position": "Беззаботности (Флер-де-Фарин)"
+            },
+            {
+              "name": "Елизавета Крутелева",
+              "position": "Щедрости"
+            }
+          ]
+        },
+        {
+          "title": "Герои волшебных сказок",
+          "hasDivider": true,
+          "members": [
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Виктория Якушева",
+              "position": "Белая кошечка"
+            },
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Андриан Прусаков",
+              "position": "Серый волк",
+              "additional": "Солист детской группы Камерной сцены"
+            }
+          ]
+        },
+        {
+          "title": "Дирижер",
+          "members": [
+            {
+              "image": "/images/performances/artist-4.jpeg",
+              "image2x": "/images/performances/artist-4.jpeg",
+              "name": "Туган Сохиев"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "type": "characters"
+}

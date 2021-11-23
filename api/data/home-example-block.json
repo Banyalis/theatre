@@ -1,0 +1,95 @@
+[
+  {
+    "type": "news|events|announcements|group|item|partners",
+    "size": "full|xLarge|large|medium|small|high",
+    "items": [
+      {
+        "type": "preview|performance|broadcast|notice|model",
+        "link": {
+          "url": "",
+          "isExternal": false
+        },
+        "person": {
+          "align": "left|right",
+          "url": "",
+          "image": "",
+          "name": "",
+          "position": ""
+        },
+        "isWithLabel": false,
+        "category": "",
+        "sizeTitle": "big|medium|small",
+        "titles": ["", ""],
+        "caption": "",
+        "text": "",
+        "description": "",
+        "image": {
+          "full": "",
+          "small": ""
+        },
+        "videoUrl": "",
+        "buttons": [
+          {
+            "isPrimary": true,
+            "text": "",
+            "url": "",
+            "theme": "red|white|black",
+            "isExternal": false
+          }
+        ],
+        "themeText": "white|black",
+        "themePagination": "white|black"
+      }
+    ],
+    "events": [
+      {
+        "url": "",
+        "date": "",
+        "time": "",
+        "image": "",
+        "category": "",
+        "title": ""
+      }
+    ],
+    "partners": [
+      {
+        "type": "",
+        "image": ""
+      }
+    ],
+    "news": [
+      {
+        "isFavorite": false,
+        "url": "",
+        "date": "",
+        "category": "",
+        "title": "",
+        "text": "",
+        "buttonText": ""
+      }
+    ],
+    "newsChanges": [
+      {
+        "date": "",
+        "category": "",
+        "title": "",
+        "caption": "",
+        "url": "",
+        "urlPerformance": "",
+        "dates": [
+          {
+            "date": "",
+            "people": [
+              {
+                "url": "",
+                "img": "",
+                "role": "",
+                "name": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

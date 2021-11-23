@@ -1,0 +1,29 @@
+{
+  "sections": [
+    {
+      "important": true,
+      "groups": [
+        {
+          "people": [
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Александр Шанин",
+              "position": "Управляющий оркестром"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Василий Дидык",
+              "position": "Заместитель управляющего оркестром"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

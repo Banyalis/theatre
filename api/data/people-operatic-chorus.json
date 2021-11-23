@@ -1,0 +1,524 @@
+{
+  "sections": [
+    {
+      "title": "сопрано",
+      "groups": [
+        {
+          "small": true,
+          "position": "Первые сопрано",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Галина",
+                      "lastName": "Войниченко"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Анна",
+                      "lastName": "Волкова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Светлана",
+                      "lastName": "Грабарь"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Елена",
+                      "lastName": "Дементьева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Татьяна",
+                      "lastName": "Дятлова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Наталья",
+                      "lastName": "Копырова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Елена",
+                      "lastName": "Лазарева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Анастасия",
+                      "lastName": "Леонова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Анна",
+                      "lastName": "Лукина"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Татьяна",
+                      "lastName": "Малышева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Снежана",
+                      "lastName": "Миронова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Тамила",
+                      "lastName": "Румянцева"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "small": true,
+          "position": "Вторые сопрано",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "firstName": "Яна",
+                      "lastName": "Аверина"
+                    },
+                    {
+                      "firstName": "Юлия",
+                      "lastName": "Аралова"
+                    },
+                    {
+                      "firstName": "Татьяна",
+                      "lastName": "Баткова"
+                    },
+                    {
+                      "firstName": "Надежда",
+                      "lastName": "Витковская"
+                    },
+                    {
+                      "firstName": "Наталья",
+                      "lastName": "Докучаева"
+                    },
+                    {
+                      "firstName": "Юлия",
+                      "lastName": "Караваева"
+                    },
+                    {
+                      "firstName": "Оксана",
+                      "lastName": "Линник"
+                    },
+                    {
+                      "firstName": "Татьяна",
+                      "lastName": "Мамонтова"
+                    },
+                    {
+                      "firstName": "Герензел",
+                      "lastName": "Мацакова"
+                    },
+                    {
+                      "firstName": "Юлия",
+                      "lastName": "Осипова"
+                    },
+                    {
+                      "firstName": "Ирина",
+                      "lastName": "Пискленова"
+                    },
+                    {
+                      "firstName": "Надежда",
+                      "lastName": "Сазонова"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "альты",
+      "groups": [
+        {
+          "small": true,
+          "position": "Первые альты",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "firstName": "Маргарита",
+                      "lastName": "Анисимова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Анна",
+                      "lastName": "Волкова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Наталья",
+                      "lastName": "Бабурова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Гузель",
+                      "lastName": "Камалова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Екатерина",
+                      "lastName": "Ковалева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Анна",
+                      "lastName": "Макаренко"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Анна",
+                      "lastName": "Мацей"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Марина",
+                      "lastName": "Минина"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Ирина",
+                      "lastName": "Оленникова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Наталья",
+                      "lastName": "Петровичева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Ирина",
+                      "lastName": "Пралат"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Елена",
+                      "lastName": "Самодурова"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "small": true,
+          "position": "Вторые альты",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "firstName": "Яна",
+                      "lastName": "Яна"
+                    },
+                    {
+                      "firstName": "Татьяна",
+                      "lastName": "Белова"
+                    },
+                    {
+                      "firstName": "Олеся",
+                      "lastName": "Бурдыко"
+                    },
+                    {
+                      "firstName": "Ирина",
+                      "lastName": "Годлина"
+                    },
+                    {
+                      "firstName": "Ольга",
+                      "lastName": "Дробышева"
+                    },
+                    {
+                      "firstName": "Людмила",
+                      "lastName": "Захарова"
+                    },
+                    {
+                      "firstName": "Елена",
+                      "lastName": "Кузнецова"
+                    },
+                    {
+                      "firstName": "Наталия",
+                      "lastName": "Липец"
+                    },
+                    {
+                      "firstName": "Татьяна",
+                      "lastName": "Лукина"
+                    },
+                    {
+                      "firstName": "Софья",
+                      "lastName": "Макуха"
+                    },
+                    {
+                      "firstName": "Наталья",
+                      "lastName": "Метелева"
+                    },
+                    {
+                      "firstName": "Ирина",
+                      "lastName": "Молякова"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "тенора",
+      "groups": [
+        {
+          "small": true,
+          "position": "Первые тенора",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "firstName": "Игорь",
+                      "lastName": "Батков"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Виктор",
+                      "lastName": "Герасенков"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Александр",
+                      "lastName": "Еремеев"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Александр",
+                      "lastName": "Казарез"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Канат",
+                      "lastName": "Камбетов"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Юрий",
+                      "lastName": "Колесников"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Сергей",
+                      "lastName": "Орлов"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Артем",
+                      "lastName": "Пралат"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Василий",
+                      "lastName": "Ремизов"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Евгений",
+                      "lastName": "Степанов"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Никита",
+                      "lastName": "Страшинский"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "firstName": "Владислав",
+                      "lastName": "Цебиков"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "small": true,
+          "position": "Вторые тенора",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "firstName": "Михаил",
+                      "lastName": "Акименко"
+                    },
+                    {
+                      "firstName": "Андрей",
+                      "lastName": "Андреев"
+                    },
+                    {
+                      "firstName": "Сергей",
+                      "lastName": "Бакланов"
+                    },
+                    {
+                      "firstName": "Юрий",
+                      "lastName": "Борисов"
+                    },
+                    {
+                      "firstName": "Дмитрий",
+                      "lastName": "Гавриков"
+                    },
+                    {
+                      "firstName": "Владимир",
+                      "lastName": "Данилов"
+                    },
+                    {
+                      "firstName": "Станислав",
+                      "lastName": "Колмыков"
+                    },
+                    {
+                      "firstName": "Юрий",
+                      "lastName": "Митапов"
+                    },
+                    {
+                      "firstName": "Денис",
+                      "lastName": "Никифоров"
+                    },
+                    {
+                      "firstName": "Олесь",
+                      "lastName": "Парицкий"
+                    },
+                    {
+                      "firstName": "Дмитрий",
+                      "lastName": "Пименов"
+                    },
+                    {
+                      "firstName": "Сергей",
+                      "lastName": "Пономарев"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

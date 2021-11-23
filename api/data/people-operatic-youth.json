@@ -1,0 +1,148 @@
+{
+  "sidebar": {
+    "title": "Молодежная оперная программа",
+    "text": "В рамках программы молодые певцы и пианисты из России и СНГ проходят курс профессионального усовершенствования. Каждый из участников Молодежной программы имеет обширную сценическую практику, исполняя роли в премьерных и текущих постановках театра, а также готовя различные концертные программы.",
+    "caption": "Партнер Молодежной оперной программы Большого театра",
+    "logo": "/images/people/logo.png"
+  },
+  "sections": [
+    {
+      "title": "Сопрано",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Эльмира Караханова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Мария Мотолыгина"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Елизавета Нарсия"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Меццо-сопрано",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Мария Баракова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Ульяна Бирюкова"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Тенора",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Давид Посулихин"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Баритоны",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Николай Землянских"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Рауф Тимергазин"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Дмитрий Чеблыков"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Басы",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Алексей Кулагин"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Пианисты-концертмейстеры",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Вера Григорьева"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Сергей Константинов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Михаил Коршунов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Валерия Прокофьева"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

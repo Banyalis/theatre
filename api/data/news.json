@@ -1,0 +1,503 @@
+{
+  "countPages": 30,
+  "categories": [
+    {
+      "title": "Анонс",
+      "value": "anons"
+    },
+    {
+      "title": "Опера",
+      "value": "opera"
+    },
+    {
+      "title": "Балет",
+      "value": "balet"
+    },
+    {
+      "title": "Оркестр",
+      "value": "orchestr"
+    },
+    {
+      "title": "Пресс-конференция",
+      "value": "press"
+    },
+    {
+      "title": "In memoriam",
+      "value": "memoriam"
+    },
+    {
+      "title": "Изменения в составах",
+      "value": "changes"
+    },
+    {
+      "title": "Премьера",
+      "value": "premier"
+    },
+    {
+      "title": "Фестиваль",
+      "value": "festival"
+    },
+    {
+      "title": "Анонс",
+      "value": "anons"
+    },
+    {
+      "title": "Опера",
+      "value": "opera"
+    },
+    {
+      "title": "Балет",
+      "value": "balet"
+    },
+    {
+      "title": "Оркестр",
+      "value": "orchestr"
+    },
+    {
+      "title": "Пресс-конференция",
+      "value": "press"
+    },
+    {
+      "title": "In memoriam",
+      "value": "memoriam"
+    },
+    {
+      "title": "Изменения в составах",
+      "value": "changes"
+    },
+    {
+      "title": "Премьера",
+      "value": "premier"
+    },
+    {
+      "title": "Фестиваль",
+      "value": "festival"
+    }
+  ],
+  "years": [
+    {
+      "title": "2021",
+      "value": "2021"
+    },
+    {
+      "title": "2020",
+      "value": "2020"
+    },
+    {
+      "title": "2019",
+      "value": "2019"
+    },
+    {
+      "title": "2018",
+      "value": "2018"
+    },
+    {
+      "title": "2017",
+      "value": "2017"
+    },
+    {
+      "title": "2016",
+      "value": "2016"
+    },
+    {
+      "title": "2015",
+      "value": "2015"
+    },
+    {
+      "title": "2014",
+      "value": "2014"
+    },
+    {
+      "title": "2013",
+      "value": "2013"
+    },
+    {
+      "title": "2012",
+      "value": "2012"
+    },
+    {
+      "title": "2011",
+      "value": "2011"
+    },
+    {
+      "title": "2010",
+      "value": "2010"
+    },
+    {
+      "title": "2009",
+      "value": "2009"
+    },
+    {
+      "title": "2008",
+      "value": "2008"
+    },
+    {
+      "title": "2007",
+      "value": "2007"
+    },
+    {
+      "title": "2006",
+      "value": "2006"
+    },
+    {
+      "title": "2005",
+      "value": "2005"
+    },
+    {
+      "title": "2004",
+      "value": "2004"
+    }
+  ],
+  "news": [
+    {
+      "type": "performance",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Анонсы",
+      "title": "Искатели вне времени и пространства",
+      "preview": {
+        "image": "/images/news/performance-1.jpg",
+        "image2x": "/images/news/performance-1.jpg"
+      }
+    },
+    {
+      "type": "common",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Изменения в составах",
+      "title": "Изменения в афише Камерной сцены",
+      "text": "Изменения в афише Камерной сцены 10, 11, 12 и 13 декабря состоятся премьерные представления оперы «Искатели жемчуга», ранее запланированные на 3–6 декабря."
+    },
+    {
+      "theme": "red",
+      "type": "common",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Концерты",
+      "title": "Филармонический абонемент Большого. Сезоны 2019-2020\nи 2020-2021",
+      "text": "Две новые программы на сцене Концертного зала им. П. И. Чайковского.",
+      "buttons": [
+        {
+          "isPrimary": true,
+          "title": "Программа",
+          "url": "/performance/0"
+        },
+        {
+          "isPrimary": false,
+          "title": "Абонемент",
+          "url": "/performance/0"
+        }
+      ]
+    },
+    {
+      "type": "replacement",
+      "date": "19 декабря",
+      "category": "Балет",
+      "title": "Дебюты в балете  «Жизель»",
+      "caption": "Редакция А. Ратманского",
+      "dates": [
+        {
+          "date": "5 декабря, 19:00",
+          "people": [
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-1.jpg",
+              "role": "Крестьянское па де де",
+              "name": "Дмитрий Смилевски"
+            }
+          ]
+        },
+        {
+          "date": "6 декабря, 19:00",
+          "people": [
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-2.jpg",
+              "role": "Герцог",
+              "name": "Никита Еликаров"
+            }
+          ]
+        }
+      ],
+      "url": "/news/1",
+      "urlPerformance": "/performance/0"
+    },
+    {
+      "type": "people",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Поздравления",
+      "title": "Новая конкурсная победа",
+      "text": "Артист Молодежной оперной программы\nАлексей Кулагин стал лауреатом I премии Международного музыкального фестиваля-конкурса имени Георга Отса.",
+      "preview": {
+        "image": "/images/news/person-1.jpg",
+        "image2x": "/images/news/person-1.jpg"
+      }
+    },
+    {
+      "type": "replacement",
+      "date": "19 декабря",
+      "category": "Опера",
+      "title": "Опера «Иоланта»",
+      "dates": [
+        {
+          "date": "1 декабря, 19:00",
+          "people": [
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-3.jpg",
+              "role": "Иоланта",
+              "name": "Динара Алиева"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-4.jpg",
+              "role": "Эбн-Хакиа",
+              "name": "Эльчин Азизов"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-5.jpg",
+              "role": "Водемон",
+              "name": "Олег Долгов"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-6.jpg",
+              "role": "Роберт",
+              "name": "Василий Ладюк"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-3.jpg",
+              "role": "Иоланта",
+              "name": "Динара Алиева"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-4.jpg",
+              "role": "Эбн-Хакиа",
+              "name": "Эльчин Азизов"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-5.jpg",
+              "role": "Водемон",
+              "name": "Олег Долгов"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-6.jpg",
+              "role": "Роберт",
+              "name": "Василий Ладюк"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-3.jpg",
+              "role": "Иоланта",
+              "name": "Динара Алиева"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-4.jpg",
+              "role": "Эбн-Хакиа",
+              "name": "Эльчин Азизов"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-5.jpg",
+              "role": "Водемон",
+              "name": "Олег Долгов"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-6.jpg",
+              "role": "Роберт",
+              "name": "Василий Ладюк"
+            }
+          ]
+        },
+        {
+          "date": "2 декабря, 19:00",
+          "people": [
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-7.jpg",
+              "role": "Иоланта",
+              "name": "Анна Нечаева"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-8.jpg",
+              "role": "Эбн-Хакиа",
+              "name": "Александр Касьянов"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-5.jpg",
+              "role": "Водемон",
+              "name": "Олег Долгов"
+            },
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-6.jpg",
+              "role": "Роберт",
+              "name": "Василий Ладюк"
+            }
+          ]
+        }
+      ],
+      "url": "/news/1",
+      "urlPerformance": "/performance/0"
+    },
+    {
+      "theme": "black",
+      "type": "common",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Анонсы",
+      "title": "Итоги прослушивания мальчиков для участия\nв постановке\nоперы «Пиковая дама»",
+      "buttons": [
+        {
+          "isPrimary": true,
+          "title": "смотреть итоги",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "type": "common",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Наш журнал",
+      "title": "Первый номер журнала\nв 2021 году",
+      "preview": {
+        "align": "vertical",
+        "image": "/images/news/preview-2.jpg",
+        "image2x": "/images/news/preview-2.jpg"
+      }
+    },
+    {
+      "type": "people",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Поздравления",
+      "title": "Руководитель продюсерского отдела — Сергей Данилян",
+      "preview": {
+        "image": "/images/news/person-2.jpg",
+        "image2x": "/images/news/person-2.jpg"
+      }
+    },
+    {
+      "type": "common",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Гастроли",
+      "title": "Большой балет на сцене «Янтарь-холла»",
+      "preview": {
+        "align": "horizontal",
+        "image": "/images/news/preview-1.jpg",
+        "image2x": "/images/news/preview-1.jpg"
+      }
+    },
+    {
+      "type": "replacement",
+      "date": "19 декабря",
+      "category": "Балет",
+      "title": "Дебюты в балете  «Жизель»",
+      "caption": "Редакция А. Ратманского",
+      "dates": [
+        {
+          "date": "5 декабря, 19:00",
+          "people": [
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-1.jpg",
+              "role": "Крестьянское па де де",
+              "name": "Дмитрий Смилевски"
+            }
+          ]
+        },
+        {
+          "date": "6 декабря, 19:00",
+          "people": [
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-2.jpg",
+              "role": "Герцог",
+              "name": "Никита Еликаров"
+            }
+          ]
+        }
+      ],
+      "url": "/news/1",
+      "urlPerformance": "/performance/0"
+    },
+    {
+      "type": "common",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Трансляции",
+      "title": "«Борис Годунов» и другие. Русская опера на канале MEZZO",
+      "text": "В Большом прошла пресс-конференция, посвященная сотрудничеству театра с телеканалом MEZZO. "
+    },
+    {
+      "type": "common",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Анонсы",
+      "title": "Фестиваль в честь Чайковского",
+      "text": "С сентября по декабрь на всех сценах Большого пройдет фестиваль к 180-летию со дня рождения Петра Ильича Чайковского. В программе – четыре оперы, пять балетов и пять концертных программ.",
+      "preview": {
+        "align": "horizontal",
+        "image": "/images/news/preview-3.jpg",
+        "image2x": "/images/news/preview-3.jpg"
+      }
+    },
+    {
+      "type": "replacement",
+      "date": "19 декабря",
+      "category": "Балет",
+      "title": "Дебюты в балете  «Жизель»",
+      "caption": "Редакция А. Ратманского",
+      "dates": [
+        {
+          "date": "5 декабря, 19:00",
+          "people": [
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-1.jpg",
+              "role": "Крестьянское па де де",
+              "name": "Дмитрий Смилевски"
+            }
+          ]
+        },
+        {
+          "date": "6 декабря, 19:00",
+          "people": [
+            {
+              "url": "/persons/1",
+              "img": "/images/index/blocks/news/person-2.jpg",
+              "role": "Герцог",
+              "name": "Никита Еликаров"
+            }
+          ]
+        }
+      ],
+      "url": "/news/1",
+      "urlPerformance": "/performance/0"
+    },
+    {
+      "type": "people",
+      "url": "/news/news-1",
+      "date": "19 декабря",
+      "category": "Анонсы",
+      "title": "Алексею Ермолаеву посвящается",
+      "text": "110-летию со дня рождения великого танцовщика и педагога Алексея Ермолаева посвящается представление балета «Баядерка», которое состоится 17 декабря.",
+      "preview": {
+        "image": "/images/news/person-3.jpg",
+        "image2x": "/images/news/person-3.jpg"
+      }
+    }
+  ]
+}

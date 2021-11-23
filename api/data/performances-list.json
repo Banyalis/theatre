@@ -1,0 +1,58 @@
+[
+  {
+    "url": "/performances/0",
+    "subtitle": "Балет в двух действиях",
+    "image": "/images/performances/example.jpg",
+    "image2x": "/images/performances/example-2x.jpg",
+    "title": "Спящая красавица",
+    "description": "Людвиг Минкус"
+  },
+  {
+    "url": "/performances/1",
+    "subtitle": "Балет в двух действиях в концертном исполнении",
+    "image": "/images/performances/example2.jpg",
+    "image2x": "/images/performances/example2-2x.jpg",
+    "title": "Лебединое озеро",
+    "description": "Петр Чайковский"
+  },
+  {
+    "url": "/performances/2",
+    "subtitle": "Балет в трех действиях",
+    "image": "/images/performances/example3.jpg",
+    "image2x": "/images/performances/example3-2x.jpg",
+    "title": "Лебединое озеро",
+    "description": "на музыку Петра Чайковского"
+  },
+  {
+    "url": "/performances/3",
+    "subtitle": "Балет в двух действиях",
+    "image": "/images/performances/example.jpg",
+    "image2x": "/images/performances/example-2x.jpg",
+    "title": "Герой нашего времени",
+    "description": "Илья Демуцкий"
+  },
+  {
+    "url": "/performances/0",
+    "subtitle": "Балет в двух действиях",
+    "image": "/images/performances/example2.jpg",
+    "image2x": "/images/performances/example2-2x.jpg",
+    "title": "Коппелия",
+    "description": "Илья Демуцкий"
+  },
+  {
+    "url": "/performances/1",
+    "subtitle": "Балет в трех действиях",
+    "image": "/images/performances/example3.jpg",
+    "image2x": "/images/performances/example3-2x.jpg",
+    "title": "Ромео и Джульетта",
+    "description": "Сергей Прокофьев"
+  },
+  {
+    "url": "/performances/2",
+    "subtitle": "Балет в одном действии",
+    "image": "/images/performances/example.jpg",
+    "image2x": "/images/performances/example-2x.jpg",
+    "title": "Петрушка",
+    "description": "Игорь Стравинский"
+  }
+]

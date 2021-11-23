@@ -1,0 +1,1089 @@
+{
+  "id": 3,
+  "intro": {
+    "type": "Премьера",
+    "age": "12+",
+    "title": "Спящая красавица",
+    "author": "Людвиг Минкус",
+    "image": "/images/performances/example.jpg",
+    "image2x": "/images/performances/example-2x.jpg",
+    "video": "https://storage.coverr.co/videos/Yh1kERqtFxxfzaX2Zb02UqoUAJ7zkQ02tA?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6Ijg3NjdFMzIzRjlGQzEzN0E4QTAyIiwiaWF0IjoxNjE2MzA4MjMwfQ.jzxOtJq3VYt_sT6ElwUfOaYsBsRl8LiCqajORF4PzzE"
+  },
+  "detail": {
+    "about": {
+      "title": "О спектакле",
+      "text": "Легендарный балет-феерия Петра Чайковского-Мариуса Петипа – стала первой балетной премьерой в обновленном историческом здании — и трудно найти «кандидатуру», которая больше подходила бы для того, чтобы осветить своим блеском легендарное здание Большого театра. Сказочный спектакль с глубоким философским подтекстом — яркий, парадный, взыскующий идеальной гармонии, — предстал в новом праздничном обличье, воплощая мечты о новой и прекрасной жизни Большого балета на вернувшейся к нему сцене.",
+      "hint": "Премьера балета в новой хореографической редакции состоялась 18 ноября 2011"
+    },
+    "directors": [
+      {
+        "separator": true,
+        "roles": [
+          {
+            "title": "Хореография",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Мариуса Петипа"
+              }
+            ]
+          },
+          {
+            "title": "Новая хореографическая редакция (2011)",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Юрий Григорович"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Группа",
+        "roles": [
+          {
+            "title": "Художник по костюмам",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Франка Скуарчапино"
+              }
+            ]
+          },
+          {
+            "title": "Художник по свету",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Виничио Кели"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Ассистенты художника-постановщика (Италия)",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Лейла Фтейта"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Оскар Кафаро"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Группа",
+        "roles": [
+          {
+            "title": "Художник по костюмам",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Франка Скуарчапино"
+              }
+            ]
+          },
+          {
+            "title": "Художник по свету",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Виничио Кели"
+              }
+            ]
+          },
+          {
+            "title": "Ассистенты художника-постановщика (Италия)",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Лейла Фтейта"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Оскар Кафаро"
+              }
+            ]
+          },
+          {
+            "title": "Художник по свету",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Лаура Ло Сурдо"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "information": [
+      {
+        "type": "scene",
+        "scene": "historical",
+        "title": "Историческая",
+        "button": true
+      },
+      {
+        "type": "together",
+        "title": "Артефакт-сюита",
+        "text": "На музыку Эвы Кроссман-Хехт и Иоганна Себастьяна Баха",
+        "image": "/images/performances/example.jpg",
+        "image2x": "/images/performances/example-2x.jpg"
+      },
+      {
+        "type": "time",
+        "title": "2 часа 45 минут",
+        "time": [
+          {
+            "title": "Действие I",
+            "duration": "70 мин"
+          },
+          {
+            "title": "Действие II",
+            "duration": "65 мин"
+          },
+          {
+            "title": "Антракт I",
+            "duration": "65 мин"
+          },
+          {
+            "title": "Действие III",
+            "duration": "20 мин"
+          },
+          {
+            "title": "Антракт II",
+            "duration": "65 мин"
+          },
+          {
+            "title": "Действие IV",
+            "duration": "65 мин"
+          }
+        ]
+      },
+      {
+        "type": "language",
+        "title": "Французский",
+        "text": "Исполняется на французском языке, с русскими супратитрами"
+      }
+    ],
+    "sponsors": [
+      {
+        "type": "images",
+        "title": "Официальный спонсор балета",
+        "list": [
+          {
+            "image": "/images/performances/logo-4.png",
+            "image2x": "/images/performances/logo-4@2x.png"
+          },
+          {
+            "image": "/images/performances/logo-5.png",
+            "image2x": "/images/performances/logo-5@2x.png"
+          }
+        ]
+      },
+      {
+        "type": "images",
+        "title": "Официальный партнер премьеры",
+        "list": [
+          {
+            "image": "/images/performances/logo-6.png",
+            "image2x": "/images/performances/logo-6@2x.png"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "При поддержке",
+        "list": [
+          {
+            "text": "А.Л. Костина"
+          },
+          {
+            "text": "В.Г Иванова"
+          }
+        ]
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "image": "/images/performances/example.jpg",
+      "image2x": "/images/performances/example-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "text": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "image": "/images/performances/example2.jpg",
+      "image2x": "/images/performances/example2-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "text": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "vertical": true,
+      "image": "/images/performances/example3.jpg",
+      "image2x": "/images/performances/example3-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "text": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "image": "/images/performances/example.jpg",
+      "image2x": "/images/performances/example-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "text": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "image": "/images/performances/example2.jpg",
+      "image2x": "/images/performances/example2-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "text": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "vertical": true,
+      "image": "/images/performances/example3.jpg",
+      "image2x": "/images/performances/example3-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "text": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "image": "/images/performances/example.jpg",
+      "image2x": "/images/performances/example-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "text": "Фея Сирени — Екатерина Шипулина"
+    },
+    {
+      "image": "/images/performances/example2.jpg",
+      "image2x": "/images/performances/example2-2x.jpg",
+      "title": "Фея Сирени — Екатерина Шипулина",
+      "text": "Фея Сирени — Екатерина Шипулина"
+    }
+  ],
+  "team": [
+    {
+      "date": "5 октября",
+      "day": "Понедельник, 19:00",
+      "dedicated": {
+        "text": "Этот спектакль мы посвящаем великой певице, легенде Большого театра Ирине Архиповой",
+        "image": "/images/performances/example.jpg",
+        "image2x": "/images/performances/example-2x.jpg"
+      },
+      "actors": [
+        {
+          "image": "/images/performances/example.jpg",
+          "image2x": "/images/performances/example-2x.jpg",
+          "role": "Король Флорестан XIV",
+          "name": "Александр Фадеечев"
+        },
+        {
+          "image": "/images/performances/example.jpg",
+          "image2x": "/images/performances/example-2x.jpg",
+          "role": "Королева",
+          "name": "Кристина Карасева"
+        },
+        {
+          "image": "/images/performances/example.jpg",
+          "image2x": "/images/performances/example-2x.jpg",
+          "role": "Принцесса Аврора",
+          "name": "Ольга Смирнова"
+        },
+        {
+          "image": "/images/performances/example.jpg",
+          "image2x": "/images/performances/example-2x.jpg",
+          "role": "Принц Дезире",
+          "name": "Артемий Беляков"
+        }
+      ],
+      "participants": [
+        {
+          "roles": [
+            {
+              "title": "Каталабют",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Виталий Биктимиров"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Фрейлины:",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Ангелина Влашинец"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Екатерина Клявлина"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Елизавета Кокорева"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Мария Мишина"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Станислава Постнова"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Ана Туразашвили"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Оксана Шарова"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Виктория Якушева"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Герцогиня",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Екатерина Барыкина"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Крестьянский танец",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Анастасия Винокур"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Алексей Матрахов"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Фея Сирени",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Ольга Марченкова"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Феи драгоценностей",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Бриллиантов",
+                  "name": "Анастасия Сташкевич"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Сапфиров",
+                  "name": "Маргарита Шрайнер"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Золота",
+                  "name": "Дарья Бочкова"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Серебра",
+                  "name": "Ксения Жиганшина"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Феи добра",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Нежности (Кандид)",
+                  "name": "Ксения Жиганшина"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Беззаботности (Флер-де-Фарин)",
+                  "name": "Дарья Бочкова"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Щедрости (Фея, рассыпающая хлебные крошки)",
+                  "name": "Елизавета Крутелева"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Резвости (Щебечущая канарейка)",
+                  "name": "Дарья Хохлова"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Резвости (Щебечущая канарейка)",
+                  "name": "Антонина Чапкина"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Раздел 1",
+          "roles": [
+            {
+              "title": "Иноземные принцы — претенденты на руку Авроры",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Александр Водопетов"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Александр Войтюк"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Данила Хамзин"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Егор Хромушин"
+                }
+              ]
+            },
+            {
+              "title": "Пажи свиты феи Сирени",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Михаил Баталов"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Михаил Кочан"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Михаил Крючков"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Максим Оппенгейм"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Эрик Сволкин"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Максим Суров"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "separator": true,
+          "title": "Раздел 2",
+          "roles": [
+            {
+              "title": "Герои волшебных сказок",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Белая кошечка",
+                  "name": "Виктория Якушева"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Кот в сапогах",
+                  "name": "Александр Смольянинов"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Принцесса Флорина",
+                  "name": "Елизавета Крутелева"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Голубая птица",
+                  "name": "Давид Мотта Соарес"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Красная шапочка",
+                  "name": "Мария Мишина"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Серый волк",
+                  "name": "Антон Савичев"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Золушка",
+                  "name": "Анастасия Денисова"
+                },
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "position": "Принц Фортюне",
+                  "name": "Фуад Мамедов"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roles": [
+            {
+              "title": "Дирижер",
+              "members": [
+                {
+                  "image": "/images/performances/example.jpg",
+                  "image2x": "/images/performances/example-2x.jpg",
+                  "name": "Туган Сохиев"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "6 октября",
+      "day": "Вторник, 19:00",
+      "actors": [
+        {
+          "image": "/images/performances/example.jpg",
+          "image2x": "/images/performances/example-2x.jpg",
+          "role": "Король Флорестан XIV",
+          "name": "Александр Фадеечев"
+        },
+        {
+          "image": "/images/performances/example.jpg",
+          "image2x": "/images/performances/example-2x.jpg",
+          "role": "Королева",
+          "name": "Кристина Карасева"
+        },
+        {
+          "image": "/images/performances/example.jpg",
+          "image2x": "/images/performances/example-2x.jpg",
+          "role": "Принцесса Аврора",
+          "name": "Ольга Смирнова"
+        }
+      ]
+    },
+    {
+      "date": "7 октября",
+      "day": "Среда, 19:00"
+    }
+  ],
+  "all": {
+    "participants": [
+      {
+        "roles": [
+          {
+            "title": "Каталабют",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Виталий Биктимиров"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Фрейлины:",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Ангелина Влашинец"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Екатерина Клявлина"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Елизавета Кокорева"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Мария Мишина"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Станислава Постнова"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Ана Туразашвили"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Оксана Шарова"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Виктория Якушева"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Герцогиня",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Екатерина Барыкина"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Крестьянский танец",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Анастасия Винокур"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Алексей Матрахов"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Фея Сирени",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Ольга Марченкова"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Феи драгоценностей",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Бриллиантов",
+                "name": "Анастасия Сташкевич"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Сапфиров",
+                "name": "Маргарита Шрайнер"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Золота",
+                "name": "Дарья Бочкова"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Серебра",
+                "name": "Ксения Жиганшина"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Феи добра",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Нежности (Кандид)",
+                "name": "Ксения Жиганшина"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Беззаботности (Флер-де-Фарин)",
+                "name": "Дарья Бочкова"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Щедрости (Фея, рассыпающая хлебные крошки)",
+                "name": "Елизавета Крутелева"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Резвости (Щебечущая канарейка)",
+                "name": "Дарья Хохлова"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Резвости (Щебечущая канарейка)",
+                "name": "Антонина Чапкина"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Иноземные принцы — претенденты на руку Авроры",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Александр Водопетов"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Александр Войтюк"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Данила Хамзин"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Егор Хромушин"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Пажи свиты феи Сирени",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Михаил Баталов"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Михаил Кочан"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Михаил Крючков"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Максим Оппенгейм"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Эрик Сволкин"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Максим Суров"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "separator": true,
+        "roles": [
+          {
+            "title": "Герои волшебных сказок",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Белая кошечка",
+                "name": "Виктория Якушева"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Кот в сапогах",
+                "name": "Александр Смольянинов"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Принцесса Флорина",
+                "name": "Елизавета Крутелева"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Голубая птица",
+                "name": "Давид Мотта Соарес"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Красная шапочка",
+                "name": "Мария Мишина"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Серый волк",
+                "name": "Антон Савичев"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Золушка",
+                "name": "Анастасия Денисова"
+              },
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "position": "Принц Фортюне",
+                "name": "Фуад Мамедов"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "roles": [
+          {
+            "title": "Дирижер",
+            "members": [
+              {
+                "image": "/images/performances/example.jpg",
+                "image2x": "/images/performances/example-2x.jpg",
+                "name": "Туган Сохиев"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "summary": [
+    {
+      "title": "Пролог",
+      "text": "Легендарный балет-феерия Петра Чайковского-Мариуса Петипа – стала первой балетной премьерой в обновленном историческом здании — и трудно найти «кандидатуру», которая больше подходила бы для того, чтобы осветить своим блеском легендарное здание Большого театра. Сказочный спектакль с глубоким философским подтекстом — яркий, парадный, взыскующий идеальной гармонии, — предстал в новом праздничном обличье, воплощая мечты о новой и прекрасной жизни Большого балета на вернувшейся к нему сцене."
+    },
+    {
+      "title": "Действие I",
+      "text": "Авроре исполнилось шестнадцать лет. Четыре иноземных принца сватаются к ней. В разгар веселья около неё оказывается старушка с веретеном. Аврора доверчиво берёт его и продолжает танцевать. Вдруг танец её прерывается, она в ужасе смотрит на свою руку, которую нечаянно уколола веретеном. Смертельный холод сковывает Аврору, и она падает. Незнакомая старушка сбрасывает плащ — это Фея Карабос! Сбылось её заклятье. Зловеще кружась, она с хохотом исчезает. Но появляется Фея Сирени — в её силах ослабить зло. Аврора не умерла — она заснула. Её вернёт к жизни горячий поцелуй прекрасного принца. Фея Сирени погружает всё королевство в сон."
+    }
+  ],
+  "schedule": [
+    {
+      "date": {
+        "number": "18 сентября",
+        "day": "Пятница"
+      },
+      "tickets": "378",
+      "price": "100–15000",
+      "team": "Александр Волчков, Кристина Кретова, Алексей Путинцев, Егор Хромушин",
+      "time": "19:00",
+      "button": {
+        "title": "Купить билет"
+      }
+    },
+    {
+      "date": {
+        "number": "20 сентября",
+        "day": "Суббота"
+      },
+      "tickets": "378",
+      "price": "100–15000",
+      "team": "Александр Волчков, Кристина Кретова, Алексей Путинцев, Егор Хромушин",
+      "time": "19:00",
+      "button": {
+        "title": "Купить билет"
+      }
+    },
+    {
+      "date": {
+        "number": "27 сентября",
+        "day": "Воскресенье"
+      },
+      "tickets": "378",
+      "price": "100–15000",
+      "team": "Александр Волчков, Кристина Кретова, Алексей Путинцев, Егор Хромушин",
+      "time": "19:00",
+      "button": {
+        "title": "Купить билет"
+      }
+    },
+    {
+      "date": {
+        "number": "2 октября",
+        "day": "Суббота"
+      },
+      "tickets": "378",
+      "price": "100–15000",
+      "team": "Александр Волчков, Кристина Кретова, Алексей Путинцев, Егор Хромушин",
+      "time": "19:00",
+      "button": {
+        "type": "isTransparentWhite",
+        "title": "Скоро в продаже"
+      }
+    },
+    {
+      "date": {
+        "number": "7 октября",
+        "day": "Среда"
+      },
+      "tickets": "378",
+      "price": "100–15000",
+      "team": "Александр Волчков, Кристина Кретова, Алексей Путинцев, Егор Хромушин",
+      "time": "19:00",
+      "button": {
+        "type": "isTransparentWhite",
+        "title": "Скоро в продаже"
+      }
+    }
+  ],
+  "sponsors": [
+    {
+      "type": "privilegedSponsor",
+      "image": "/images/performances/logo-1.png",
+      "image2x": "/images/performances/logo-1@2x.png"
+    },
+    {
+      "type": "generalSponsor",
+      "image": "/images/performances/logo-2.png",
+      "image2x": "/images/performances/logo-2@2x.png"
+    },
+    {
+      "type": "privilegedPartner",
+      "image": "/images/performances/logo-3.png",
+      "image2x": "/images/performances/logo-3@2x.png"
+    }
+  ]
+}

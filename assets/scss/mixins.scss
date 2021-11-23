@@ -1,0 +1,668 @@
+// Breakpoints mixins
+@mixin desktop--large {
+  @media screen and (min-width: $bp-desktop--large) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media screen and (min-width: $bp-desktop) and (max-width: ($bp-desktop--large - 1)) {
+    @content;
+  }
+}
+
+@mixin desktop--small {
+  @media screen and (min-width: $bp-laptop) and (max-width: ($bp-desktop - 1)) {
+    @content;
+  }
+}
+
+@mixin laptop {
+  @media screen and (min-width: $bp-tablet) and (max-width: ($bp-laptop - 1)) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media screen and (min-width: $bp-mobile) and (max-width: ($bp-tablet - 1)) {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media screen and (max-width: ($bp-mobile - 1)) {
+    @content;
+  }
+}
+
+@mixin allDesktopHome {
+  @media screen and (min-width: ($bp-laptop)) {
+    @content;
+  }
+}
+
+// function for get scale
+@function scaling($size) {
+  @return calc(var(--scale) * #{$size});
+}
+
+// Hover mixins
+@mixin hover {
+  @media (hover: hover) and (pointer: fine) {
+    @content;
+  }
+}
+
+// Mixins with new names
+@mixin home-heading-1 {
+  font-size: scaling(60);
+  font-weight: $fw-light;
+  line-height: $lh-110;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-feature-settings: 'ss02' on;
+
+  @include desktop--large {
+    font-size: scaling(120);
+  }
+
+  @include desktop {
+    font-size: scaling(100);
+  }
+
+  @include desktop--small {
+    font-size: scaling(80);
+  }
+
+  @include mobile {
+    font-size: scaling(44);
+  }
+}
+
+@mixin heading-1 {
+  line-height: $lh-110;
+  letter-spacing: 0.02em;
+  font-weight: $fw-normal;
+  text-transform: uppercase;
+  font-feature-settings: 'ss02' on;
+
+  @include desktop--large {
+    font-size: scaling(80);
+  }
+
+  @include desktop {
+    font-size: scaling(64);
+  }
+
+  @include desktop--small {
+    font-size: scaling(55);
+  }
+
+  @include laptop {
+    font-size: scaling(48);
+  }
+
+  @include tablet {
+    font-size: scaling(44);
+  }
+
+  @include mobile {
+    font-size: scaling(28);
+    line-height: $lh-120;
+  }
+}
+
+@mixin heading-2 {
+  line-height: $lh-110;
+  letter-spacing: 0.02em;
+  font-weight: $fw-normal;
+  text-transform: uppercase;
+  font-feature-settings: 'ss02' on;
+
+  @include desktop--large {
+    font-size: scaling(60);
+  }
+
+  @include desktop {
+    font-size: scaling(48);
+  }
+
+  @include desktop--small {
+    font-size: scaling(42);
+  }
+
+  @include laptop {
+    font-size: scaling(36);
+  }
+
+  @include tablet {
+    font-size: scaling(32);
+  }
+
+  @include mobile {
+    font-size: scaling(24);
+    line-height: $lh-120;
+  }
+}
+
+@mixin heading-3 {
+  font-size: scaling(12);
+  line-height: $lh-160;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: $fw-medium;
+  font-family: $family-graphic;
+
+  @include desktop--large {
+    font-size: scaling(20);
+  }
+
+  @include desktop {
+    font-size: scaling(18);
+    line-height: $lh-140;
+  }
+
+  @include desktop--small {
+    font-size: scaling(14);
+  }
+}
+
+@mixin heading-4 {
+  font-size: scaling(20);
+  line-height: $lh-120;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-feature-settings: 'ss02' on;
+
+  @include desktop--large {
+    font-size: scaling(36);
+    line-height: $lh-110;
+    letter-spacing: 0;
+  }
+
+  @include desktop {
+    font-size: scaling(28);
+    line-height: $lh-110;
+    letter-spacing: 0;
+  }
+
+  @include desktop--small {
+    font-size: scaling(24);
+    line-height: $lh-110;
+    letter-spacing: 0;
+  }
+}
+
+@mixin heading-5 {
+  font-size: scaling(20);
+  line-height: $lh-130;
+  font-family: $family-graphic;
+  font-feature-settings: 'cpsp' on;
+
+  @include desktop--large {
+    font-size: scaling(36);
+    letter-spacing: -0.01em;
+  }
+
+  @include desktop {
+    font-size: scaling(28);
+    letter-spacing: -0.01em;
+  }
+
+  @include desktop--small {
+    font-size: scaling(24);
+  }
+}
+
+@mixin heading-7 {
+  font-size: scaling(12);
+  line-height: $lh-160;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: $fw-medium;
+  font-family: $family-graphic;
+
+  @include desktop--large {
+    font-size: scaling(20);
+  }
+
+  @include desktop {
+    font-size: scaling(18);
+    line-height: $lh-150;
+  }
+
+  @include desktop--small {
+    font-size: scaling(14);
+  }
+}
+
+@mixin heading-label {
+  font-size: scaling(14);
+  line-height: $lh-140;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: $fw-bold;
+  font-feature-settings: 'ss02' on;
+
+  @include desktop--large {
+    font-size: scaling(20);
+    line-height: $lh-120;
+  }
+
+  @include desktop {
+    font-size: scaling(18);
+    line-height: $lh-120;
+  }
+}
+
+@mixin body-1 {
+  font-size: scaling(18);
+  line-height: $lh-170;
+  font-family: $family-graphic;
+
+  @include desktop--large {
+    font-size: scaling(28);
+  }
+
+  @include desktop {
+    font-size: scaling(22);
+  }
+
+  @include laptop {
+    line-height: $lh-160;
+  }
+
+  @include tablet {
+    font-size: scaling(16);
+    line-height: $lh-160;
+  }
+
+  @include mobile {
+    font-size: scaling(14);
+    line-height: $lh-160;
+  }
+}
+
+@mixin body-2 {
+  line-height: $lh-140;
+  font-family: $family-graphic;
+
+  @include desktop--large {
+    font-size: scaling(24);
+  }
+
+  @include desktop {
+    font-size: scaling(20);
+  }
+
+  @include desktop--small {
+    font-size: scaling(16);
+    line-height: $lh-170;
+  }
+}
+
+@mixin body-3 {
+  line-height: $lh-130;
+  font-family: $family-graphic;
+
+  @include desktop--large {
+    font-size: scaling(20);
+  }
+
+  @include desktop() {
+    font-size: scaling(18);
+  }
+
+  @include desktop--small {
+    font-size: scaling(16);
+    line-height: $lh-170;
+  }
+}
+
+@mixin body-4 {
+  font-size: scaling(24);
+  line-height: $lh-150;
+  letter-spacing: 0.02em;
+  font-feature-settings: 'cpsp' on;
+
+  @include desktop--large {
+    font-size: scaling(40);
+  }
+
+  @include desktop {
+    font-size: scaling(32);
+  }
+
+  @include desktop--small {
+    font-size: scaling(28);
+  }
+
+  @include mobile {
+    font-size: scaling(20);
+    letter-spacing: 0;
+  }
+}
+
+@mixin caption-1 {
+  font-size: scaling(12);
+  line-height: $lh-150;
+  font-family: $family-graphic;
+
+  @include desktop--large {
+    font-size: scaling(16);
+  }
+
+  @include desktop {
+    font-size: scaling(14);
+  }
+
+  @include tablet {
+    line-height: $lh-160;
+  }
+}
+
+@mixin caption-2 {
+  font-size: scaling(14);
+  line-height: $lh-130;
+  font-family: $family-graphic;
+
+  @include desktop--large {
+    font-size: scaling(20);
+  }
+
+  @include desktop {
+    font-size: scaling(18);
+  }
+
+  @include mobile {
+    font-size: scaling(12);
+  }
+}
+
+@mixin button-text {
+  font-size: scaling(14);
+  line-height: $lh-140;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: $fw-bold;
+  font-feature-settings: 'ss02' on;
+
+  @include desktop--large {
+    font-size: scaling(20);
+    line-height: $lh-120;
+  }
+
+  @include desktop {
+    font-size: scaling(18);
+    line-height: $lh-120;
+  }
+}
+
+// text mixins
+// title with font-size: 176px
+@mixin title--big {
+  font-family: $family-apoc;
+  font-weight: $fw-light;
+  font-size: scaling(176);
+  line-height: $lh-120;
+  text-transform: uppercase;
+  font-feature-settings: 'ss02' on;
+
+  @include desktop {
+    font-size: scaling(126);
+  }
+
+  @include desktop--small {
+    font-size: scaling(106);
+  }
+
+  @include laptop {
+    font-size: scaling(86);
+  }
+
+  @include tablet {
+    font-size: scaling(86);
+    line-height: $lh-110;
+  }
+
+  @include mobile {
+    font-size: scaling(44);
+    line-height: $lh-110;
+  }
+}
+
+// heading 1 with font-size: 80px
+@mixin title--block {
+  font-family: $family-apoc;
+  font-weight: $fw-normal;
+  font-size: scaling(80);
+  line-height: $lh-110;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-feature-settings: 'ss02' on;
+
+  @include desktop {
+    font-size: scaling(64);
+  }
+
+  @include desktop--small {
+    font-size: scaling(55);
+  }
+
+  @include laptop {
+    font-size: scaling(48);
+  }
+
+  @include tablet {
+    font-size: scaling(44);
+  }
+
+  @include mobile {
+    font-size: scaling(20);
+    line-height: $lh-120;
+  }
+}
+
+// heading 2 with font-size: 36px
+@mixin title {
+  font-family: $family-apoc;
+  font-weight: $fw-normal;
+  font-size: scaling(36);
+  line-height: $lh-110;
+  text-transform: uppercase;
+  font-feature-settings: 'ss02' on;
+
+  @include desktop {
+    font-size: scaling(28);
+  }
+
+  @include desktop--small {
+    font-size: scaling(24);
+  }
+
+  @include laptop {
+    font-size: scaling(20);
+    line-height: $lh-120;
+    letter-spacing: 0.02em;
+  }
+
+  @include tablet {
+    font-size: scaling(20);
+    line-height: $lh-120;
+    letter-spacing: 0.02em;
+  }
+
+  @include mobile {
+    font-size: scaling(24);
+    line-height: $lh-110;
+    letter-spacing: 0.02em;
+  }
+}
+
+// heading 2 sans with font-size: 36px
+@mixin title--sans {
+  font-family: $family-graphic;
+  font-weight: $fw-normal;
+  font-size: scaling(20);
+  line-height: $lh-110;
+  text-transform: uppercase;
+  font-feature-settings: 'cpsp' on;
+
+  @include desktop--large {
+    font-size: scaling(36);
+  }
+
+  @include desktop {
+    font-size: scaling(28);
+  }
+
+  @include desktop--small {
+    font-size: scaling(24);
+  }
+}
+
+// body-2 with font-size: 36px
+@mixin text--big {
+  font-family: $family-graphic;
+  font-weight: $fw-normal;
+  font-size: scaling(20);
+  letter-spacing: 0;
+  line-height: $lh-130;
+  font-feature-settings: 'cpsp' on;
+
+  @include desktop--large {
+    font-size: scaling(36);
+    letter-spacing: -0.01em;
+  }
+
+  @include desktop {
+    font-size: scaling(28);
+    letter-spacing: -0.01em;
+  }
+
+  @include desktop--small {
+    font-size: scaling(24);
+  }
+}
+
+// body-2 with font-size: 20px;
+@mixin text {
+  font-family: $family-graphic;
+  font-weight: $fw-normal;
+  font-size: scaling(14);
+  line-height: $lh-130;
+
+  @include desktop--large {
+    font-size: scaling(20);
+  }
+
+  @include desktop {
+    font-size: scaling(18);
+  }
+}
+
+// button with font-size: 20px
+@mixin text--button {
+  font-family: $family-apoc;
+  font-weight: $fw-bold;
+  font-size: scaling(14);
+  line-height: $lh-120;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-feature-settings: 'ss02' on;
+
+  @include desktop--large {
+    font-size: scaling(20);
+  }
+
+  @include desktop {
+    font-size: scaling(18);
+  }
+}
+
+// caption with font-size: 14px
+@mixin text--caption {
+  font-family: $family-graphic;
+  font-weight: $fw-normal;
+  font-size: scaling(12);
+  line-height: $lh-130;
+
+  @include desktop--large {
+    font-size: scaling(14);
+    line-height: $lh-150;
+  }
+
+  @include desktop {
+    font-size: scaling(14);
+    line-height: $lh-150;
+  }
+
+  @include desktop--small {
+    line-height: $lh-140;
+  }
+
+  @include laptop {
+    line-height: $lh-140;
+  }
+}
+
+// Grid mixins
+@mixin m-aspectRatio($width, $height) {
+  position: relative;
+
+  &:before {
+    display: block;
+    content: '';
+    width: 100%;
+    padding-top: (($height / $width) * 100%);
+  }
+}
+
+@mixin m-absoluteSvg {
+  svg {
+    @include m-absolute100;
+
+    //fix IE, Edge and Safari bugs with ignoring click on painted areas (when listeners set throught delegation)
+    //when svg inserted with use
+    //https://stackoverflow.com/questions/24078524/vg-click-events-not-firing-bubbling-when-using-use-element
+    pointer-events: none;
+  }
+}
+
+@mixin m-objectFit($size: cover, $position: center) {
+  object-fit: $size;
+  object-position: $position;
+}
+
+@mixin m-absoluteObjectFit($size: cover, $position: center) {
+  @include m-absolute100;
+  @include m-objectFit($size, $position);
+}
+
+@mixin m-absolute100 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@mixin m-relative100 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+@mixin u-noList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+@mixin m-scrollbarHidden {
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

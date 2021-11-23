@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "title": "Контакты"
+  },
+  "type": "contacts",
+  "scenes": [
+    {
+      "name": "Историческая сцена",
+      "address": "Театральная площадь, 1",
+      "image": "/images/about/contacts/scene-1.png",
+      "image2x": "/images/about/contacts/scene-1@2x.png"
+    },
+    {
+      "name": "Новая сцена",
+      "address": "Большая Дмитровка, 4с2",
+      "image": "/images/about/contacts/scene-2.png",
+      "image2x": "/images/about/contacts/scene-2@2x.png"
+    },
+    {
+      "name": "Камерная сцена",
+      "address": "Никольская, 17/1",
+      "image": "/images/about/contacts/scene-3.png",
+      "image2x": "/images/about/contacts/scene-3@2x.png"
+    },
+    {
+      "name": "Бетховенский зал",
+      "address": "Театральная площадь, 1, 13 п",
+      "image": "/images/about/contacts/scene-4.png",
+      "image2x": "/images/about/contacts/scene-4@2x.png"
+    }
+  ],
+  "sellingCard": {
+    "leftImage": "/images/about/contacts/tickets.png",
+    "leftImage2x": "/images/about/contacts/tickets@2x.png",
+    "mobImage": "/images/about/contacts/tickets-mob.png",
+    "mobImage2x": "/images/about/contacts/tickets-mob@2x.png",
+    "title": "Справки относительно\nпродажи билетов",
+    "contacts": [
+      {
+        "type": "phone",
+        "caption": "Телефон:",
+        "title": "+7 (495) 455 5555"
+      },
+      {
+        "type": "phone",
+        "caption": "Факс:",
+        "title": "+7 (495) 692 0050"
+      },
+      {
+        "type": "mail",
+        "caption": "Электронная почта:",
+        "title": "sales@bolshoi.ru"
+      }
+    ]
+  },
+  "storeCard": {
+    "contentImage": "/images/about/contacts/binocle.jpg",
+    "contentImage2x": "/images/about/contacts/binocle@2x.jpg",
+    "title": "Магазин",
+    "contacts": [
+      {
+        "type": "mail",
+        "caption": "Электронная почта:",
+        "title": "souvenir.shop@bolshoi.ru"
+      }
+    ]
+  },
+  "pressCard": {
+    "title": "Пресс-служба",
+    "contacts": [
+      {
+        "rows": [
+          {
+            "items": [
+              {
+                "type": "phone",
+                "caption": "Телефон:",
+                "title": "+7 495 692-0818"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "phone",
+                "caption": "Факс:",
+                "title": "+7 495 692 3367"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rows": [
+          {
+            "items": [
+              {
+                "caption": "Пресс-секретарь:",
+                "title": "Катерина Новикова"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "mail",
+                "caption": "Электронная почта:",
+                "title": "pr@bolshoi.ru"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "museumCard": {
+    "rightImage": "/images/about/contacts/jacket.jpg",
+    "rightImage2x": "/images/about/contacts/jacket@2x.jpg",
+    "title": "Музей",
+    "contacts": [
+      {
+        "type": "phone",
+        "caption": "Фондохранение: ",
+        "title": "+7 (495) 306-6814"
+      },
+      {
+        "type": "phone",
+        "caption": "Организация экскурсий:",
+        "title": "+7 (495) 621-3138"
+      },
+      {
+        "type": "mail",
+        "caption": "Электронная почта:",
+        "title": "museum@bolshoi.ru"
+      }
+    ]
+  },
+  "sponsorCard": {
+    "title": "Спонсорство",
+    "contacts": [
+      {
+        "rows": [
+          {
+            "items": [
+              {
+                "type": "phone",
+                "caption": "Телефон:",
+                "title": "+7 495 692-3200"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "mail",
+                "caption": "Почта:",
+                "title": "sponsor@bolshoi.ru"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "fondCard": {
+    "title": "Фонд Большого театра",
+    "contacts": [
+      {
+        "rows": [
+          {
+            "items": [
+              {
+                "type": "phone",
+                "caption": "Телефон:",
+                "title": "+7 495 692-3200"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "mail",
+                "caption": "Почта:",
+                "title": "sponsor@bolshoi.ru"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "rows": [
+          {
+            "small": true,
+            "items": [
+              {
+                "caption": "Корреспондентский счет:",
+                "title": "30101810700000000187 в ОПЕРУ Московского\nГТУ Банка России"
+              }
+            ]
+          },
+          {
+            "small": true,
+            "items": [
+              {
+                "caption": "Расчетный счет:",
+                "title": "40703810400140000011 в ОАО Банк ВТБ (103031, г.Москва, Кузнецкий мост, д.16; отделение банка — 127006, г.Москва, ул.Долгоруковская)"
+              }
+            ]
+          },
+          {
+            "small": true,
+            "items": [
+              {
+                "caption": "Адрес:",
+                "title": "125009, Москва, Театральная площадь, 1"
+              }
+            ]
+          },
+          {
+            "small": true,
+            "items": [
+              {
+                "caption": "ИНН:",
+                "title": "7707313561"
+              },
+              {
+                "caption": "КПП:",
+                "title": "770701001"
+              },
+              {
+                "caption": "БИК:",
+                "title": "044525187"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "requisiteCard": {
+    "title": "Реквизиты",
+    "contacts": [
+      {
+        "rows": [
+          {
+            "items": [
+              {
+                "caption": "Наименование:",
+                "title": "Государственный академический Большой театр России"
+              }
+            ]
+          },
+          {
+            "small": true,
+            "items": [
+              {
+                "caption": "Адрес:",
+                "title": "125009, Москва, Театральная площадь, 1"
+              }
+            ]
+          },
+          {
+            "small": true,
+            "items": [
+              {
+                "caption": "ИНН: ",
+                "title": "7707079537"
+              },
+              {
+                "caption": "ОРГН:",
+                "title": "1027739856539"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

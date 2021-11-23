@@ -1,0 +1,837 @@
+[
+  {
+    "type": "item",
+    "size": "full",
+    "items": [
+      {
+        "kind": "p",
+        "link": {
+          "url": "/performances/0"
+        },
+        "is_with_label": true,
+        "category": "b",
+        "size_title": "big",
+        "title": "Жизель",
+        "text": "24–26 января на исторической сцене",
+        "description": "26 явнаря в 18:00 прямая трансляция в кинотеатрах\nи на YouTube по московскому времени",
+        "image": {
+          "full": "/images/index/blocks/1.jpg",
+          "small": "/images/index/blocks/1-mob.jpg"
+        },
+        "buttons": [
+          {
+            "isPrimary": true,
+            "text": "Билеты",
+            "url": "https://ticket.bolshoi.ru/",
+            "theme": "red",
+            "isExternal": true
+          },
+          {
+            "isPrimary": false,
+            "text": "Анонс",
+            "url": "/",
+            "theme": "white"
+          }
+        ],
+        "theme_text": "white",
+        "theme_button_accent": "red",
+        "theme_button_additional": "white"
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "size": "large",
+    "items": [
+      {
+        "kind": "p",
+        "link": {
+          "url": "/performances/0"
+        },
+        "is_with_label": true,
+        "category": "o",
+        "size_title": "small",
+        "title": "Сказка о царе Салтане",
+        "text": "12 февраля\nна исторической сцене",
+        "image": {
+          "full": "/images/index/blocks/2.jpg",
+          "small": "/images/index/blocks/2-mob.jpg"
+        },
+        "buttons": [
+          {
+            "isPrimary": true,
+            "text": "Билеты",
+            "url": "https://ticket.bolshoi.ru/",
+            "theme": "white",
+            "isExternal": true
+          },
+          {
+            "isPrimary": false,
+            "text": "Анонс",
+            "url": "/",
+            "theme": "white"
+          }
+        ],
+        "theme_text": "white",
+        "theme_button_accent": "white",
+        "theme_button_additional": "white"
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "size": "high",
+    "items": [
+      {
+        "type": "model",
+        "link": {
+          "url": "/visit/kak-kupit-bilet-v-kassakh"
+        },
+        "is_with_label": false,
+        "size_title": "small",
+        "title": "Визит\nв театр",
+        "text": "Как купить билет, что надеть —\nвся необходимая информация перед походом в театр в одном месте",
+        "image": {
+          "full": "/images/index/blocks/facade.png",
+          "small": "/images/index/blocks/facade-mob.png"
+        },
+        "theme_text": "white"
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "size": "large",
+    "items": [
+      {
+        "kind": "p",
+        "link": {
+          "url": "/performances/0"
+        },
+        "person": {
+          "align": "left",
+          "url": "/persons/1",
+          "image": "/images/index/blocks/people-1.png",
+          "name": "Анна Никулина",
+          "position": "Балерина"
+        },
+        "is_with_label": false,
+        "category": "o",
+        "size_title": "small",
+        "title": "Борис\nгодунов",
+        "text": "19 сентября\nна исторической сцене",
+        "image": {
+          "full": "/images/index/blocks/3.jpg",
+          "small": "/images/index/blocks/3-mob.jpg"
+        },
+        "buttons": [
+          {
+            "isPrimary": true,
+            "text": "Билеты",
+            "url": "https://ticket.bolshoi.ru/",
+            "theme": "red",
+            "isExternal": true
+          }
+        ],
+        "theme_text": "black"
+      }
+    ]
+  },
+  {
+    "type": "group",
+    "size": "full",
+    "items": [
+      {
+        "type": "preview",
+        "is_with_label": false,
+        "size_title": "small",
+        "title": "К 90-летию Юрия\nГригоровича",
+        "text": "Фестиваль спектаклей",
+        "image": {
+          "full": "/images/index/blocks/slide-1.jpg",
+          "small": "/images/index/blocks/slide-1-mob.jpg"
+        },
+        "theme_text": "white",
+        "theme_navigation": "white"
+      },
+      {
+        "kind": "p",
+        "link": {
+          "url": "/performances/0"
+        },
+        "is_with_label": false,
+        "category": "b",
+        "size_title": "small",
+        "title": "Дон Кихот",
+        "text": "17 ноября на исторической сцене",
+        "image": {
+          "full": "/images/index/blocks/slide-2.jpg",
+          "small": "/images/index/blocks/slide-2-mob.jpg"
+        },
+        "buttons": [
+          {
+            "isPrimary": true,
+            "text": "Билеты",
+            "url": "https://ticket.bolshoi.ru/",
+            "theme": "red",
+            "isExternal": true
+          }
+        ],
+        "theme_text": "white",
+        "theme_navigation": "white"
+      },
+      {
+        "kind": "p",
+        "link": {
+          "url": "/performances/0"
+        },
+        "is_with_label": false,
+        "category": "Музыкальная драма",
+        "size_title": "small",
+        "title": "Саломея",
+        "text": "C 19 по 23 мая на исторической сцене",
+        "image": {
+          "full": "/images/index/blocks/slide-3.jpg",
+          "small": "/images/index/blocks/slide-3-mob.jpg"
+        },
+        "buttons": [
+          {
+            "isPrimary": true,
+            "text": "Билеты",
+            "url": "https://ticket.bolshoi.ru/",
+            "theme": "red",
+            "isExternal": true
+          }
+        ],
+        "theme_text": "white",
+        "theme_navigation": "white"
+      }
+    ]
+  },
+  {
+    "type": "events",
+    "events": [
+      {
+        "url": "/performances/0",
+        "date": "18 сентября",
+        "time": "19:00",
+        "image": "/images/index/blocks/events/1.jpg",
+        "category": "Опера",
+        "title": "Юлий Цезарь и Клеопатра"
+      },
+      {
+        "url": "/performances/0",
+        "date": "22 сентября",
+        "time": "19:00",
+        "image": "/images/index/blocks/events/2.jpg",
+        "category": "Опера",
+        "title": "Спящая красавица"
+      },
+      {
+        "url": "/performances/0",
+        "date": "21 сентября",
+        "time": "19:00",
+        "image": "/images/index/blocks/events/3.jpg",
+        "category": "Балет",
+        "title": "Лебединое\nозеро"
+      },
+      {
+        "url": "/performances/0",
+        "date": "28 сентября",
+        "time": "19:00",
+        "image": "/images/index/blocks/events/4.jpg",
+        "category": "Опера",
+        "title": "Онегин"
+      },
+      {
+        "url": "/performances/0",
+        "date": "18 сентября",
+        "time": "19:00",
+        "image": "/images/index/blocks/events/1.jpg",
+        "category": "Опера",
+        "title": "Юлий Цезарь и Клеопатра"
+      },
+      {
+        "url": "/performances/0",
+        "date": "22 сентября",
+        "time": "19:00",
+        "image": "/images/index/blocks/events/2.jpg",
+        "category": "Опера",
+        "title": "Спящая красавица"
+      },
+      {
+        "url": "/performances/0",
+        "date": "21 сентября",
+        "time": "19:00",
+        "image": "/images/index/blocks/events/3.jpg",
+        "category": "Балет",
+        "title": "Лебединое\nозеро"
+      },
+      {
+        "url": "/performances/0",
+        "date": "28 сентября",
+        "time": "19:00",
+        "image": "/images/index/blocks/events/4.jpg",
+        "category": "Опера",
+        "title": "Онегин"
+      }
+    ]
+  },
+  {
+    "type": "partners",
+    "partners": [
+      {
+        "url": "https://www.ingos.ru/",
+        "image": "/images/index/blocks/partners/1.png",
+        "image2x": "/images/index/blocks/partners/1@2x.png",
+        "type": "Генеральный спонсор Большого театра"
+      },
+      {
+        "url": "https://www.credit-suisse.com/ru/ru.html",
+        "image": "/images/index/blocks/partners/2.png",
+        "image2x": "/images/index/blocks/partners/2@2x.png",
+        "type": "Привилегированный спонсор Большого театра"
+      },
+      {
+        "url": "https://gum.ru/",
+        "image": "/images/index/blocks/partners/3.png",
+        "image2x": "/images/index/blocks/partners/3@2x.png",
+        "type": "Привилегированный партнер Большого театра"
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "size": "full",
+    "items": [
+      {
+        "kind": "a",
+        "url": "/performances/0",
+        "label": "Объявление",
+        "is_with_label": true,
+        "size_title": "small",
+        "title": "Большой театр России объявляет конкурс\nв симфонический оркестр",
+        "text": "Подать заявку можно с 6 сентября по 19 ноября",
+        "image": {
+          "full": "/images/index/blocks/5.jpg",
+          "small": "/images/index/blocks/5-mob.jpg"
+        },
+        "buttons": [
+          {
+            "isPrimary": true,
+            "text": "Подать заявку",
+            "url": "/",
+            "theme": "red"
+          },
+          {
+            "isPrimary": false,
+            "text": "о наборе",
+            "url": "/",
+            "theme": "black"
+          }
+        ],
+        "theme_text": "black",
+        "theme_navigation": "black"
+      }
+    ]
+  },
+  {
+    "type": "news",
+    "items": [
+      {
+        "id": 4582,
+        "title": "Большой балет \nна экране\nКиносезон\n2021–22",
+        "description": "date",
+        "text": "subtitle",
+        "image": {
+          "full": {
+            "image": "http://127.0.0.1:8000/media/home/images/8_ru_lcmsosnotieiyih_1400x700_p.jpg",
+            "image2x": "http://127.0.0.1:8000/media/home/images/8_ru_lcmsosnotieiyih_2800x1400_p.jpg"
+          },
+          "small": null
+        },
+        "buttons": [
+          {
+            "url": "/news/broadcasts/357-teatralnyy-kinosezon-2021-2022/",
+            "text": "Смотреть трансляции",
+            "isExternal": false
+          },
+          {
+            "url": "https://google.com/",
+            "text": "Доп кнопка",
+            "isExternal": true
+          }
+        ],
+        "size_title": null,
+        "theme_text": null,
+        "theme_text_hover": null,
+        "theme_navigation": null,
+        "theme_button_accent": "red",
+        "theme_button_additional": null,
+        "category": "section",
+        "is_with_label": false,
+        "label": null,
+        "kind": "n-5",
+        "link": null,
+        "scene": null
+      }
+    ],
+    "news": [
+      {
+        "url": "/news/news-1",
+        "date": "19 декабря",
+        "category": "Категория новости",
+        "title": "Очень длинное название новости",
+        "text": "Очень длинный текст новости"
+      },
+      {
+        "url": "/news/news-1",
+        "date": "20 декабря",
+        "category": "Категория новости",
+        "title": "Очень длинное название новости",
+        "text": "Очень длинный текст новости"
+      },
+      {
+        "url": "/news/news-1",
+        "date": "21 декабря",
+        "category": "Категория новости",
+        "title": "Очень длинное название новости",
+        "text": "Очень длинный текст новости"
+      },
+      {
+        "url": "/news/news-1",
+        "date": "22 декабря",
+        "category": "Категория новости",
+        "title": "Очень длинное название новости",
+        "text": "Очень длинный текст новости"
+      }
+    ],
+    "newsChanges": [
+      {
+        "date": "19 декабря",
+        "category": "Балет",
+        "title": "Дебюты в балете  «Жизель»",
+        "caption": "Редакция А. Ратманского",
+        "dates": [
+          {
+            "date": "5 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-1.jpg",
+                "role": "Крестьянское па де де",
+                "name": "Дмитрий Смилевски"
+              }
+            ]
+          },
+          {
+            "date": "6 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-2.jpg",
+                "role": "Герцог",
+                "name": "Никита Еликаров"
+              }
+            ]
+          }
+        ],
+        "url": "/news/1",
+        "urlPerformance": "/performances/0"
+      },
+      {
+        "date": "19 декабря",
+        "category": "Опера",
+        "title": "Опера «Иоланта»",
+        "dates": [
+          {
+            "date": "1 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-3.jpg",
+                "role": "Иоланта",
+                "name": "Динара Алиева"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-4.jpg",
+                "role": "Эбн-Хакиа",
+                "name": "Эльчин Азизов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-5.jpg",
+                "role": "Водемон",
+                "name": "Олег Долгов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-6.jpg",
+                "role": "Роберт",
+                "name": "Василий Ладюк"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-3.jpg",
+                "role": "Иоланта",
+                "name": "Динара Алиева"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-4.jpg",
+                "role": "Эбн-Хакиа",
+                "name": "Эльчин Азизов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-5.jpg",
+                "role": "Водемон",
+                "name": "Олег Долгов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-6.jpg",
+                "role": "Роберт",
+                "name": "Василий Ладюк"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-3.jpg",
+                "role": "Иоланта",
+                "name": "Динара Алиева"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-4.jpg",
+                "role": "Эбн-Хакиа",
+                "name": "Эльчин Азизов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-5.jpg",
+                "role": "Водемон",
+                "name": "Олег Долгов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-6.jpg",
+                "role": "Роберт",
+                "name": "Василий Ладюк"
+              }
+            ]
+          },
+          {
+            "date": "2 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-7.jpg",
+                "role": "Иоланта",
+                "name": "Анна Нечаева"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-8.jpg",
+                "role": "Эбн-Хакиа",
+                "name": "Александр Касьянов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-5.jpg",
+                "role": "Водемон",
+                "name": "Олег Долгов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-6.jpg",
+                "role": "Роберт",
+                "name": "Василий Ладюк"
+              }
+            ]
+          }
+        ],
+        "url": "/news/1",
+        "urlPerformance": "/performances/0"
+      },
+      {
+        "date": "19 декабря",
+        "category": "Опера",
+        "title": "Опера «Иоланта»",
+        "dates": [
+          {
+            "date": "11 июня, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-9.jpg",
+                "role": "Стюард",
+                "name": "Дмитрий Дорохов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-10.jpg",
+                "role": "Сын пастуха",
+                "name": "Виталий Гетманов"
+              }
+            ]
+          },
+          {
+            "date": "12 июня, 12:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-11.jpg",
+                "role": "Молодая пастушка",
+                "name": "Елизавета Кокорева"
+              }
+            ]
+          },
+          {
+            "date": "14 июня, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-12.jpg",
+                "role": "Водемон",
+                "name": "Олег Долгов"
+              }
+            ]
+          }
+        ],
+        "url": "/news/1",
+        "urlPerformance": "/performances/0"
+      },
+      {
+        "date": "19 декабря",
+        "category": "Балет",
+        "title": "Дебюты в балете  «Жизель»",
+        "caption": "Редакция А. Ратманского",
+        "dates": [
+          {
+            "date": "5 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-1.jpg",
+                "role": "Крестьянское па де де",
+                "name": "Дмитрий Смилевски"
+              }
+            ]
+          },
+          {
+            "date": "6 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-2.jpg",
+                "role": "Герцог",
+                "name": "Никита Еликаров"
+              }
+            ]
+          },
+          {
+            "date": "6 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-2.jpg",
+                "role": "Герцог",
+                "name": "Никита Еликаров"
+              }
+            ]
+          },
+          {
+            "date": "6 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-2.jpg",
+                "role": "Герцог",
+                "name": "Никита Еликаров"
+              }
+            ]
+          },
+          {
+            "date": "6 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-2.jpg",
+                "role": "Герцог",
+                "name": "Никита Еликаров"
+              }
+            ]
+          }
+        ],
+        "url": "/news/1",
+        "urlPerformance": "/performances/0"
+      },
+      {
+        "date": "19 декабря",
+        "category": "Опера",
+        "title": "Опера «Иоланта»",
+        "dates": [
+          {
+            "date": "1 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-3.jpg",
+                "role": "Иоланта",
+                "name": "Динара Алиева"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-4.jpg",
+                "role": "Эбн-Хакиа",
+                "name": "Эльчин Азизов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-5.jpg",
+                "role": "Водемон",
+                "name": "Олег Долгов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-6.jpg",
+                "role": "Роберт",
+                "name": "Василий Ладюк"
+              }
+            ]
+          },
+          {
+            "date": "2 декабря, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-7.jpg",
+                "role": "Иоланта",
+                "name": "Анна Нечаева"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-8.jpg",
+                "role": "Эбн-Хакиа",
+                "name": "Александр Касьянов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-5.jpg",
+                "role": "Водемон",
+                "name": "Олег Долгов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-6.jpg",
+                "role": "Роберт",
+                "name": "Василий Ладюк"
+              }
+            ]
+          }
+        ],
+        "url": "/news/1",
+        "urlPerformance": "/performances/0"
+      },
+      {
+        "date": "19 декабря",
+        "category": "Опера",
+        "title": "Опера «Иоланта»",
+        "dates": [
+          {
+            "date": "11 июня, 19:00",
+            "people": [
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-9.jpg",
+                "role": "Стюард",
+                "name": "Дмитрий Дорохов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-10.jpg",
+                "role": "Сын пастуха",
+                "name": "Виталий Гетманов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-9.jpg",
+                "role": "Стюард",
+                "name": "Дмитрий Дорохов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-10.jpg",
+                "role": "Сын пастуха",
+                "name": "Виталий Гетманов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-9.jpg",
+                "role": "Стюард",
+                "name": "Дмитрий Дорохов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-10.jpg",
+                "role": "Сын пастуха",
+                "name": "Виталий Гетманов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-9.jpg",
+                "role": "Стюард",
+                "name": "Дмитрий Дорохов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-10.jpg",
+                "role": "Сын пастуха",
+                "name": "Виталий Гетманов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-9.jpg",
+                "role": "Стюард",
+                "name": "Дмитрий Дорохов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-10.jpg",
+                "role": "Сын пастуха",
+                "name": "Виталий Гетманов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-9.jpg",
+                "role": "Стюард",
+                "name": "Дмитрий Дорохов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-10.jpg",
+                "role": "Сын пастуха",
+                "name": "Виталий Гетманов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-9.jpg",
+                "role": "Стюард",
+                "name": "Дмитрий Дорохов"
+              },
+              {
+                "url": "/persons/1",
+                "img": "/images/index/blocks/news/person-10.jpg",
+                "role": "Сын пастуха",
+                "name": "Виталий Гетманов"
+              }
+            ]
+          }
+        ],
+        "url": "/news/1",
+        "urlPerformance": "/performances/0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "type": "concert",
+  "data": {
+    "title": "Антология русского классического романса. Микаэл Таривердиев",
+    "restriction": "12+",
+    "artists": "Артисты оркестра Большого театра",
+    "description": "К 90-летию со дня рождения композитора. Участвует в программе «Пушкинская карта»",
+    "date": "12 и 14 октября",
+    "time": "19:30 и 19:00",
+    "scene": "Бетховенский зал",
+    "sceneImage": "/images/scene/sceneNew-3.png",
+    "sceneImage2x": "/images/scene/sceneNew-3@2x.png",
+    "duration": "0 минут",
+    "tickets": [
+      {
+        "date": "12 октября",
+        "time": "19:30",
+        "day": "Вторник",
+        "priceRange": "1000₽",
+        "button": {
+          "type": "isRed",
+          "title": "Купить билет",
+          "url": "https://ticket.bolshoi.ru/show/1917"
+        }
+      },
+      {
+        "date": "14 октября",
+        "time": "19:00",
+        "day": "Четверг",
+        "priceRange": "1000₽",
+        "button": {
+          "type": "isRed",
+          "title": "Купить билет",
+          "url": "https://ticket.bolshoi.ru/show/1918"
+        }
+      }
+    ],
+    "suggestions": [
+      {
+        "url": "/season/concert/opera-apriori/",
+        "type": "Концерт артистов оркестра Большого театра",
+        "title": "Фортепианные трио",
+        "description": "Участвует в программе <a href=\"https://docs.culture.ru/pushka\" target=\"_blank\">«Пушкинская карта»</a>"
+      },
+      {
+        "url": "/season/concert/teacher-student/",
+        "type": "Концерт артистов оркестра Большого театра",
+        "title": "От учителя к ученику",
+        "description": "Участвует в программе <a href=\"https://docs.culture.ru/pushka\" target=\"_blank\">«Пушкинская карта»</a>"
+      },
+      {
+        "url": "/season/concert/opera-apriori/",
+        "type": "Концерт",
+        "title": "Сольный концерт Варвары Мягковой (фортепиано)",
+        "description": "В рамках VIII Международного фестиваля вокальной музыки «Опера Априори»"
+      },
+      {
+        "url": "/season/concert/chamber-music/",
+        "type": "Концерт артистов оркестра Большого театра",
+        "title": "Камерная музыка с арфой",
+        "description": "Участвует в программе <a href=\"https://docs.culture.ru/pushka\" target=\"_blank\">«Пушкинская карта»</a>"
+      }
+    ]
+  }
+}

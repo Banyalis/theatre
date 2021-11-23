@@ -1,0 +1,284 @@
+{
+  "sections": [
+    {
+      "groups": [
+        {
+          "small": true,
+          "position": "Артистки мимического ансамбля",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Нина",
+                      "lastName": "Авраменко"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Надежда",
+                      "lastName": "Анисифорова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Екатерина",
+                      "lastName": "Асанова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анастасия",
+                      "lastName": "Бардинская"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Надежда",
+                      "lastName": "Благова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Вера",
+                      "lastName": "Бондаренко"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Кристина",
+                      "lastName": "Бурцева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Алия",
+                      "lastName": "Гаджиева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Гарсиа Бенитес"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Гредасова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Алина",
+                      "lastName": "Гусакова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Аделя",
+                      "lastName": "Исхакова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Марина",
+                      "lastName": "Кабанова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Камила",
+                      "lastName": "Кассим"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Вероника",
+                      "lastName": "Колтыгина"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Кравцова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Юлия",
+                      "lastName": "Крутякова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Ольга",
+                      "lastName": "Кулько"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "small": true,
+          "position": "Артисты мимического ансамбля",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Роман",
+                      "lastName": "андриенко"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Виктор",
+                      "lastName": "Бодренков"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Виктор",
+                      "lastName": "Васильев"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Андрей",
+                      "lastName": "Волков"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Алексей",
+                      "lastName": "Волощенко"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Владимир",
+                      "lastName": "Гончаров"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Дмитрий",
+                      "lastName": "Гришин"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Игорь",
+                      "lastName": "Дремов"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Борис",
+                      "lastName": "Духновский"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Сергей",
+                      "lastName": "Дьячков"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Антон",
+                      "lastName": "Карпенко"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Михаил",
+                      "lastName": "Качан"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Павел",
+                      "lastName": "Козлов"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Егор",
+                      "lastName": "Кондратьев"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Кирилл",
+                      "lastName": "Куделин"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Владислав",
+                      "lastName": "Кузнецов"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Никита",
+                      "lastName": "Куклачев"
+                    },
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Евгений",
+                      "lastName": "Кулеш"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

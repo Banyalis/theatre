@@ -1,0 +1,134 @@
+{
+  "sections": [
+    {
+      "important": true,
+      "groups": [
+        {
+          "people": [
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Махар Вазиев",
+              "position": "Руководитель балетной труппы"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Юрий Григорович",
+              "position": "Балетмейстер"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Галина Степаненко",
+              "position": "Заведующая балетной труппой"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Дмитрий Романенко",
+              "position": "Заместитель заведующей балетной труппой"
+            },
+            {
+              "important": true,
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Ольга Тубалова",
+              "position": "Помощник руководителя балетной труппы"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Балетмейстеры-репетиторы",
+      "groups": [
+        {
+          "people": [
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Светлана Адырхаева"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Борис Акимов"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Мария Аллаш"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-9.jpeg",
+              "image2x": "",
+              "name": "Анна Антропова"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-1.jpeg",
+              "image2x": "",
+              "name": "Виктор Барыкин"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-2.jpeg",
+              "image2x": "",
+              "name": "Андрей Болотин"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-3.jpeg",
+              "image2x": "",
+              "name": "Александр Ветров"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-4.jpeg",
+              "image2x": "",
+              "name": "Юрий Владимиров"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-5.jpeg",
+              "image2x": "",
+              "name": "Ян Годовский"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-6.jpeg",
+              "image2x": "",
+              "name": "Надежда Грачева"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-7.jpeg",
+              "image2x": "",
+              "name": "Карэн Иоаннисян"
+            },
+            {
+              "url": "/persons/1",
+              "image": "/images/people/people-8.jpeg",
+              "image2x": "",
+              "name": "Петр Казьмирук"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

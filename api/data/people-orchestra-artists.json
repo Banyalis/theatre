@@ -1,0 +1,624 @@
+{
+  "sections": [
+    {
+      "title": "Первые скрипки",
+      "groups": [
+        {
+          "small": true,
+          "position": "концертмейстеры",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Галина",
+                      "lastName": "Войниченко"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анна",
+                      "lastName": "Волкова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Светлана",
+                      "lastName": "Грабарь"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Дементьева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Дятлова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Наталья",
+                      "lastName": "Копырова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Лазарева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анастасия",
+                      "lastName": "Леонова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анна",
+                      "lastName": "Лукина"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Малышева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Снежана",
+                      "lastName": "Миронова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Тамила",
+                      "lastName": "Румянцева"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {}
+      ]
+    },
+    {
+      "title": "Вторые скрипки",
+      "groups": [
+        {
+          "small": true,
+          "position": "концертмейстеры",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Галина",
+                      "lastName": "Войниченко"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анна",
+                      "lastName": "Волкова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Светлана",
+                      "lastName": "Грабарь"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Дементьева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Дятлова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Наталья",
+                      "lastName": "Копырова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Лазарева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анастасия",
+                      "lastName": "Леонова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анна",
+                      "lastName": "Лукина"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Малышева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Снежана",
+                      "lastName": "Миронова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Тамила",
+                      "lastName": "Румянцева"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {}
+      ]
+    },
+    {
+      "title": "Альты",
+      "groups": [
+        {
+          "small": true,
+          "position": "концертмейстеры",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Галина",
+                      "lastName": "Войниченко"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анна",
+                      "lastName": "Волкова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Светлана",
+                      "lastName": "Грабарь"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Дементьева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Дятлова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Наталья",
+                      "lastName": "Копырова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Лазарева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анастасия",
+                      "lastName": "Леонова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анна",
+                      "lastName": "Лукина"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Малышева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Снежана",
+                      "lastName": "Миронова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Тамила",
+                      "lastName": "Румянцева"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {}
+      ]
+    },
+    {
+      "title": "Виолончели",
+      "groups": [
+        {
+          "small": true,
+          "position": "концертмейстеры",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Галина",
+                      "lastName": "Войниченко"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анна",
+                      "lastName": "Волкова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Светлана",
+                      "lastName": "Грабарь"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Дементьева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Дятлова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Наталья",
+                      "lastName": "Копырова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Лазарева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анастасия",
+                      "lastName": "Леонова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анна",
+                      "lastName": "Лукина"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Малышева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Снежана",
+                      "lastName": "Миронова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Тамила",
+                      "lastName": "Румянцева"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {}
+      ]
+    },
+    {
+      "title": "Контрабасы",
+      "groups": [
+        {
+          "small": true,
+          "position": "концертмейстеры",
+          "list": [
+            {
+              "roles": [
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Галина",
+                      "lastName": "Войниченко"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анна",
+                      "lastName": "Волкова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Светлана",
+                      "lastName": "Грабарь"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Дементьева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Дятлова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Наталья",
+                      "lastName": "Копырова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Елена",
+                      "lastName": "Лазарева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анастасия",
+                      "lastName": "Леонова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Анна",
+                      "lastName": "Лукина"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Татьяна",
+                      "lastName": "Малышева"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Снежана",
+                      "lastName": "Миронова"
+                    }
+                  ]
+                },
+                {
+                  "members": [
+                    {
+                      "url": "/persons/1",
+                      "firstName": "Тамила",
+                      "lastName": "Румянцева"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {}
+      ]
+    }
+  ]
+}

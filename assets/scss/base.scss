@@ -1,0 +1,141 @@
+:root {
+  --scale: 100vw / #{$sw-desktop--large};
+
+  @include desktop--large {
+    --scale: 100vw / #{$sw-desktop--large};
+  }
+
+  @include desktop {
+    --scale: 100vw / #{$sw-desktop};
+  }
+
+  @include desktop--small {
+    --scale: 100vw / #{$sw-desktop--small};
+  }
+
+  @include laptop {
+    --scale: 100vw / #{$sw-laptop};
+  }
+
+  @include tablet {
+    --scale: 100vw / #{$sw-tablet};
+  }
+
+  @include mobile {
+    --scale: 100vw / #{$sw-mobile};
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  // fix for safari bug with css variables(--scale * x) — bug with calc() with view units / Safari / iOS Safari
+  min-height: 0vw;
+}
+
+html {
+  overflow-x: hidden;
+  overflow-y: scroll;
+
+  // &.b-popupOpen {
+  //   overflow-y: hidden;
+  //   padding-right: var(--scrollbar-width);
+  // }
+}
+
+body {
+  font-family: $family-apoc;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: $family-graphic;
+}
+
+a {
+  text-decoration: none;
+}
+
+//to render empty paragraphs
+p:empty {
+  &:after {
+    content: '\00a0'; //invisible symbol
+  }
+}
+
+button {
+  outline: none;
+  border: none;
+  background: none;
+}
+
+// Base styles that can be used across all project
+.b-paddings {
+  padding-left: 16px;
+  padding-right: 16px;
+
+  @include desktop--large {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+
+  @include desktop {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  @include desktop--small {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+// Base styles that can be used across all project
+.b-scaled-paddings {
+  padding-left: scaling(16);
+  padding-right: scaling(16);
+
+  @include desktop--large {
+    padding-left: scaling(32);
+    padding-right: scaling(32);
+  }
+
+  @include desktop {
+    padding-left: scaling(24);
+    padding-right: scaling(24);
+  }
+
+  @include desktop--small {
+    padding-left: scaling(20);
+    padding-right: scaling(20);
+  }
+}
+
+.b-scroll-locked {
+  overflow: hidden;
+}
+
+.b-hidden-link {
+  position: absolute;
+  top: 0;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  z-index: $z-hiddenLink;
+}
+
+.b-visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}

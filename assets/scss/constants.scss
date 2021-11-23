@@ -1,0 +1,80 @@
+// Typography
+$family-apoc: 'Apoc LC';
+$family-apoc--revelations: 'Apoc LC Revelations';
+$family-apoc--sans: 'Apoc LC Sans';
+
+$family-graphic: 'Graphik LC';
+$family-graphic--super: 'Graphik LC Super';
+
+// Font-weights
+$fw-thin: 100;
+$fw-ultraLight: 200;
+$fw-light: 300;
+$fw-normal: 400;
+$fw-medium: 500;
+$fw-semiBold: 600;
+$fw-bold: 700;
+$fw-extraBold: 800;
+$fw-black: 900;
+
+// line-heights
+$lh-170: 1.7;
+$lh-160: 1.6;
+$lh-150: 1.5;
+$lh-140: 1.4;
+$lh-130: 1.3;
+$lh-120: 1.2;
+$lh-110: 1.1;
+$lh-100: 1;
+
+// Colors
+$c-black: #000;
+$c-black--lighten: #191919;
+$c-black--header: #0f0f0f;
+$c-background--dark: #1a1a1a;
+$c-gray--header: #393939;
+$c-gray-95: #f2f2f2;
+$c-gray-80: #cccccc;
+$c-gray: #808080;
+$c-gray-light: #c4c4c4;
+$c-white: #fff;
+$c-gold--home: #e5c677;
+$c-gold: #b39038;
+$c-gold--lighten: #c3a760;
+$c-gold--darken: #b29038;
+$c-red: #b11632;
+$c-red--light: #b5203a;
+$c-green: #3a7a5b;
+$c-blue: #3e6e9b;
+$c-navy: #284680;
+$c-purple: #805296;
+$c-pink: #ffeff2;
+$c-pink--dark: #f7cfc9;
+$c-yellow: #dcc792;
+$c-yellow--darken: #ffda7b;
+
+// breakpoints values
+$bp-mobile--small: 320px;
+$bp-mobile: 768px;
+$bp-tablet: 960px;
+$bp-laptop: 1200px;
+$bp-desktop: 1440px;
+$bp-desktop--large: 1920px;
+
+// screen widths
+$sw-desktop--large: 1920;
+$sw-desktop: 1440;
+$sw-desktop--small: 1200;
+$sw-laptop: 960;
+$sw-tablet: 768;
+$sw-mobile: 320;
+
+// duration values
+$d-hover: 0.2s;
+
+// z-indexes
+$z-one: 1;
+$z-two: 2;
+$z-hiddenLink: 3;
+$z-header: 50;
+$z-popup: 1000;

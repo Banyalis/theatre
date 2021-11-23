@@ -1,0 +1,62 @@
+[
+    {
+        "id": 2,
+        "date": "4 Сентябрь",
+        "datetime": "2021-09-04T12:00:00",
+        "day": "Суббота",
+        "time": "12:00",
+        "title": "Жизель",
+        "subtitle": null,
+        "description": null,
+        "slug": "zhizel",
+        "category": "ballet",
+        "url": "/performances/ballet/zhizel/",
+        "image": "/images/index/blocks/events/1.jpg",
+        "image2x": "/images/index/blocks/events/1.jpg"
+    },
+    {
+        "id": 16,
+        "date": "4 Сентябрь",
+        "datetime": "2021-09-04T12:00:00",
+        "day": "Суббота",
+        "time": "12:00",
+        "title": "Борис Годунов",
+        "subtitle": null,
+        "description": null,
+        "slug": "boris-godunov",
+        "category": "opera",
+        "url": "/performances/opera/boris-godunov/",
+        "image": "/images/index/blocks/events/2.jpg",
+        "image2x": "/images/index/blocks/events/2.jpg"
+    },
+    {
+        "id": 13,
+        "date": "4 Сентябрь",
+        "datetime": "2021-09-04T14:00:00",
+        "day": "Суббота",
+        "time": "14:00",
+        "title": "Саломея",
+        "subtitle": null,
+        "description": null,
+        "slug": "salomeya",
+        "category": "opera",
+        "url": "/performances/opera/salomeya/",
+        "image": "/images/index/blocks/events/3.jpg",
+        "image2x": "/images/index/blocks/events/3.jpg"
+    },
+    {
+        "id": 17,
+        "date": "6 Сентябрь",
+        "datetime": "2021-09-06T12:00:00",
+        "day": "Понедельник",
+        "time": "12:00",
+        "title": "Борис Годунов",
+        "subtitle": null,
+        "description": null,
+        "slug": "boris-godunov",
+        "category": "opera",
+        "url": "/performances/opera/boris-godunov/",
+        "image": "/images/index/blocks/events/4.jpg",
+        "image2x": "/images/index/blocks/events/4.jpg"
+    }
+]
